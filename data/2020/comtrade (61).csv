@@ -1,0 +1,785 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,553603,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,500120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,60994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16882438,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3675646,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2117965,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2595493,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,134166,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,257599,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,500000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,6848391,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9999484,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,27260,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,602364,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4337179,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,26096,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,92817260,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2344583,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1039897,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7257737,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,177300,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2482520,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,309969,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,31482,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1565603,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3748672,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,755620,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,54823,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5138,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2208788,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,92151,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,44648,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,103835,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,6156575,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,22529,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,933228,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,39805329,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1993925,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,17548,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1860,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,15925,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47564401,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,754221,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,0,,644459,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,20695883,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,345441,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,287203,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16846985,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1376870,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,92312,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7996129,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,172817,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,103829469,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,34527,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,25191019,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,233471,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,301718,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1998122,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1560,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,483872,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,124936,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3628741,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3162722,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,91019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,415040,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3166547,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,475158,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,34310,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,472178,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,218825,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2641947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,391225,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,131872,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,829058,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2745803,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,718048,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40022,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,16196830,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,378210,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2024992,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,76047,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,144613,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,36213563,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,59381961,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,322927,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,34700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2529582,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,271170,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,734874,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,188561,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,98877,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,977287,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,37084641,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,782842,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,607873,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,39212594,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1744,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,9700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1350,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,440777,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,800948,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1245097,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10297866,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,10852,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2159,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3261378,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1408333,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,413596,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15397328,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1563510,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,92158,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2736724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,517504,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,836839,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,646075,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,,,3779856,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,31407,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,772229,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,165075,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,64573,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,,,93088720,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,213485,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2551173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,83068,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,125181,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2281827,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,77160266,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1549830,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1750959,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3876935,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2596120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,64633388,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,938846,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,283603,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,417008,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,466622,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,506984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1694206,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,590473,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,35811,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,13803671,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1054129,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,441736,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,231664,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,14740234,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10540802,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,72244,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20331455,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,27300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8814122,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1604115,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,31416445,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,561388,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,14785768,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1450656,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,38788204,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,,,4173617,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,57286,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,,,113823261,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,77163603,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1456096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,32913,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1434367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,367003,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4939,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1358018,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,510478,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3931,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,11854,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17304285,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,612813,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,5716047,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1385819,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,385147,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3974003,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2307884,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1433714,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,71881,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4264288,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,18542,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1771183,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5616,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,508193,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,285789,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,505960,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,6693707,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,448720,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,857815,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,772459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2426488,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,536671,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2742175,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21649013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,290518,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,342262,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,27005,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1170580,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,269771,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,127389,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,86846,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,15302195,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,51692552,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,563453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1877937,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,824362,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1731234,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,339167,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20466400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2377404,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,346973,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1153260,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3714175,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1946843,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,1432698,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,470237,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2331717,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4528027,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3380302,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,56236112,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,68944,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,17272,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3984984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,50954248,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2664106,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1947617,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3266931,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,49137594,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,248954,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,216007,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,191860,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1466794,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,256471,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,261830,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,13829874,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,858614,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,35088,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1810231,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,20570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,569592,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7929222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2778151,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,123546,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,901806,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2628385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,124543,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,279046,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1818283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,2766778,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1028037,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3578086,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,169662,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1966335,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12508029,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1785285,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,287521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,12886865,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,22900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1337555,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,445037,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5206,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,579719,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3131,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1893532,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1154186,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,509851,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2769267,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1803416,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,192604,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,236170,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2207049,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,931860,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1185066,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1012483,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2409514,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,121170,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,117236978,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7388439,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,216611,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1230943,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,35017,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,14090938,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,535951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,570722,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,148920897,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3564507,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,150136,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,73355939,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2805887,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11352,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,30799307,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1284954,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,61570,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,386033,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,876286,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11808,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,24502952,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,709760,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1484843,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,16444533,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26419282,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,341650,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,448819,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,275766,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,219409,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7965542,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3910896,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1872322,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4399772,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,152092,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2351652,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,62032306,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,997106,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7245881,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9036323,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3292266,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,10058291,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,150883,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,153777,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,41851,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1618751,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,96900013,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1971608,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3596432,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,141122,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2436106,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,179920,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2132186,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6686062,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,16150863,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2481661,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4986231,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2453242,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2485887,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,674781,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,118388,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,16057695,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1260032,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,43729484,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,23418,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,212605,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,77891695,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1209406676,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11885326,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5576639,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,39800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1907651,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,3341816,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4198406,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,335418,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,114653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,212990,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,73775,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2422163,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,63390,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,145833,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,596909,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,14399703,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1142363,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,139354,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9806,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,338024,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1143412,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1764522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,53200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3102276,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,852372,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,18376,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1688661,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,442439,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1282930,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1399498,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1776273,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2684537,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,290676,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,551170000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,807798,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,30052703,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1473663,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,782540,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,154293,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2636602,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,530938,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8025951,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5547862,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2964805,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3098603,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,20260551,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,60791,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1130422,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,461380,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,455368,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,15367765,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,98261082,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1401881,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,528765,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,1923033,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,11255367,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,281055,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,944033,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,15396,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1390047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1177627,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,9297735,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,13859,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,514994,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,85989,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,152849,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,58165,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,48653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,23160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,,,51418465,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,47333927,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1935024,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,231005,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,30,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,11310890,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,7449097,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1198301,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,89793,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2288109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1074375,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1164363,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,681160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,1581541,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8221265,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,435170,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14775078,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2554955,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2431612,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,240760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1956167,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,11965,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1279043,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,35382,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,290776,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,403236,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,519100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2215281,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,123760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1641766,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,423596,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2345038,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2388786,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,508018,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1270737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,203042,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,205637,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,849925,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,7656,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,289433,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,8759,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2995,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2494749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,824581,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,201282,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,34121,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2264307,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11405160,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,30161,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,551350275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7963818,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33610273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,245520,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1448889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,735970,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,12745120,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1444205,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,90836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,48913,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,42970612,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3635233,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,298387,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17072587,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1338026,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4074343,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,19325139,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2911721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,64447651,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,80322,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4966373,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,17710,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,588112,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5167658,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,30191,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,540143,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1153225,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,457301,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8996,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,212785,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,680251,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,683048,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,467594,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,696979,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,11756435,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27136218,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5132434,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,489776202,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,858069,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,298920,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,2093533,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,905054,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2342447,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,119400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2206497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,54932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2556761296,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1218182,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3010755,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5256838,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1258511,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,86324726,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,9050929,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1551280,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3454391,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,25047785,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2545611,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,104568,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,534816,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,105061,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,84736,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16424572,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,14440537,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,109633,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,274529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,260490,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,206228,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,,,4257810,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,257764,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,,,111587306,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1843466,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2648373,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,299275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,131442,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,41856777,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,4746511,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,11449247,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,2301306,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,314988,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,745999,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1617292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,723652,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,3530262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,58635,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2322014,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,9043341,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,11286274,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,179459,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,10215,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,508625,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,819833,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,583658,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,21798191,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,18903221,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1494356,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2092907,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1814685,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,23571640,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,415743,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,16611791,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,51677648,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,615036,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,244770,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,35885,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1899866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26791737,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,247465,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10793894,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,985516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,921942,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,15547075,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,694479,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,24804,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5153,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,201434,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3040,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,469083,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1448993,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1450153,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1371823,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18101686,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2182198,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,933376,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,929780,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,878266,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,671598,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4479302,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1474915,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2962541,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,44788,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2709404,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,653334,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,336743,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,38042,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1406,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,379025,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,187680,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,602704,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4451,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4070,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,733026,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,876999,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,173760,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1337043,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2780292,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,45304,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5363493,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,642801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1234341,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,912923,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,862103,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,100049,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,47540748,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,15000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,53952,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,420967,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,68944451,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,895856,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3385863,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2676111,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,25260476,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,192669,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7615010,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5422331,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4266925,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7090107,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6217668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1369847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,491912,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,120,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14001262,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27876809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1891913,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,49620267,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,908176,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17583562,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1372817,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1947210,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3322,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4462955,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,39531,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,557088,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,147161,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,669034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2500801,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,118527,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1720121,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1820251,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,253,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,41823799,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2283730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,430682,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3284754,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,12730,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3628566,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,264521,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,61306,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,933631,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,292455,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,735652,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5467,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2242462,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,846223,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14240,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,60934,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,30308,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1238643,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2995162,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,9489043,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,13017,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,80805200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,4097230,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,37250226,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,86495272,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1635136,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,41779403,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,79700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1276847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1149401,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,172508,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1559,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,27124,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,42589771,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,777075,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,228614,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,554400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,31662593,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,9712399,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2272343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,131975,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,159526,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,,,1019272,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,,,71814809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,105952,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1630157,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,338627,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,120216,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,35989885,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,1964560,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,491465,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,833779,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1285047,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,1739705,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,45917,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3386595,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8683533,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1797632,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,251,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1434110,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,415955,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1538237,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,660094,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4088761,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1015786,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,143182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12431574,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1059173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,440303,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21334,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,9947,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,734375,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3521368,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,308672,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,55422099,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7184765,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,38642,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,538320,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,267534,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,409790,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3375048,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,334030,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,281250,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,711097,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,526056,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5371,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,156885,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2273545,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2452277,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,21663,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1965139,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,144379,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,43105,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1086049,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,926560,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,23594172,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,467957,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,57718446,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3659495,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,858645,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,238800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1805836,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2350,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4583,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,618691,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2717714,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1343775,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,96923,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,246926,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1565241,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,464758,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4908364,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,71500,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,115430502,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3349920,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6277780,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7916620,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1428017,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,154270,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3408382,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,155856,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,49844548,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3628,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2067322,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,709840,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,72632,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14053662,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6464,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,492252,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,68087958,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2352081,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,188351,,,0

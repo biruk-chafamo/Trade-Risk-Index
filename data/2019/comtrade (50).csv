@@ -1,0 +1,999 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,737136,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,257890,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,397418,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,61711,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,666,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,872896,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,111845,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,19762,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,995749,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1364610,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,66201,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1707751,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,28177,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,759720,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,849853,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,131085,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1311377,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,62724,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,104988,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,967527,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,45823,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,376266,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,12604101,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3521887,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,15789,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,46818,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6707,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4987,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,724401,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,22666,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1613816,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3492523,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,795323,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,40537,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,786187,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12023,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,21065,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1429614,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7347524,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2369578,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3608,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52218,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,27494,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,16753,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1090515,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1027515,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1146512,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7982740,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,12605334,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,39637,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1057205,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,23181439,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1515281,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,46484,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,174,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7469232,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8945364,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17511559,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,724376,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1863927,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,27250,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,140985,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7479021,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14346533,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,742487,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,29127019,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1732483,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,9839,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,109064,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7566184,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16693094,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,736341,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18428902,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,968573,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,12668,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3013008,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1662437,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,612820,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4430729,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2225786,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,479483,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17622502,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1239083,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17156,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,149,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,167232,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,18729,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1878823,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,392207,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16387103,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,774333,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3177096,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2687,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,172924,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15770137,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,178061,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,772972,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9931,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,75150,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10252764,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,26645241,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,171466,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,91903,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,150308,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,78268,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,57560,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,24955,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,81404,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,78183,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,13308092,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,59826,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,22700,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,32486,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,101513,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,47908,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,22160,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12974776,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,130862,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,142954,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,991772,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,953315,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1041575,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,915602,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,77703,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,181139,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,31005,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1254360,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,907167,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,973442,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,33070,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,207431,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,64332,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2223340,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1938501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1289800,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,380184,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1272873,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,140401,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,261956,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,34538,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,91317,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1686314,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1350395,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,154770,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,557907,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18967,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1131219,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,704507,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,138917,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,101361,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36591,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,91866,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11265,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,862,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,10668794,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,72990,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3449022,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1267369,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,76046,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,17328,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,133140,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,342719,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3455,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,13833961,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,80854,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,27831054,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1999650,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1306479,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,50719,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,15746,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12485463,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,19175366,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,109672,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,115668,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,115845,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,231156,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,12750,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7500,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,104521,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12290998,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15605177,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,25797,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,44609,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,92190,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,23754,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,39246,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11335,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,46428,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,100206,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12935396,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1618825,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,81182,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1168391,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50584,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1941147,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1206125,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,62538,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8750,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,772151,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2019850,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,146127,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,7200,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,928879,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,33039,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1129327,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1265025,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,184839,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,975859,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,66101,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1155951,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48557,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,834342,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1048315,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,34006,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,69257,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,66644,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,21018,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4600297,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1668040,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,29954,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,430293,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,42249,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,36833,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1245125,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,417512,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,766376,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,35091,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,340624,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,68651,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,36217,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1386239,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4025245,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8399558,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,70373,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,401953,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5220,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,23691,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1620604,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,92892,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,222814,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2121306,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1788021,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1427959,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,517901,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2601325,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13307,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,250162,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,72883,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1448180,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1068857,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2379084,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13478,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,256874,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,26272,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1617943,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1957137,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1449872,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,646341,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1908130,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,121815,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,209617,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,147,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3028645,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3134275,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4639666,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,66384,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,102549,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1700269,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,15256,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,36,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,107132,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8406863,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3583267,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3953047,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,100669,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,8564,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,92648,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1587841,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,37602,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,112,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,225399,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5279749,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3622406,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2977500,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,162724,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,212,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4071852,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,9311,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1958304,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,282465,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1156968,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20611515,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1097854,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20383,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5202010,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,661,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1349280,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,339049,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17575183,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1285185,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1196448,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15096,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5030872,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1417784,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,232936,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1068525,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,37718,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,21414424,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1508942,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4633232,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5151,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2229250,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,278420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,287084,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,288207,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,20951482,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1762661,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5082,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,16052,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1790073,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7599249,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13179746,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,265076,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,626848,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,31435654,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,69533,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6452727,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,44513,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,926854,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,11787481,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4049,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1916435,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1920,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,15734573,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,14078,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8069688,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16127007,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,188692,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,161780,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,359229,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,606,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,111269,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,121947,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,129453,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,309832,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2162585,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,513147,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,63785,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,7662,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,17321729,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,79877,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,274592,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,611049,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1453968,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,69682,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,33732,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,121942,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,764,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,27107458,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,330404,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1367295,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,119648,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,142901,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,478641,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,447193,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,190145,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,148635,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,24030,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,65621,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,62330,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13414071,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,16464,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,82796,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12825485,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,13372821,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,105129,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,31180,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,97951,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,54282,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,45413,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,18130240,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13707108,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,118462,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1787256,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,38701741,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,104492,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,110993,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,898,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1770267,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,430802,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,59388032,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,588601,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,175279,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5251,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,81030,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3097818,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48195107,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,95394,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,50594443,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,6748,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10220,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2704501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,395719,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,95468,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6078,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1802199,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,139006,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1220169,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,120445,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,768863,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,26624,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,373359,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1468053,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,111139,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1224284,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1135473,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,29985,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,828481,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,79992,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,481498,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1644039,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,984779,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,43301,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,844839,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,30585,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1216013,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,60700,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,646878,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,928979,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,85344,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,637086,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4074407,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5119247,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,56157,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,687872,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,23,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1673150,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3242197,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,15074,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,785827,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,103608,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,207,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2027262,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6180504,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2021722,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,38051,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1279,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,745170,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,965910,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2263204,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5593897,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,99303,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4611,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2733,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4986460,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,57377,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1100207,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,213624,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,127071,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8779800,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3992610,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3682818,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,180798,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,76644,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1329881,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,294286,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,218490,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8098783,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4235810,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1410988,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,41062,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3674702,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,86014,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,190414,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,240206,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,172732,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2263022,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3972973,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1272202,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19761,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,116947,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,24324,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,72839,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,45709,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,33828,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12167194,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11142192,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,132874,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,43873,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,88760,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,32229,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3039,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9426,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,7987,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,45477,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,88418,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12915592,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,18876294,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10797,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,7532,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,82052,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,336756,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1308819,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,549147,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,44392,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,138603,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,515629,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,932,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,10851804,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,138155,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,163708,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,159387,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,243632,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2185066,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,742179,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,59083,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,19818518,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,,,15945840,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,66321,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,394670,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,18969412,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1742414,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2044360,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,19860,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,74981,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,242566,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1160260,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,201718,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,235,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,22960,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,37733,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,352427,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1159275,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,170557,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1018577,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1486418,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,50830,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,18186,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1336647,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1397627,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,61612,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,40458,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,238723,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,879051,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1491993,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,178086,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,89505,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1458118,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1413091,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,110903,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,202,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,34188,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,91492,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1456422,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2342887,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1034655,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,159233,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,238379,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,63777,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2135737,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,92941,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2003067,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1602596,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1301797,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1239953,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,207656,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,183111,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1756460,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1807012,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2414157,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,102180,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,264720,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,25950,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1853932,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1260,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1137676,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,987616,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4470050,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,559425,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17425066,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3359,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2262157,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,341287,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,257263,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1050523,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,503161,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16915730,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,42023,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4400180,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,23030,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2911775,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,12571,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19008659,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1013485,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1264815,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4941833,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2211005,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,390401,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,649427,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2627815,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,364231,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,203744,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14031218,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,307728,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,88455,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,100980,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1393,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,40631,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,101760,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11362862,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,132034,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,64109,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,70659,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,46540,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2415,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13253155,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,21793458,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,267478,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,129171,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,343150,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,17608,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12847924,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1430565,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,25642165,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1191,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1989778,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7494475,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16085643,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,38491,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,340723,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15074761,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1864960,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,12168,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8509654,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18555418,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,120179,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,530548,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,31855790,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20174,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1825304,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,19362,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5289,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8339542,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17567187,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,505415,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15697825,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4073,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1681307,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,73947,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,159715,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,38942,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1813724,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1523941,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,1290227,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2103811,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1761240,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,86203,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,202100,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,59185,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,32544,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3550547,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5276,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1139093,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2034274,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,22193538,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6642,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4701940,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1902849,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,404200,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,153235,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,749821,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,113084,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,365,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1201947,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,9311,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,140881,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,627708,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,583511,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,688719,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,19122,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,665122,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,773095,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,834405,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1686,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,348672,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,219950,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,551675,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,912564,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1092902,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,4912,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,116706,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,729016,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,562561,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1142132,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,66,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,13220,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,203052,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,776628,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,945337,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1102311,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,150960,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,29261384,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,123194,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1213,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,95592,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,28668,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,89417,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50119,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13989643,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3734117,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,101241,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,18858,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1459,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,273230,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,61773,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,17184327,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1263479,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3855340,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,85594,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,61158,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,244139,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5318078,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4060534,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,877921,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4527469,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,125289,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,144189,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,568592,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,242269,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,4209724,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5018126,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3697108,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,326673,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,644,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,30637848,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,129115,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,90521,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1985711,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,923924,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,41940,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,747251,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,646,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,29325,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,21168905,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2173511,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1108710,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,43882,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,70849,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,256150,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,142973,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,17973878,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,482838,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,453885,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1413191,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,729612,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,91018,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,77514,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,143925,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,955,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,49408383,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,114644,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,473,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2745097,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,530361,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,100627,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,46285034,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9400,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,967,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3269327,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,647984,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,87385,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,42383936,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4600,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,479,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2611452,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,335912,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,50410840,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,941,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,102868,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4406877,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,476049,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,56619,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,222161,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6420,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1017841,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,13602592,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3178478,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,97126,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,51031,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,19794,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,533585,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,661440,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,29721,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,410281,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,24701,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,24259,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1235320,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4290209,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3302394,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14975,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,202075,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,26139,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,739333,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9133607,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3644334,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,15976,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,16562,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,103951,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1372,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1316654,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,92734,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6745387,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10703653,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,380299,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,24164866,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1594370,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,50169,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,114138,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,25129379,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,100846,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1174352,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,126,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1753295,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,20447,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7458479,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13256818,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,279,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,11514,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,379636,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1660451,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,119421,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4637,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,32000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,368388,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1151650,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,222832,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,4,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,603762,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1550683,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,248992,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,50,Silk,,,,,,,0,,817,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,60503,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1746741,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1046177,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,136054,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,26132,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,23954,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,760561,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,910564,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,121668,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1363,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,23097,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,211808,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2154797,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,202843,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1495,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,17402,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9053586,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,67535,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,13233,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,699618,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,285,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4504584,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,153139,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2696931,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,16692,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,752366,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,90,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12258629,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3134638,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,52688,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,35637,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,688506,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16823,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4347696,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3186973,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,124120,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,13538,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,823838,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,91,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1680508,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2986721,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,420517,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,423055,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,53953196,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,903,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,84906,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2970186,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,37659793,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,384538,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,52522913,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9689,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,839,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,142772,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3696732,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,58599,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,735,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,640,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3726924,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,516895,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1934993,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10742,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1191,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,72527,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,266202,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,144840,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,48879384,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,328928,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5475,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,552,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3012471,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,15643,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6020797,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,71529,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,918683,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4584499,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,25829,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2720752,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,212250,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,767157,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,978,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5041598,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,791889,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,203,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4778,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2512381,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6881433,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,17323,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,785653,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,605,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1661022,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2813859,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,153807,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,88622,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,129849,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,240633,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8099593,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3868834,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1234300,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,75004,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3243295,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,66670,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,116620,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,14,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,336840,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7626023,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3450145,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,605751,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3087226,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,291336,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,12297,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,95623,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,634462,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,37946,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,130137,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18449288,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4314892,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3449245,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,126417,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2038044,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,106256,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,153404,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,10825,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,473660,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,874673,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1388715,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5888,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1413757,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,149648,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,606822,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1278286,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2667,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,265960,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,275365,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,716383,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1102164,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1188421,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2559,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,848809,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,223344,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,438506,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1037913,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,11952,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,13268,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,543401,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,244877,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,716313,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,814798,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15972,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2406900,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,395733,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,301795,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1023204,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,265,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1151137,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,6762,,,0

@@ -1,0 +1,776 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,75351785,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,84024289,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,322462089,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6315269,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,4120,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,52774739,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6501617740,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,24700843815,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1593761988,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,6086648,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,109819077,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,1871023,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,2467434,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,272086575,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,173394902,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,35847615,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,288586485,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,260579725,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2001508,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,6502968,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,45664526,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,21287064,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,643590667,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,75523687,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,33742,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,71174099,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,56225343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,109947,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,31089,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,364702239,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,11092999,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,446790568,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,22990927,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,47724,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,7260029,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,31123596,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,5637711,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,7071331909,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,66645399,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,47648845,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,8770493,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,34744483,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,13431018,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,280793727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,212145,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,133164971,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,45172752,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,4544296,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,5090865444,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,20702278,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,36831019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,30736752,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1895321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,928629,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,137370309,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,45288811,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,268489294,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,267939018,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,66519620,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,4488160,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,450405809,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,2621247,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,1787532,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,96876919,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,18296693547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1026004427,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1850616,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4703984736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,94543881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,14850,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,61920513,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,489374952,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,583570,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,140216844,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,41950299,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,284783629,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,141120951,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,28864546,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,148457,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,192463426,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,31364004,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,15988576,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,5428919,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,3790253,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,35612758,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,26666632,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,2440737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,80574,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,15408892,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44441745,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2811518177,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11700764,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,68765573,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,25929120,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,34863771,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,29270,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6191789,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,22624353,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,227804407,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3875297,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10015840,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,81994118,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,18232659,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1571528,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14840184,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,70324044,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,47627347,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1546610,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,47717,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,50754590,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,38013460,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47560547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,36415429,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,27408,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,236812082,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6878933,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,48307330,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1293904,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8943512,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4012558,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,69450240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,222536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,14571836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1300563,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,111173708,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3288374,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3665772,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10838880,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2188769,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16855312,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,311893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,479483,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5671945,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,35052350,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6569692,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7267594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,23822900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,16060965,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,33212746,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,1509407,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,60427692,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4815348,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6231125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,46739104,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,54946826,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3485379,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,66547524,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9945976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8095827,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,41062758,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,9279002,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26755857,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7092486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,22388282,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,116189021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,35062320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,65923148,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7811783,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3481024,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,20457393,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,60092735,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,90041769,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,54461183,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2486099,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,300077,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6693718,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,88494104,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1333555,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1194005,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,37713067,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,18725130,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,556563382,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,30585,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,31601582,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,26191502,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,56581249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,85978544,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,443318,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3685640,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5192314,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2677112,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,11016980,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,23621012,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9110253,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,11044612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,47151297,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5129956,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1351872,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,574407,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,13217596,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17127796,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,34717940,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,128030929,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,1038946,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5063819,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7513068,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,51406637,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3038985,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,57435299,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,70648083,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,197706,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,94046624,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,91551580,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1494163,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,30939727,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,20701703,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,30438,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,3726608043,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,4386863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,59674677,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,64502947,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,10674607,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,32517750,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,336334665,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,251459209,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,16053740,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,39325533,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,316781678,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,165362,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,159634153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,70864165,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,6742,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,512704458,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,91542154,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,643,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,54080552,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,498316932,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5052125,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,4787769157,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1223423786,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,20762112290,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,2681328,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,106242704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,3177719,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,3170833,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1951611,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,5988367,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,33804685,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,56072842,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,370963725,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,379307875,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,209485035,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,17580096,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,221418592,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,165789671,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,56165896,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,294056591,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4827981,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,276270542,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,294875063,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,37798861,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,25323650,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,4848717,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,955290,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,3669806,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,3941864,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,125009431,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,25153812663,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1574204737,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1128171,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6583025247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6437101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,536620967,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,51472924,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,99766361,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,710368275,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,39271,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,83370957,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,106648825,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,903343,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,280890818,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,72388,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,356269741,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,38453275,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,241941514,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,46997140,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,9705302,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,50950103,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,71722701,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,18487,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,26615558,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,31397962,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1735527,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,107536423,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,49638530,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,202324,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13070494,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,61238951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9113386,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,18444601,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,71847950,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,77933430,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,12343247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15138529,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,81595,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,101015091,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,48854321,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,144858765,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16528391,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,28571851,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,36145310,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1585075,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,66289453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3160270,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,26046,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,66998005,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,74414823,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,75181999,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6648105,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,77089549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1111698,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,729307,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,38377189,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,45833929,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,242137162,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5916711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,34485559,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1107890,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,168809146,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,14887619,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3447549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5109899,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3500253,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,33140751,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23520197,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,812158,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2013516,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8302057,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,27690226,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,47321873,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,1797762,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,109052115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4183711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,10718700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,90353521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,96336545,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5850094,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,94353033,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8139089,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9136032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,35937612,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,55117209,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,131057627,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,43697719,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,68386161,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,275594605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4978655,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,244017,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2583629,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7671363,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1499389,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,387393344,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2736664,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1420177,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,7130490,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8161632,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,95621467,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,41994917,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,52202749,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,25164964,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,26989816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,108991626,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,1991217,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6646100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13952735,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,4109426,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9904411,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6287242,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,285880139,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,34799617,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11300082,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,843285,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,551583,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23037470,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,38293012,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4256766,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,34791729,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,34192960,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,67161515,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,712096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,59043003,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,69727595,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,65665000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,21306888,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,83424077,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,27212771,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,691185,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,23226028,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,44876357,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,6600922,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,45624117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2262517,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,235776558,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,208216945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,160485453,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,164540140,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,7191091262,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,2283780,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1566278424,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,23898658438,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,117234098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,4008201,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,2656648,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,92254599,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,14531,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,50233090,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,285649570,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,7063671,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,31894443,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,76274806,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,21578,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,711834506,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,19761509,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,65046845,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,87540,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,297104692,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,93602,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,410205342,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,4088821,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,34763469,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,22152841,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,44403680,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,4706581,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,10787641,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,45813473,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,217447775,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,377191,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,43129035,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,144121324,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11366449,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5823979122,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,69402500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5117441,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8985413,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,35174522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,57670079,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,77004429,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,15011721,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,252483209,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3696418,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,46369210,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,20008968,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,58854506,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,26924995,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,613266,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,27890443,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,69646611,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,95510212,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10813157,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,58843498,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8173805,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2708149,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,213229,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,61678001,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,70580327,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,11491411,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1719423,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,675824,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,394173496,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3936196,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,37648180,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,40906430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,43214480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,300719170,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,848533,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5184874,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3380623,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9857686,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1521535,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,32443512,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,37333391,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23461642,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,747740,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1141860,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10774137,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,24872,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13053135,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24489379,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,32767753,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,921149,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,99030610,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,8028193,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,87920466,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8305237,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,54647211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,54084309,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,376351,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,109665325,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,42966798,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,8040531,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,257021859,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,39107796,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,15048820,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,34121471,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,29577641,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,39633,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,20917489,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,69961805,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,48604308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,367546743,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,50496984,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,108929,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,389919918,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,78677613,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,35776,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,87796352,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,633894045,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6080453717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,24489963465,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1488132751,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,24659863,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,104940509,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,2132195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,80706602,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6568290,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,370975055,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,52826783,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,179078438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,109659049,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,293755367,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,357636592,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1010972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,5941696,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,,,38977453,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,28844254,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26290793,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,300261642,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4981868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2602009,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,21563315,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,45657225,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,42349592,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5116570981,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4403209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14246106,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21535961,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,29323029,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,120540873,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,1102994,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,7833982,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,8450709,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10254359,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,66118243,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,38753064,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,46064248,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,50905784,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,868535,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,184754868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1597282,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,7907598,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3274388,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8472837,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6225200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8369797,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,36032889,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5576315,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16153150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,773056,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,14410613,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,59330,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,45907236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1054334,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,478261,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,142674499,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,28120104,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3594281,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,71311,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,33841312,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,31064271,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,58529381,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,55856215,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,62495343,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,300786,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2505223,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,11130114,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,17461158,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,86504683,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,38085835,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,22772749,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,661926,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,69346454,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,23071069,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,20905928,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,70545897,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,909123,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,28403444,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1282312,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,35897500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,7063231,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,40452276,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,100174092,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26023341,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,432867156,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,294952256,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,19166350,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,299557769,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8953677,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,74779386,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,177663468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8390084,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2264291,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,54108,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,73764864,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,72858666,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,49278911,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,61010354,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6231732614,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,70613171,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,102997662,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,3531122,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,37080225,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,38315273,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,30640,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,55838585,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7040641,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,32651461,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,86408548,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,166869,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,98283545,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,900841,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,686382611,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,63469089,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11922649,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,289249,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11158761,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1008771,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15809646,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,361477221,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5156257,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,37362783,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9349134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,62560419,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8280599,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,11957647,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3962760,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,6155749,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1483812,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,223432283,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,980612,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,34617619,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25664520,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,49831753,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,54959273,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,531211,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,75494503,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6203474,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,39011965,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9095426,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,23730660,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25275331,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,5091529,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5769792774,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,54199020,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,64903803,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6269341,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7978570,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,35382761,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,996261,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,137710766,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,28213175,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21673949,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15935016,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,11908642,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,283467263,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,151583,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,30251611,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,94762003,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,5659,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,180806217,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,386059196,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,113454,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,2380979,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,53497913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1629916994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,26546016164,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,8255,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,468101891,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,8615445,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,17353442,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,18507886,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,50527191,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,37391239,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1194859,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,19529054,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1135811,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,79442523,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,12830621,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,175551738,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,34661036,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7655559,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,299384844,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,13937752,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,327881501,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,422361046,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,30256072,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,120256436,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,50171156,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,86759849,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,71701981,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,145976,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1843529,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8022545,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,31445433565,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,73711325,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2895846,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,117769771,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,69735271,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,47564,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,122554631,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,51128579,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,23137313,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,55573,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,46222437,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,40967354,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,228137,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,89433940,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,15366396,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,51677809,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,732442754,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1240339,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,49337553,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,10536320,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,772283,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,204473112,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1796856,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,7161524,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5007031,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9536952,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,55937290,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10306006,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,93125920,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4667558,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,485456982,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19760654,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1098637,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10527958,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,386884,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41477955,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2615850,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,98191149,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,222369,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,52,Cotton,,,,,,,0,,64421032,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,76199820,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3466723,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6816626,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,24027697,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,73068640,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,51796471,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4902656,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36252312,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,8517820,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6678593,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13113671,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,26177523,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,37316704,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,119452452,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,50,Silk,,,,,,,0,,721897,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,39652380,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,153829407,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6581811894,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1539194445,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,3225,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,12025723,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,595331008,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,13417466,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,2805839,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,7393848,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,17716,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,468633282,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,12791000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,46235,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,8883221134,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,20056732,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,372721041,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,94829140,,,0

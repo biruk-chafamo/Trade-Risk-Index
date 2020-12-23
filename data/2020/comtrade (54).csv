@@ -1,0 +1,964 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,8576814,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,153471423,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,16892368,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,38975113,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,63276201,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,810433606,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,3275919,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,653948,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,38302900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,28539511,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,582088925,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,16019188,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,7798729,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,19009102,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,1310673,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,10685205,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,512152962,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,11150046,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,323465734,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,17606394,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,42536042,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,188601,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,12444099,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,14523248,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,17028765,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,109769252,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,87657048,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5594030,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13119083,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10247457,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,548135,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9769867,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11611663,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14164202,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25902834,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1427144,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2027495,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,28586947,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,193580,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,134641712,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,34764412,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,12714995,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,48232358,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5047303,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,4079990,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3343869,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3407310,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5577939,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21629332,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,288610,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,407648360,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52453387,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,22601406,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,855573,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,22120798,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19057816,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1583051,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3604989,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,53854033,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,22444818,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,48617341,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,11122119,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,745375,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1967165,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,23652554,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,33686,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,59960051,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,20252084,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,61111,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,8752208,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1391172,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22673308,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,55896981,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,92245,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7317386,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,313488,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,12237392,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11997777,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4933584,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9018208,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,10435398,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,11012391,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,19461164,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,30110579,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,871000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,46467,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,8375501,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,91365965,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,271504549,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,5055742,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,4261909,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,8809761,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,9293149,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1509709,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1627383,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1463434,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5601701,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3057155,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,306760553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,3445391,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,615628215,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,79233190,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1433593,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,51032974,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,32116847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,6382255,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,9024696,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1578271,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,22041482,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,20275794,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,617457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,23107034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,7931573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,8953355,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,202598,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,7207078,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,40230342,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,87688096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,102660195,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,33041346,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,31599581,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,24466393,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1780391,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,132224574,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,55673955,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1231547124,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11848723,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,40391257,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5081164,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,6079846,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,37092400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,633104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20397189,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,13224929,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,22061198,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17179387,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,304093127,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,46698592,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1267827,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1636255,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,19941435,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8351734,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16726557,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7896984,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,23887514,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4416123,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,36284841,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,30342315,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,849685674,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,85650824,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,14885885,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,19260049,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,47016038,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,81919,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,212009,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,46485051,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1525132,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7642672,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7374102,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,69236,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,17959278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,12789,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,29364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3307152,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1125402,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1547298,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,629800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,4050255,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4069808,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1378367,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,336419117,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43667095,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,14800762,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,4981,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,325666,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7022276,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,16782737,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,16397357,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2845120,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3214020,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,255731265,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4649227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,912766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18939866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,19634381,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1225200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19581492,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,22257015,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3549031,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19748126,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9098325,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,16938886,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1117344313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,21606757,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,43664340,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12590207,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,32855643,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,28556173,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,838889,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2152064,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3504922,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,87726208,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12653851,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,68940,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,17909741,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,14199157,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,177821,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3874485,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,30720,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,38015414,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,78946190,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7257316,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,30275050,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,27562511,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,12512,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,108237517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,71259,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,881805,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1398094,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,56550701,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6143963,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8275,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6240584,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,138155345,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1633471,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5562143,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,579174,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,12605486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,179172,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,9223301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,476637814,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6005288,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,26930424,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10917200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,51506298,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,15031299,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,30966898,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20098472,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,18000986,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13562331,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1082860,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,481890898,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1255301,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,19643438,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4385318,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8321411,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,45661167,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6557696,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20212508,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,47519593,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,1059631648,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,481481718,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,22465180,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,76552416,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,,,51478530,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,12425765,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,1383495,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2253331,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,13554548,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,10604288,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,17381895,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,455177190,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,128102504,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,11904203,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,19200966,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,32880132,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,657701,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,2972233,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5017840,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3954503,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3270869,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,31274965,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,19659310,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10388195,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,366103,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,657913,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,11973118,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,12032865,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1408877,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7995120,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,49120195,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,37382244,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,349531779,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,109152655,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,102358378,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,27735589,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,14686344,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,82880190,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17255868,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,41041531,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8264868,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3458154,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5261474,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1535167010,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63821504,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,14649223,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,619077,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,35829969,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,,,50656409,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,817293128,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,84671224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,405629357,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,12394671,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,53323136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,9049593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1233572,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,55683892,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,28030207,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,27002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,959299,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1531880,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6762047,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9644809,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,11997855,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,6371150,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,13215856,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3650932,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,906810497,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,47189813,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22392232,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11744731,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,14885241,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11450590,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1797472,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,134519,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3945274,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,16383996,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5235073,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,58733607,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,262777913,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,21104626,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3030691,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,22456609,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,34783544,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10267526,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,43455379,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,26452177,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30844401,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1048734,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8494649,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,47879402,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,595918,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,23206429,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,141947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,29593,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,21126972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,975543676,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9861462,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,130114,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,12100799,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,37012,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,35505140,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4208154,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,18927795,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,53457351,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,203783,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8687122,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2826314,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3378758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1128583,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5050829,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2740155,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,664957,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,344431,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,19459709,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43849342,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,509018,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,8247126,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1271624,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,721392,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15912565,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,10867370,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,4019187,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14386123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,34221965,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,114616972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,71280398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4920085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3074944,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6082459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36555649,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5028213,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,99392308,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,41935002,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,70353882,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,34082735,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,120731554,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20386974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,44343571,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,27308821,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,97071922,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17244128,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22975205,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,46079873,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13691615,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2184944,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1162268,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,17844837,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,117669609,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,390571751,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8325968,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,9292804,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,379272220,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,604404155,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,87210725,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,737393,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,43312366,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1422706010,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,15695398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,13350383,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,10657634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,3185335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3184076,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17142520,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,16901192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,995040,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5393858,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,531512,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36239187,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,127104890,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,440342092,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,365218280,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22672252,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,47640944,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,34123822,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,103860450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6918439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,44866333,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,86596867,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20576109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1017295980,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,21073737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3366644,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,135764423,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8029565,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,34916727,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3258401,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,32192752,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,19948720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,102810354,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,30909535,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,93814965,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,31088985,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2351521,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,11518179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8255221,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,,,58176063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,101329245,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,677185908,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,619448,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,,,104127,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,14663959,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1393942216,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,89296019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13196164,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,39658010,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,3022804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,11948973,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,14723321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11633062,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,61938440,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4147737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2325964,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,202074,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,14352531,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1902676,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7951184,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9159275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,22213439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22522514,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27246930,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,32583830,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,14376488,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,254401154,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5855125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1030444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1177327,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,21752580,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17241889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,19139844,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,21327891,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17716510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3217429,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,48703704,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9821741,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20563894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,52103,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,286932,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,15182237,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,195720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,17193044,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,35392965,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,68125144,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5976541,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4111088,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6177112,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1242771,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6389521,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,61560,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1354330,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1577703,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9153692,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2927392,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7917232,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,742514,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,158077,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,36004147,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,36202247,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,948405186,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,22909324,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,90804738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17126442,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,20401107,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,31895639,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,92492868,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,17620196,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,49664672,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5776604,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3120393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,22233507,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,89519772,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3542023,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6127610,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13440550,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,768741,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1019448,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,712332,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1973008,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,707352,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,27156,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,325048501,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,351501,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,12048513,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20988634,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,14174587,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,875861,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,28111620,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,21734835,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,259841932,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,41969168,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6271517,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20720076,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,747823,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1827,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17221218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6881504,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16120522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,40410747,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,53964939,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3092582,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23922025,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,26861336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,306106,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,539206218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14176614,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16968921,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,28671853,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4162194,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3475521,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,44286106,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,54068722,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1893,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3020087,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7346307,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,33093647,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,390,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2467,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,53729142,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,557,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,737489,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,269396,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,114842,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,173494,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1358209,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4310,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,62370,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,256926,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,12572,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4448654,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,105481,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1727846,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,440583195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,102231,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3707855,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5278783,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,152,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1341017,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1837455,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18620852,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,472975,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,364280,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3154943,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2076398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2343329,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,12675,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,232589,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1686470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,592014,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,13470632,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2836,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,818357,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,158073,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,96058747,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,34511,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3642621,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10642105,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,19388425,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,24175364,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,44525410,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,80070203,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,75052537,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,97905465,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,48752623,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,46176498,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5890468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,18974918,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,607733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,22299674,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,42162184,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,15942799,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,439868362,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,35559497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1989764,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,19230025,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7690234,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,745406,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,79799924,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,144834403,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12990911,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8531081,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,209814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,382931433,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8618254,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,11339253,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,34794897,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,8260162,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,92267,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,277788,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,48380826,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,192377,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2035580,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3833179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1266013,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2427916,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,55321,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5123037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,833441,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20070838,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17591547,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,950045,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,101445653,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,19833420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,657588,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2978390,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17455950,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8190505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52860922,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19117857,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,77135099,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16712361,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1010454504,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37016204,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2347828,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2824999,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,,,47088722,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,37036217,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,85727102,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2031719278,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,34544522,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,134006733,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,14174173,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13371905,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,54523144,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,106234746,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12864594,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12599076,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8763569,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,22108796,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,93831554,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9223994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22424283,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1750468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,549423,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,13511555,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11422561,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,88240913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,279221044,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,133724183,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13272476,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13114166,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,50958721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,71185496,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,35201184,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,35806839,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,126562255,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,162037057,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,13279625,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,44871134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,275721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,32011094,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3920216,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,24415747,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,42567068,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,15591984,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,692240833,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,39251899,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,12157381,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1646132,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,156417,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,20114679,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6298266,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9697489,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,27200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,242631,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,253916,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5993500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,27042019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,31268,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3029223,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3252808,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5731894,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5660668,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,25687264,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,35056501,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18770438,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,513556285,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,97115908,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18115905,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,66155714,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1257949,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2637652,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5640592,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,50066702,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,38873635,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,25037460,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,34582432,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,30000798,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1076310,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1139237,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3416648,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,11679204,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,12507110,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,2912580,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,3062025,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,4061359,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,140356190,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,484396086,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,9542115,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5391018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,481938578,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,69924958,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,23241230,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,8908729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,1070768151,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,21603876,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,36935471,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,1344871,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,41638870,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,17521001,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1425061423,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,46643946,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,2970861,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,883393,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1635412,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,15042562,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43425189,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,68569,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1496099,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,527044,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5846455,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,8332388,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,11589985,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,8776245,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,36092039,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1559448810,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,30937468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,9307503,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,2078795,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,42618049,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,141630764,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,2023814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,8206640,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,339979376,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,203011,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5241187,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3231878,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,44617097,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1370420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,12309839,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,10631317,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,11335505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,119577,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,86679503,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,25397455,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,6296018,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,491531764,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,20520047,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,490603948,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,5180442,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5445344,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,19915119,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,87564044,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,30611692,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,714747763,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29734216,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,134190786,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,28030118,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11466609,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,4840995,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13315825,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8325225,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1007043,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,111495485,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,11429581,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,23050529,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8911278,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11457454,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,801354,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,10432055,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12493446,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1940201005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,79694308,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,149238526,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,111586220,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,262971287,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,56879445,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3370363,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,42136363,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,38463497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5296322,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,19508339,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,45350062,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,37944962,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7751769,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6200415,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,0,,189412,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3099843,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3695376,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,16186580,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,36887,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4965720,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,939208,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1326236,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,35823606,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1514639,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,17024687,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,41741991,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2332680,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,145318,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,13337176,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5078502,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,48340247,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4731576,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,24107063,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16150471,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,444173,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7894626,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,377496,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2024306,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,14575254,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,177214,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,18042,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,268665,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,40226515,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29519972,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1212938574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5906949,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18227293,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,50967125,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,38072098,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20835928,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,10164602,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,33821006,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,221497954,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,931004,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19887576,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,24042371,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13491088,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1023541,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35420311,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5525575,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,51203670,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,23480722,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10875095,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16284968,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6141968,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2239694,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5009013,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3708625,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,46064204,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,24627105,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6117971,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7048538,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,37904230,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,192589,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,392793,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2273298,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1175302,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,51646,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6726577,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,28856797,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,217905,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,31904548,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,62053826,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11779129,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,34616,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,4902853,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,253906,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13821008,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2536882607,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,144561624,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,662389,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,50,Silk,,,,,,,,,180337,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,4037930,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,177999346,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,560115953,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,11992371,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,14710388,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,4890302,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,19109785,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,16252581,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,13702610,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,85664321,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,82552925,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,646380887,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,58534414,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1137740664,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,30280142,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,128403948,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,21384395,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,139256006,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,10556425,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,111758148,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,36746105,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11712067,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,37095627,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,51673834,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,38959095,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7789225,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,39124304,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,46767157,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3150505,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3156979,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14163599,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1542398,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,396062143,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,147888830,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11380660,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17567591,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,683816,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13650391,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,36477541,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,176930,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2352306,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,57226437,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,6027997,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1102216368,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5939641,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,16286360,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13866847,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11202329,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30293198,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,17543304,,,0

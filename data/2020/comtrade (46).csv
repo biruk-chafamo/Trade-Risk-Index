@@ -1,0 +1,583 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,10595843,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,3266259,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,3936625,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,134347132,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,20472177,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,305051051,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14196209,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,114658455,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,681679348,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,38708708,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,96347038,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,121710911,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,111460136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,54641151,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,169552621,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,302554362,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,324219206,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2054558,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5069017,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4450419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3614640,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,210609305,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,224913818,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,495753150,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4683584,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,68889793,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,143634015,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,353303843,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,207659668,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,42548214,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19370576,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,74191839,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,113818749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,30000193,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,968982629,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,530190,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,115483068,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,129047424,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,118243985,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,61343238,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,441501481,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3883302,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,25439803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,85169992,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19739004,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,18634,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,182620924,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,18102871,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,281991586,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,490829063,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,171958320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,109292249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,53900934,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,94212890,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,14937577,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,133621233,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4081155,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1123189,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2332619608,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,21208429,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,13214524,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,136157722,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,23792323,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10062761,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7876208,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,445735219,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3894283,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,402313951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,192097313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,222437658,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2101082,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,17442672,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,381767189,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,114820488,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8008053,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,37789117,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,320500326,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5660678,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3658232,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2248157330,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,274327058,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,413572158,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2741957,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,301183249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9490822,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,185689279,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3015509766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2184740,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1251004733,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,128586222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,35025647,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25839249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,43849200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,175145765,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,214865,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,226111447,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,121080778,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,113484804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,226170043,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,437419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,168052889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,43898834,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25443806,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,39946569,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,127572789,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1230817219,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7926931,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2921371940,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,181348525,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,10445583,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,316968034,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3288243,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,456598378,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,364361713,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2201599998,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3158400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,9261679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,283232684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36725963,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7262814,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,121578115,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,323531073,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15237252,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2927960,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,226550100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,190973134,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,359149295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3645376,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,406563350,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8774247,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10314598,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,20459978,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,138662036,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,10432320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,22121037,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2570559001,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,900361,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4248139,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,148198836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,24321340,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,95730007,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,81855793,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,111930534,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,171132760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,446211162,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,284859273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,166506172,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,14782,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,21379245,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,92459660,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,27356482,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3874510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,471271126,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,112147242,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,186846518,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,123482292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,552555,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1000722673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,30479421,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,113204664,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,70726444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19537604,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,50271086,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,210527164,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,345213033,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,140998550,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,85056180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4614183,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,473523250,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,242198031,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,234206619,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3374939,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1950782,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5183009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5224108,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4550119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,356526458,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,290124195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,193984582,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,53793810,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,111645131,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,130539662,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,86541683,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,43084683,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,725617245,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,151532499,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,15807533,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,315016519,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,24458506,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,136807615,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3686132,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,60650747,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,17161322,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,7083748,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,12176957,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3322971,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,442894277,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1055403047,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,25284183,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,19746659,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,39523,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3648186,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,91827274,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,26715599,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,200617202,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,473726416,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5709054,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,95057501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,503138,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,89358880,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4998403,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4284744,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4515805,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,89953094,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,56469948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,214737099,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,375098115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,448178244,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,135726521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,45024661,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,169707541,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,746890753,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3951757,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,137769449,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,21512187,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,314845684,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12701556,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,125754154,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,218442637,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,68995227,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,53064595,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,25730921,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,65438248,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,119193288,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,31154167,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,156904200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,375386579,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,234354871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,249016167,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2251500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4344356,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,230627020,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4225858,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,753783,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1986127852,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,97500517,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,386250307,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,134545001,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,126490504,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30692769,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,106332321,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,415985845,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19844997,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,174897247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,301241682,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,32075389,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,61482224,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1376269,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,149672985,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,205499586,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,299808,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,250479344,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,144582739,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1970217481,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,356890242,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,6385304,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3099492,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,270599036,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8632959,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,192766932,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2843387897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,161754453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,18114462,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,15916309,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9328591,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7549186,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,443799434,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4224126,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,384718352,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,177992582,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,181514053,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1595989,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14963519,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,308800576,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,111452183,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5822781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,30410370,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,254346882,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,6680300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,50333558,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1023321773,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,3011928,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,3563268,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,331193380,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,3471550,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,3462653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,57731738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,107683708,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,8301392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,61253173,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,296686157,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1470366747,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2901787,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1857424198,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,118971709,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,592206636,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,47201151,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,30957601,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,12594460,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,146057388,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,11235632,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,238182976,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,19796598,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,21893,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,105979286,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,190795089,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,18886096,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,332282,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,167011720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,32826492,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,88700953,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,219769162,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,367164007,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,77089797,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6320802,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,149433336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,197912750,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,258518227,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,174998211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3418655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2556338,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,60022282,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22077935,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,49440719,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,62964068,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,97127599,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,786741733,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,663708260,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,676430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3644962,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,129009626,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,226868283,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,70722165,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,63929265,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,13953547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,134142040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,29544207,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,85662915,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,31637052,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,220395508,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7780563,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,817558,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,377708609,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3773699,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4489290,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9081583,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,239780174,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,14925691,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4845541,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,91603653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,280234194,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15705850,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,639510,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,143085109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,105779750,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,314994256,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1534075,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,121548753,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,215884350,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,395310,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,166478720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,127212117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5275971,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,227259358,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2418882,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5471470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,110362037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,43984925,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,593016530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,90258635,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,238509056,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16730108,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,196438852,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,75665502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,352200009,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,304270052,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3076620,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3244748,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3985515,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4116357,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3124480,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,296186652,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,394847204,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,84018091,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,185807756,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,47846915,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,14983945,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,250422146,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,6398179,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,117580224,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2903299,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,100997088,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,589329843,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,43481917,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,103353707,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,56072262,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7963756,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3002519,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1792442234,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,184404849,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,276465788,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2843204,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,301778061,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5492267,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,138119016,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2154785694,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,164606225,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,330955,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,176229662,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,96963676,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2945992,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,863494549,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,94900443,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,6706394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25889043,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,33461848,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,295997484,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,127202350,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,160049133,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1462753,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,20170985,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,343367556,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,119526118,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6642879,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,18316906,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,284050433,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10908135,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5459323,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,349924107,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1422878,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,12102897,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,148157151,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,274701668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,42449700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,84056882,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,22881031,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2195070,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,147064769,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,20543704,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,274908598,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,13058900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,154194,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,44028672,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,63640201,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,267606561,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,124317547,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,100704499,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4829163,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,622589,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1189702411,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,16966732,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,188158083,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,820212827,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,90592141,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,90903666,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,133416963,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,47461613,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,17855685,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,50456251,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,89955778,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,26611866,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2128924,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3062902,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,260211164,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,394986116,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,224264657,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,254999573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,199345055,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,142643677,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,81648009,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8715972,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,393647,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,12680597,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1890239,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,5113114,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,367364520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,17084385,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,142728510,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,12621873,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,30555129,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25294917,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,8332153,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,114117516,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1129109047,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,107346603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,193179945,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,465062,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,178094271,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2841180809,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,359081380,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1964284391,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3495019,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10087431,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2583135,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,938300470,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,91628150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,83296295,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,29364952,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,94286230,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,61050393,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19935103,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,44787546,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6593844,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,95195847,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,140113092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,210963928,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,270470888,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,229773734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,406017482,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,218906526,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3878408,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2514540,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,14539151,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1976164541,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,939690,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4331670,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,81170198,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,145583133,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,245589672,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,75451087,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,52470293,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,292874279,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,20555163,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,176806418,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2435557,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23322184,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,91910648,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,52135650,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,371015266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,74073682,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,120498520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,50634957,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,193955329,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,427665100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,333598294,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,83312157,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4891103,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3502751,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3828720,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2649816,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12896989,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,277051953,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16396220,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,117652481,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,42095429,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,613996384,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,127975927,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,77084,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,16168048,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,58608268,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,310511292,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,172408342,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7398887,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,306892895,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2773755,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3283055,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7391833,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13103033,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,299594567,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,23640655,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7343150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,124144201,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,371447804,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,17559266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1619128,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,166068364,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,150958398,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,285371429,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,4381118,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,2526099,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1098025,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,226444635,,,0

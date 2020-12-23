@@ -1,0 +1,777 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,55598408,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,60343390,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,199766801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,37532836,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,269301072,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,28821364,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,46303449,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,112136,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,47834043,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,18317987,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1011989932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,201538400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,223288729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,214712160,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2924016348,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,671930,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,103052002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,28260143,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,53242066,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,12815941,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,298155352,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,273027894,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,434044965,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2888362,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,198776104,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,194680999,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2552314,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,186863042,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,26072929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,86071535,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,151732469,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,83636834,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,179753450,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,46878018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1029058156,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,49612129,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1390296665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1194711,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6175422,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,165547062,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,176471404,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,97573752,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,18420899,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,83877750,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,257837170,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,91244057,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1786603,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,265353811,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,368732943,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,933346328,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2641609,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,712181184,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1030272,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1542841,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,13150750,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,29494601,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1764083967,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,12319729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,9690273,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,227588752,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,239864,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4083838,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,34343209,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,52866286,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4674938,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,20318419,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,61073369,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,78384006,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,66714475,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11591544,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36310293,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,146820735,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,276972605,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,884479736,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1610844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2341704,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,30237423,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,302943718,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,75348348,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,39187170,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,67095822,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12456915,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12386424,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,187686507,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,32478222,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4068624724,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,40904258,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,192409718,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,35492618,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,13116000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3161804,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,113155801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,66913770,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,125928046,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,10967604,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,15783972,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1201951739,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3300254326,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,46722469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,493255,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,42682833,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,96983332,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,239120198,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,261328538,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1646523560,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,235251696,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,142263900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,72037723,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,206171445,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,289179909,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,52574588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,118003,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,32058644,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,56188509,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,15162114,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,47001379,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,86676227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2686218963,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,50746936,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1351002,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1667375579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,202445320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,87468882,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,69838458,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,154126832,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,177693558,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,219474613,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,25706627,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3355651,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,198492289,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,309381853,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,297998464,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,11280833,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3788222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,499621491,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,150356301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,98583124,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,177478965,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,51255645,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,92831517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1269075,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,263610096,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,90301945,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,268516044,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,262476544,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,753491840,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1889971,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,993653451,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11501535,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2054478,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3933800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1739448331,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,34568741,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,14590532,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,14806256,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,241216278,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1136195448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,153840686,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1822762,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2611903,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10203437,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,70093921,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,30391107,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,48143058,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,90015666,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6057324,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,36759657,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,70694809,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,35544835,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,127133743,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1535942,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7227993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,40673991,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,61522604,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,39499593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,20539523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,18029929,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,77013588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,13201429,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1458137652,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,333895856,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,209961880,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,76084468,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,36223243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,149701733,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,36095498,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,37008612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3258052754,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,966709,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15756801,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,16959576,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,223429621,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,9633900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,64143217,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,54822406,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,42467039,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,31457832,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,196941873,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,115092148,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,53707463,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5136736,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,52100144,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,62389371,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,60052846,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2434886,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24526589,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,12886700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,9024048,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,35430699,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,86886815,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,171138106,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,326001129,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,922747399,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,66859803,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13626334,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11718271,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,28685576,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,136210396,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,273345279,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16235714,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,35013567,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,9728585,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2199301,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2967941836,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,41828808,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,43822824,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,180733957,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3320028,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,255720999,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,52096258,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,215083147,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,77770730,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1618858,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,33356367,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,140452179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,29747531,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4134759757,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,14971777,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,16665508,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2195337,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,35265663,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,25572582,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,19519343,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,19542337,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,73395843,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1360435153,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,312757723,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,199016180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,77410599,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,37477776,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,80370098,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,241593488,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,275014457,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,259374816,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,90627745,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,166586646,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,122174836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,86207288,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,145750141,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3391159,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,679687572,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,914813289,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1517406,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10723213,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,4945459,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31856892,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1695209784,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16026030,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15787807,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,259624977,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1016420964,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,137603742,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2467536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2124412,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,68124305,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10148275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,44727802,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,32471295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,84042456,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4926684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,31873213,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,70716957,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,123040024,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,35227655,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,209744107,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,779055,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,57546022,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,33758493,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,60491881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,45928879,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,273000233,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,197168814,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,28761731,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,50644109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,119808,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1490867554,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,258574192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,150481041,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,227407903,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,96713990,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3132427574,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,56111332,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,532249,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,282216275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,459605019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,177746529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3106781,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,18615099,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,185385568,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,167486293,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,81816271,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,128526520,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,72690263,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,99010458,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1764686921,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9089642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1546372848,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1441565,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,26988173,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,61455534,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3178175,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29234973,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,30229925,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,552920,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,16009208,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,12785854,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,101376961,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,640346830,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,219820384,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,29287105,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,63065386,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3517899,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,181007547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,257169,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,46720289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,49233839,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,15340726,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3525603,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15962423,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,13456689,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,22616008,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1320606723,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,225987,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2735117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1179145,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,724860659,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,488492444,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,783361,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,89709227,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,138083284,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,87139261,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,36369402,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,84920489,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,221896897,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,235000880,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,221558514,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,70925190,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2819361,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,374554,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1632720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1320371973,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1981347943,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,42354527,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,52157830,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,56546000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,135004114,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,63174542,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,212948500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,188872408,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,24645348,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2472194,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,190410189,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,140917080,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,420399151,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2454654,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,262135202,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,243150478,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,13713401,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,433262,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,35360669,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,929200126,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,103380429,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,37183252,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,194737367,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,145621341,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,231812721,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,884744230,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,158146657,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,80809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,33031814,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24674734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,32293862,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,9901815,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,150666749,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,186947597,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13536787,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,56804715,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,65434195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,24150548,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,56700581,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,136603860,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,227762059,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,582520365,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,51718480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11153707,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12770942,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11930182,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25004098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2543421,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10075328,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3717373,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3730724568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,24714053,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,29113466,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,165733459,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,12600944,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,2142122,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,713090745,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,44558665,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,35548907,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,169599960,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,66075525,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,9261954,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,177007400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,32673797,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,37752567,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4062077024,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4049711,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,71903209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,127158377,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,170836568,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,13390331,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,75031536,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,49008308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2172703191,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1416754319,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1270319,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6186187,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,266116760,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,304669358,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2878594,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,453566263,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,194148858,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,168282971,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3126971,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,21046823,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,166543553,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,67450664,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,56952308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,250789521,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,31478735,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16978097,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,128117,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,165346002,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,918631911,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,124487232,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,214844712,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,208667276,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,43392907,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,64799260,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,104640612,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,517409,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,490444,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3504186,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,53570179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,32322967,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,15602243,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,39107321,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8887360,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1689882,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2522010,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,81359442,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,236523998,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,311630965,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,236155599,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,78621218,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,91470169,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,84733378,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,159132907,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,166469004,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,675620273,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,953091192,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1830540,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1133732,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1747874829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,12914133,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,814598315,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,209526331,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,15396015,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,15748421,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,47668778,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,11261288,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,6177241,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3334551,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,665357,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,27224812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,51884642,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,9279258,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3290877,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,50652154,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,72144204,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,294238386,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,106736101,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,991150,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19014183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5351289,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,31676156,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,104992353,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,13372474,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,10133055,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1409642804,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,26332075,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,236209,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1335064,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,6345758,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,708168116,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,516782339,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1343990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,121855369,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,112168865,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,81252494,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,16084179,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,64508874,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,203810376,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,247433646,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,201951198,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,71864786,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3206025,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10121017,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,273337312,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,235051068,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,361380364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2805262,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,159342960,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,22895715,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2610896,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,174765719,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,144008671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,778393,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1242526489,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,8587573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1934174013,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,33874562,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,44377567,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,59307924,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,179873924,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,138149938,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,35677422,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16907062,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,154511,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,25646653,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,33398708,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,170570994,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,200123918,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20933332,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,50166723,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,50603156,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,468606,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2210694112,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,40948828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,106674294,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,49636306,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,178175177,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,95651407,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,778019356,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,204092019,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,144411631,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,53891861,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,20323227,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25158008,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,772322450,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,281576893,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,136607775,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,70151685,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,28075958,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3304684,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6095302,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,11144392,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3336627808,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,28306018,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,25187727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,150531078,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,162929549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,34766909,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4467231856,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,14213339,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1545758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,36627322,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1144943826,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,72968545,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,17063327,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,221982134,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1255847210,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,244056027,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,47683187,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,100160292,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,54393856,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,502857,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,82272883,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,67130127,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,30445068,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,183345850,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,124295,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,43102819,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,148551012,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,65659887,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,218836057,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,86701494,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,70184170,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1509416271,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5217634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1655410398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,844908,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,208963871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,19527054,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,207678547,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4430153,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,485968985,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,281012303,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,313531841,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,11190295,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2172551,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,270999927,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,273681511,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,315839870,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,97070871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,167262220,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,109147015,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,856974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,747476154,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,924664644,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1439936,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,4688742,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31080276,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1848546234,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,49104255,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,60729852,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8485890,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,54278338,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4959933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1339783,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,150355260,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,211290591,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1027421730,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,103486710,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36155206,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,79134998,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5367521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,36980614,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,60521353,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,34130659,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,226814033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5814561,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,436225,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,14049995,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,53636475,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,90023895,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,197746109,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3280603,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,53891077,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,15562585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,55586289,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,288115693,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2677531624,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,165114812,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,274470743,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,21373840,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,36888550,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,199080737,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,77842915,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11615505,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,35743614,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,309127362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,19436617,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,30207731,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,130929955,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,22391943,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,8485498,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,24405119,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,73553932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,75113307,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6903004,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,27605283,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1613084,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3472684,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,175651252,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1317412,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,34264189,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,49300560,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,11517420,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3741506,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,53977564,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,88516499,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2668192,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,503277,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,811769457,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,620887426,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,130177753,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,116377501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,73256420,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,26869803,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,83478796,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,83355854,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,259275194,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1622841,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,267138859,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,341582366,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24859105,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,36537717,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,50,Silk,,,,,,,0,,123588,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,15772598,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,44720167,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,256566851,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,38269662,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,159092849,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,52587432,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,57617624,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,991793943,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,219495270,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,120443132,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,191092600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,175443114,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,366642,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,88154645,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,31879996,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,52672808,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,42417753,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2050958193,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1098097,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,7599263,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1248216344,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,77338208,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,170005907,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,76695173,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,144304129,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1731350,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,191548405,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,206638284,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,21769086,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,170531091,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10339794,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,271396678,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,257457755,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,481083285,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2897601,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9991144,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,36848561,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,34289011,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,162893485,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3013522623,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,31939828,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,9183678,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,8700811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2283426,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,67979113,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,309731970,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,764730727,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,62820626,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,8068848,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,4062343,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,166661492,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,26850608,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,43659420,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2696144990,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1657719,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10526584,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,16655416,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,7116655,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,28321000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1432947126,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3917979,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,35608377,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,797764289,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,212175646,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,131179034,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,54616773,,,0

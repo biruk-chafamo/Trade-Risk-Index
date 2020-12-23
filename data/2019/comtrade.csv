@@ -1,0 +1,618 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1542,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1767,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,26072,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6547,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,164,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,38594,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1811,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,187752,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,819,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27531,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,249,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,166,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,10027,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11658,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,906,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2695,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24367,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,53,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,12795,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2257,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,441620,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,250990,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,709326,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,165625,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,127155,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,35229,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,216,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,479910,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,377,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,67108,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,109370,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23998,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,131,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,29,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,34,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,648,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6715,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,192,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,557,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,266,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6666,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12519,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,46038,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1386,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5100,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1101,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,31477,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,14420,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,816,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,0,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,27731,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1474,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,233,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,310,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,20806,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,493,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,741,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,28879,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1444,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,19288,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,5,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35562,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3102,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,25444,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,198,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,563,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,16147,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,93,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,19076,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18965,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,26726,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,556,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,10,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,93,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,150696,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,129504,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,467225,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,82,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1506,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,17,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,101884,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,143672,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,62,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23665,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,61,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,206,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,34,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,169372,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,19,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,15766,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,77858,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,31383,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,27127,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,19636,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6009,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,926,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,593257,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,18222,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,933,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,557252,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,15698,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,163183,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,489,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4958,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1704,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,393,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,23506,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13737,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,8,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,38325,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,531,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,556,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,326,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,219536,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,728,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,576883,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,84845,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,74,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,532,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12803,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5050,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2135,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10144,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1322,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3751,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,373,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,9980,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1006,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,136,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1516,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2285,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6756,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,441,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4397,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3226,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,494,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,370,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,6038,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4732,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2875,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,37621,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1015,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,208744,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,123897,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2335,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,139939,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3582,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2464,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,59905,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,192,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,133767,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,519,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25508,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,198141,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2905,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,129033,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,783,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1134,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,553,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2726,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,836,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,456,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,359,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6446,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3870,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17836,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,560,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8693,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,89,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,216,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,16803,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,79,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,39,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,223,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,758,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,512,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,865,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,22307,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10722,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,187,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9670,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,69,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4025,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,29021,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,44247,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,67306,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,43330,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1207,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19466,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,134575,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8679,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,904,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11686,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1852,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,95845,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,60992,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1097,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,16,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,44,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4553,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,209,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,31361,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,53059,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,69,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,15273,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,136135,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,601,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,114082,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52249,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6489,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19517,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,201,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4219,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1459,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1296,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1436,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,715,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,969,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,14943,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,316,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1231,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,6051,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,319,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,157,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4028,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15038,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3908,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,246,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17480,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,106378,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1056,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,9259,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,914,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,950,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7586,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4308,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2043,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,57,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,57658,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1039,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,31170,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3043,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1382,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,62488,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4859,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,119215,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,56,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2779,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5920,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,245,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,26368,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,766,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,14,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12835,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3429,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,348,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5068,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,797,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32976,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2360,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8780,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4446,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,40520,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5603,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3167,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6015,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,267,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1926,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,211,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,259,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,343,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,574,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,18,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3520,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2365,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3389,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,433,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6241,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5149,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,93,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1140,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7431,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,20,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,231942,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,12977,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1336,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,259,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2360,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1469,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11784,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,668767,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28504,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1564,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,20,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9445,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,749,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,730,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1894,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,101830,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1107,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1999,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,344,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1574638,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13395,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22230,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,31878,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3641,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1481,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2786,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6050,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,636,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,16,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,85,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,14608,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2784,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14772,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1639,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,463,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2281,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,404,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,5561,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3282,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3981,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,289,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4863,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3686,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,158,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,16,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,234,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,267,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7794,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,623,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,427,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,169,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,195000,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4733,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3323,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,27491,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,659,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5966,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,56,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,33201,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1606,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,223180,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,130820,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,35103,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1037,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,98009,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,593,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,509,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,163015,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,103006,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,373,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,51428,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,345,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,686,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,27649,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,117,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17604,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,146764,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,43927,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,527,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,52491,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1556,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,50172,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,407,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,55,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6587,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18780,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,679,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,669,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1227,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,200,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,443,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,10572,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,66,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,420,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2724,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,37,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,76,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,732,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8124,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,937,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2127,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,268,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7191,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,31,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,94,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,216,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1229,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,26,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,50,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,539563,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3665725,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2889,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1882,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1507,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4273,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3656,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4743,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7537,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,241,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2283,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,886,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3667911,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,42,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4909,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1469,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4671,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,443,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5229,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2546893,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3224287,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1851,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2372,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,485,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,165,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2416,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6054,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10778,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,10535,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,22774,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6481,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1616,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,501,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2398,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4146,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,704,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,228,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,236,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1176,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3256,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5548,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,24471,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,37,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,185,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,437,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6487,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,75,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1656,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6769,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3208,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2133,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2319,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,12478,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6777,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7808,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,12407,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,185,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,184,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,276,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5759,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,130,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,108,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3560,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3612,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10559,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,44827,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1612,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,75,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18043,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,754,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,16,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,11141,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1723,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,895,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,221,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,60,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,20274,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5395,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,236,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,25,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,2855,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,50,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,89,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1709,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1489,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2483,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,689,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,43,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,54270,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5716,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2944,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7391,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,4281,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,633,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6851,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,187,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2093,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4669,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,894,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3796347,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,17,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,257552,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,125,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2155,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6674,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,185,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,14512,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,48,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2042,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2113,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,27635,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2150,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5756,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1340,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,90,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,9373,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,18007,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9826,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2739,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,11172,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2382,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,35600,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,80325,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8735,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,28292,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3616529,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,52460,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,50,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4725,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,374,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2005,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,12633,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5143,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3101,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,12400,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,26694,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,21102,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,66667,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2592,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9061,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35400,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,818,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,72222,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1182,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,332,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41806,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1975,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4985,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2526,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,59778,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10993,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,317,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,692,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5632,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10767,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,17752,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4023,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,61556,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8191,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,9261,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,361,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,192,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,222,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,495,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,24407,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,407,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5697,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1671,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19966,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5347,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20006,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,37538,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,105259,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5152,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,254,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5692,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,26707,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3300,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,8014,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,849,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16793,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4068,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3572,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,47019,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,59926,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5095,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,37,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6332,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,333,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,297,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,52,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6621,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,167,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,28064,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,610,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3228,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4722,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11864,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5293,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5192,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,16192,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,38432,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1676,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,66667,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,71630,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,15658,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,64519,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,22656,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,28,Antigua and Barbuda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5053,,,0

@@ -1,0 +1,859 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,129283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,157933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,41129085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,14127865,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,32804784,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,523061864,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24308774,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,454045226,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,84676,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,113507,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,14047299,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,45820612,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,543674012,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,33565,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,83443,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,133880,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,29757120,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,28344959,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,143581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11375291,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,122940,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,203885,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,530394,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,78297728,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,43007899,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,50294756,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,24517921,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,12419752,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,9724042,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,13384243,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,32868362,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,15863456,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22650045,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9648535,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,54095582,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,37283,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,276971,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,318211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,27792514,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8418198,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,270487,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,66677,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9438518,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,18028,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,266892944,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8257208,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,190642128,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,69032796,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,35639667,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1653238,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1448440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,74076260,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,209715423,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10079649,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1387287,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,249705,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,247815,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15334,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1215195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,172440,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,494567,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5921179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,280962,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,10679598,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16726655,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,338758459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,21337486,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3126,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,170659994,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,16407369,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,179027312,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8685164,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,400915267,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2194020,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,290597207,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,365916202,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8496500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,136982846,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1303499,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13413472,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,300895710,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,21952657,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2620,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14227127,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2123198,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,15476109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15178650,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,375031676,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,18573460,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,50,Silk,,,,,,,0,,442,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2250,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2201192,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,37103,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,36807,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9351790,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9447495,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7407021,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,12433256,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10174335,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9171085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7774362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,11622823,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,26299,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8957441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,14799227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9380676,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,6871503,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,35326,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1863271,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,127093,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,92682,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6128061,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,95233,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1592030,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4903336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6658,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,74778,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,152580184,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3760356,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2308464,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8482710,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14891708,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6647,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2365607,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,123538,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,19721,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9663854,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,19089969,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2422915,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,16034,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,19709391,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,178328545,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1943534,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5889967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8370704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,12999203,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,134808464,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15924394,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2340454,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,354932102,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15427420,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5677079,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1659619,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,540691,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,33237,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,576387,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1182195,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,662488855,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,29480679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,745480893,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,202966,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,14355948,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,416742,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,604844,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,28554940,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,952373012,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,15401852,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10290963,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5616413,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1896516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7834360,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,713282328,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,39198769,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12443061,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,85640,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,841968,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18607444,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,33481971,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,38558,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,13171477,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2872643,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10253787,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,8006096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,9547012,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8868176,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,19052668,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,44072646,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1491237,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,8405643,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6375009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,53963614,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1021248,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5986,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1269991,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15310833,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1477185,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1000423,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,51678298,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1086150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12468606,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,9249,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3921,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,254155,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3117840,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15372156,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,12251570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,53092115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8123302,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4726529,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,856299,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,25790313,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16361164,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,246722,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5092352,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,234855,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17563020,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1224801,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15899568,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8688008,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,650476,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,32280936,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9268318,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,208395,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8068738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5852861,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,764829,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,406192,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,12657288,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,64031,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6439741,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,856280,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5970136,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,75547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17393416,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7974659,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15618578,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20469050,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7799644,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,121256,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,39747259,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,295434958,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50412752,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,80335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,27804832,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10257193,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,160384,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,30764457,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,27032373,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,461416837,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,288077834,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,27674999,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15130825,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,141927,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,95056,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,32572810,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,489858648,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,114123924,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4243859,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2590508,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7133299,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,34139,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2667690,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7426655,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7686083,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1598,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1578096,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2137496,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23472566,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,61216,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,65212295,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3724114,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14153453,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5629,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,50037,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7041645,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2633094,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,11004291,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6960467,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8040,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,284649,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9968201,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,97470405,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,53113369,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1637200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,454,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,238039496,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,73761962,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,17747077,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,354989,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,177847,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,6377,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10006466,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,213535925,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,33541621,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2686,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1958030,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,193489,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,301619,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,109305,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1417426,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,357889,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8665617,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,839746208,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,14743276,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,14617716,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4894349,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,563134,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,434073,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,629825034,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,28101864,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,404895,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1938243,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,955250042,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,355339,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1100315,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,14363425,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,9225594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4313313,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,682386224,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,596068,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1518122,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12520176,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8481898,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,604111867,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,633946918,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2021708,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,70670,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11841767,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,89900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15159110,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,174663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9933572,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,37249990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25740668,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,176366,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,471614478,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,484183357,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,405620,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,149109,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15278272,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,30204032,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,28478389,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,33026055,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,962422,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,46382601,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2849905,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1033867,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4207358,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6877800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,79926941,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,47125440,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,80440339,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,1347929,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,47014710,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,22838337,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,72631183,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,33642197,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,48111985,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4728385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1641245,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,49633093,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63819771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3287095,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,22008384,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,122533751,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,30243072,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,388321,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3918242,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,5346713,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1911,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,162365784,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5974299,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,8501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7995522,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,353458553,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,27694468,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,155027908,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,11587332,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,50,Silk,,,,,,,0,,6189,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,439,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,195808245,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,15781569,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,153768943,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4431808,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,12422,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14007555,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,33331306,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2692184,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8694923,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9102812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,281342590,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13500268,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4126,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,56714907,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,44,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,128795243,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6610367,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12031747,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9361530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11325782,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,25825,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8444807,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,58909,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,19894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8286936,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,14878174,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,6294025,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4893505,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,15803576,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,63167,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,15240,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2981,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,18962575,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7851168,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9282311,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,12392897,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,7819029,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,31452,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5745977,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3207,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21193,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,729367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,170148,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,29896,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,10302916,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,111469758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,11963816,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,139,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,24185142,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8556683,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,18733747,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,131007434,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12371594,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8480809,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5860081,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,27826,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,106758372,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12101,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12984143,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5580230,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,17612682,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,526993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,160453,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,7159865,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,16352897,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11797592,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,7053733,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8874662,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,20754904,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,394246,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,391516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8440910,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,332950,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,290053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,33937,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7346225,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5844,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,211811460,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,134909516,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,20657996,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1714182,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1911597,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,350036,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,174060,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1491,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11649571,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,220686270,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,21852639,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7094194,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,7516435,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,233921,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,34031597,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6323699,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,778162,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2463438,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3604349,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3759862,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,32767624,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,21227356,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10945012,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,8138008,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5830641,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4846468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,57176,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,33088123,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5432206,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4188132,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,405492,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22945904,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6869081,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,68979,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12902604,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,694230,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7705993,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7756978,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1285881,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3420024,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1571495,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2590227,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,959524,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,528386,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,7289734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6910523,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,11822941,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,14774168,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1210332,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,9999458,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2458691,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8577049,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,17171107,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1258165,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9654948,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,71971,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12311868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,19526373,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,56220641,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1650013,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2304948,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,9010,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,55221795,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1011018,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3650370,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,54440302,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1649642,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,25318,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,501779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1048123,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,748550,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,9262211,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1984810,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,24743775,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,363578,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,9800279,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5196229,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1741468,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10762730,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10904803,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13794386,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4772151,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3413343,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,60671748,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,13767658,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,23083069,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,56655802,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1522927,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22808930,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3707323,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,309434,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2507367,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7891841,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,17246553,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,23408818,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22189475,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,8708934,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,383531,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,801710,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,9300560,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2375764,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4683541,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8234252,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,335956098,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,42955486,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,34437,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,145838220,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,25107171,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,3338971,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,31690,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20080929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,36910996,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,27244706,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2855624,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23106733,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,19692597,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,56787427,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3791571,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,102535509,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,297190,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15339887,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,134822063,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,15159988,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4011877,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,38806,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8101833,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16790282,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7212982,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2672423,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3945428,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,22580240,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,19921891,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,130552481,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,26947,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7270326,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6346016,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,13837505,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,38484505,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,484289,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,859916498,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,9543651,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,495850,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12631585,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8364625,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1287023,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,42470596,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,394367,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,684101779,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,14071122,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,35162370,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,13527342,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2232693,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13934783,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,590956762,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5938260,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,702119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,284281,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10639679,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,601514031,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,7083,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,328976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,46720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,342225,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,262934,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,27416117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,13195737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,607084,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,59263234,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,67979,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,9298544,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9425643,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,10263768,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,757068,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,845879,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,25341,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,283042,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,65638968,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,33892547,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,9489026,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,12565239,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,13736182,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,58618810,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,143841,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6400078,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16171,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,35518,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,19647,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7688691,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5282932,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,144165,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8768685,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4797237,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,12650065,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,97085,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,93392,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6741267,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2425,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,79774,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10692677,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10531920,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10121791,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8075612,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,19756243,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7394801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,12319631,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3346543,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,2775629,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,55533,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3604727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8861778,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15202131,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,61215791,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1305461,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,59621626,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,916717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9210074,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1170578,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,915958,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,18101868,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1525301,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6472,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,14437317,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10434195,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,21837030,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,31311549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,929025547,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19249382,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12769745,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,28568552,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,299873,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,438270643,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10875116,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,14642024,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8621539,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1681855,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4522048,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,618513817,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,103820,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6594851,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3129762,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,328307,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,15259877,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4753936,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,79421677,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3393281,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,9160465,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2672007,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4424704,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1848815,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8918554,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2388779,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,60714104,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27266111,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10139762,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,54713067,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,341172,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2255581,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13850667,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3544580,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,58611344,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3007043,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2782107,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,30470726,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,56510179,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,291376,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,527183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,25577,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,257650,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,351316,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8556303,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,42994002,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,25046737,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6819081,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,10496230,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,35973109,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,117447,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,185977,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,506607,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,69788244,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,279200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,9639143,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,15522104,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12940225,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,49373811,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35065132,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1634839,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,612114,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3356580,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5855391,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1150558,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,19287647,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,731004,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,372193157,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,49180821,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,80428538,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,894185,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,77239822,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,34401381,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,69228632,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5891624,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,965022,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,45609952,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,766787,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7757543,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2977329,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,824163,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20039481,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,546268,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,98873822,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,10629,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1815212,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,319645,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9669660,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,18477316,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,113299433,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,13585189,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3147,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,20001252,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,117898299,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,147182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,371404,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8003309,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,333481,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,19793071,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4255149,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15050097,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,296111,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2025750,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,23338527,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,30478,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10042471,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4369960,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9752802,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,118885315,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,301142,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,162090,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,250537,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4330534,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19009076,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,303267,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3612671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2512496,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,269975,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1171107,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10618931,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7782645,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5376124,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,50214331,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,13243668,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,24924395,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3884314,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,374437,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2225862,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15403783,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,16497719,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4592890,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,76130850,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,402871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6432104,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7144663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,107638187,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5615,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,24982616,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10399579,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,7076249,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,15790576,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,22447468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3008851,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,17032123,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,132585203,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27641383,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,522385,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,130389,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,199813,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9688427,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,27192,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,22142750,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,65492109,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,21182333,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1253663,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,23967393,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7393783,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,261535618,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7984249,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35722124,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,37755073,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,61854175,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9653002,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,26991672,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,29196307,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1072908,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2023426,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,602371,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5853282,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,44462262,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,70253475,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,993484,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,19394162,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,52160757,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1255379,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,19987718,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,85985375,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,38546740,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,785781,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6800340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3841555,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,49200951,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,86447653,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2545393,,,0

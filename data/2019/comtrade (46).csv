@@ -1,0 +1,822 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1923264,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1848696,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,38346511,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,352910,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,296912,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2760999,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,102953517,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,302956,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2049898,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,662114,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,744612,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2337134,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,366044,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1096142,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,166959452,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,384845,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2343141,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,156456049,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,564889,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1436553,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,484449,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1158133,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,63,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4085842,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,156508,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3610666,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,300802,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6014346,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,620051,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,720451,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3661769,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3177529,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1102374,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8307667,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,646800,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1545657,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5016470,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3311801,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,106314,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7130347,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,668884,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1063457,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3148646,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,931854,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8126054,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,3199183,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3018193,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3573414,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,559577,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7974750,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3294534,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3391790,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8006135,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1213782,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2580,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1977927,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,90632,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,28016,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,25705,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,837845,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2359288,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3733427,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7941015,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,37057,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9222790,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,137026304,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1287563,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,379764,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1814159,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,380452,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,588320,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,140002762,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,396171,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,116314179,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,348554,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,161245,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,466261,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1798170,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,129719310,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,180030,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,288967,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,501015,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1929961,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,6709,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1502390,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1355445,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,132281122,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,352460,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,337171,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,884172,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,138,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,243,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1986345,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1989153,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1892822,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,64882,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2839857,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,132,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1752408,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,49651,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2457873,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,30256,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1821645,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,25377,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2759552,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2068809,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,47376,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,25753,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,561,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1294,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2524275,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2150730,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1631529,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,35470,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2275835,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2354532,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2097383,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,156101,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,431239,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4500,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4730,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4483402,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,55452,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2725375,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,364532,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14248,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4689,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2694763,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5987,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,259052,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,153566,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,343171,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,38726,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2302310,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2314,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2264800,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1332,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,38000,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,104777,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,930,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,69609,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,62750,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2606,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,207541,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,380061,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1311415,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1303035,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,763559,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,350755,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,485454,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,367938,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2610989,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,645658,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,217463,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,424100,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,275470,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,905841,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,177551159,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,104866,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1508161,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,198924065,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,204695,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1827508,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,322667,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,305159,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1432531,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,241654578,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,29652215,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25021382,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,54441,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,49800,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,43898363,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,258101,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,860344,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1872147,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25830311,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,71088,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1633851,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,34498803,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,278306,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,391368,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1934530,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,151100,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,42701429,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,96796,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23191060,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,62160,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1545369,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,35407504,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1031272,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1229224,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3799467,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1255724,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,6,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3735420,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,339,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1813247,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,580145,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8837574,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,500,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1116074,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2901774,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,93679,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3977022,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,372164,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1400370,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2575848,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,45290,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2723816,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,28541,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,54019,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1953623,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2454160,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1918,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,50265,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1911010,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1810209,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1972430,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3006501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,106024,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,980214,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,91953731,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,200,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,77417721,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4211447,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,65976406,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,102687,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,32026,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,57327,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1634599,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,167541,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1385476,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,100032204,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,55004155,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1233268,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1957988,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,904285,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4000995,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,44720,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4120,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16680,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1086665,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1104338,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,32643490,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,63112805,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4316798,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,178082,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,970706,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1974838,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,68865,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,6412,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,80286,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9130,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,59730,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,572,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1037604,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8770696,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2206753,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,3809302,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1906865,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,142,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1166329,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9410912,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,33767,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,61166,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4903036,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,683939,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7159,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2500876,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2997230,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5720229,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3902357,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1694504,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,39230,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,868,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3931593,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,48000,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8471475,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,21794,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1831681,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30420,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1565981,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1850908,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,93478,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4272890,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2190078,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13144,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9712,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2415782,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,98188,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2733168,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4533297,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,38010,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,6197119,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6674224,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,58288,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3876332,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,445232,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1075799,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,173927710,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,186286,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1868322,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,940518,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,244360,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,121021,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,571978,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1172450,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2394481,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,855176,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1092692,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,81104187,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,173211,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1732595,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1580807,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,603734,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,261703465,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,278821,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,775720,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,580778,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2482518,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,47730505,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1904317,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1415072,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9221,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1517296,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2567608,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,350033,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,106817249,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3017648,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,139117001,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,303869,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1176066,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2668785,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,136137474,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,270151,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,6950,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,393919,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,321353,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1859817,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1841467,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,278417,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,887926,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,323458,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,468422,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,28915,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2000000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,147388,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23634,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6811,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2699101,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1260,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,60306,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,215105,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,47723,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1950005,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,51555,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,66882,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3134439,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3146265,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,535293,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,20009,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,309807,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37350,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,65462,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3304567,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,109387,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3576411,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,228017,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1666,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,773,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,130371,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,265201,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1067916,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,404519,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2308954,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21130970,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,121764,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,885412,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23693245,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2000281,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,42525,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3007,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,515316,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,26605265,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,25260,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1096033,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,43130804,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,101628,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27010926,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1631690,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,36596681,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,96796,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,473247,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,32216,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,34064,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2426,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1200000,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,96504,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,1223,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3500251,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,327365,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1779161,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,999520,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,590295,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1010063,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,305691,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,177416,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1839238,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,206528,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,389333,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1606696,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,500,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1301426,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2191489,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,406350,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3006108,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,157535501,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,234684,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,118240549,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,229753,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1683120,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,680228,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4132759,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1647318,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,155529960,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,268004,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1506449,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,692080,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,840049,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,606459,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,25830,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,22363,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2664364,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4605188,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1200,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3949274,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4581881,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,49069,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,34288,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2371862,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,33774,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,33595,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3350532,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,65594,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1781800,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4362198,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,10,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,23300,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3730265,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26628,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4490685,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,29088,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2068104,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2966848,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,730499,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2282073,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,37729,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,600,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15732,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,32759,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4969369,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,8052,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,71768334,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2552704,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4081033,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,37467895,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1250028,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1321713,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1110718,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,40128217,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,76521024,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3777065,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16560,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1131095,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4593619,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,976398,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,39122004,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,83886555,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2878314,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1106029,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,165144,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1912896,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24733090,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,80961,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,684032,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,864154,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,33534604,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,96796,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,300827,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1157749,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,177676,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,316000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,18463980,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27636854,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,263412,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1456123,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,42923486,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,317758,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1423818,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,28789853,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,114274,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,26303519,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,10313097,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3106539,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1121758,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,497156,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2465293,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5675606,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3268123,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,816847,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4039773,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,744368,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,621,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,924490,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3787147,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,518941,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4141182,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1063203,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,260938,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1492481,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,64322,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,3740,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,60366,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1877204,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1970047,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10560099,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4325183,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10362690,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2539,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1283447,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2258548,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,131931,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9345633,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,59934,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,131372,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4091331,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1130333,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12910,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2697742,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,71548,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,633553,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,24114,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8412193,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4465261,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6449735,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,414,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23479,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2810573,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,21202,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2333243,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1394,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2855258,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,29987,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,316755,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,103369441,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,93194880,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1836016,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,509209,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,543015,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,93316747,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2411581,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,97424,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,41121,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,401086,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2498120,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,162976,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,170091,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,70959111,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2342341,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,391301,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,47446,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,7525,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,454050,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,55882,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,379440,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,248879,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,434529,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2138199,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,77784586,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,11945,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3884366,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,34622,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11550,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,35755701,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,39174829,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,41077209,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2348030,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,44328,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1770723,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4814938,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10350,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,450,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3127409,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4583005,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,29500,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,950,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4123045,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1173017,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,87374709,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,54255740,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2542403,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,56697,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1245814,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4372241,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,55000,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13768,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,70751006,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1965083,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,216513,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2119073,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,40512668,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,42651,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,314306,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2480586,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,370319,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1794017,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,27817,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,115741,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,35,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,36876,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11372,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,5308,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,752492,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,826610,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,446142,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5024,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,145835,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,764387,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5934564,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,28635,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45929,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,15720,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,960089,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,74594,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,114447,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5640491,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,220235,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,79200,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,14826,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1057418,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,21153542,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,103507,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4441591,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9426,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1011882,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4378,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1584288,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,9105,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4952566,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1715650,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,417299,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,49174,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,13140400,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6028,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1623840,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,94531,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1176419,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,19919,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2243512,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14698,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,480245,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2570347,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,356967,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10158,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1535565,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,35328,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,939593,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8704,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1078448,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,15817,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,22976,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,256395,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,87524402,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1749020,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,217145,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,74328736,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2284056,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,287904,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,45237,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,82613433,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1707140,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,84426115,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1862291,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,365796,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,8258,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,302959,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,252508,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,84569,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,103441399,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1654412,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,257861,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,26987,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,394616,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,28446,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,53811,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,113701593,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3355672,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21056,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2354395,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2468206,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,87352325,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,62756050,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4198754,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1476626,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3998674,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,540,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6071,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,42879736,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4755192,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1650752,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1383952,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,39655,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,76599,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,83781,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,81775,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,25441,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,133146,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6004,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4733561,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,39655,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,18809,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,76659,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,788087,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,8236537,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,122766,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4754926,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,934227,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,199661,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4084012,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,83278,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,16925,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6720,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,723010,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,904385,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4670089,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,86300,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,139039,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,42007,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4692904,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1172137,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,381168,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9234,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1208596,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3432081,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1120561,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13976,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,787748,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,13293,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1621063,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,86062,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1225039,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,445702,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8197,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,16260,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1081924,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,64687,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,795999,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,318911,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5946,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3523,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,396688,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12293,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1348551,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,34472,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,62640,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4066797,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,491919,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,489397,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2896171,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2171562,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,17159,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,274154,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3237,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1020,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5674249,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,164323,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1085978,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6147069,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,26070,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1130118,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10257373,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6280,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,104597,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4896906,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,45753,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,14604,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,266,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,661449,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,735000,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8860,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,905316,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6894164,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,149634,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5857765,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,93155,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,642877,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,48924,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,122296,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,15930,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1649544,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,207088,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1572972,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2990,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1716900,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1166662,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,434855,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,9068036,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,18301,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1594936,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,87382,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1526149,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11180,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,411078,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1211890,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,142080,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1436496,,,0

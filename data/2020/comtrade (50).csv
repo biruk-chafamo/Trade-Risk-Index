@@ -1,0 +1,393 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,513905,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1479,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4740,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,260,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15644,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,369327,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,158251,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,44611861,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,194640,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1620940,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,9419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,55967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,890884,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1207973,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,863675,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,141799,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,520721,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2931064,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,480449,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5958,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,116588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12086528,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8272,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,415759,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3180315,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,232122,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1217073,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3264805,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2874444,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,39236,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,683552,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,168217,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1408289,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,324282,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3086669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,31162,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,66793,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,67036,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,81058,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,516550,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,798749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,64861,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,66,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8352,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,272304,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,8619257,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,70879,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,58949,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1627962,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8496703,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3278,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,469682,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4368,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,14397,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2501,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,7481,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,149132,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,34303,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,21588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,14786,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,248564,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,25479,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,83486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,442451,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,104708,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,271386,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,168681,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,299868,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2053601,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1832301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2476,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,24927,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,40060,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11457,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,184160,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,675,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,507052,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,24014,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,964750,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,61021,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1937798,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,447663,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1056,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2004342,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,7217550,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10141763,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,877173,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,38003,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,887,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,143986,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1417558,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,230379,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2953295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3221541,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,29781,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,459472,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,345529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,434049,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11746225,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3066512,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,469455,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,440423,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1727228,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,334894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5766,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,24195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,730178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,29627,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,22666,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11092,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,67940,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,220360,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,38167,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10049,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10670,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,33364,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,187732,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,40017,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1159731,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,499281,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1406,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3033,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,44154,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,355001,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,64891,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,34315352,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,450461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,272258,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6084,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5513,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,679576,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,781,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,49547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3983,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,465096,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2503,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,145914,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6628,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3925,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,142316,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,818414,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,34157,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,7255,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1043409,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,329054,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4210,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,514561,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,37062,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,15730,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5525,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,458535,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,31548,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,111996,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,35251,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1186373,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2532415,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,331394,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,23021,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,13964,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,11684,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,287208,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,15019,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,166016,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,23952,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,318716,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2611,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,33990,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,240608,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,42605,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,28347,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,915807,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2333,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,16914,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,166,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,37039,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,176820,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,108557,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,28306044,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,779033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,237874,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,15966,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1058,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9993,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,870490,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,75685,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1041270,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,645739,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,207819,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,153585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,33006,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3905,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,88,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3730,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,195968,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,11203,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1637,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,156980,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9428,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,412873,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,36990,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,739101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5104793,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,8669609,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,32926,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,430,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18486,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,97378,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,181102,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1252415,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3668,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,77266,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,500258,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,197832,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,131177,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1112973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,408915,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,181810,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,248841,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,313193,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9328131,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2556284,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4032200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,311797,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2854218,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3116,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1153264,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2192,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3057677,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,152501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1451307,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,415846,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2762451,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,123408,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,612794,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,382659,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,399630,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,269541,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1777398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,137300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48010,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1857,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12990,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,250255,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,254,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3310,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,77855,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7093,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,72162,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4330,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,55201,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,349593,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,135584,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,280717,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,110971,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,10485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1522339,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,175242,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,617879,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3149449,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2057168,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3350426,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,29175401,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,53456,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9443063,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,194236,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,923711,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,812336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4473019,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,29693,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1277924,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4571977,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,22485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,69614,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1286,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,10213,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,322,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,209811,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,219266,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7585,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,18190,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,47221,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,648425,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,924,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,12051,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,448394,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,31244,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3076,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,27927,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1002520,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,270404,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7585,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23956,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,43073,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,90956,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,133,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1370,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,294,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,71,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,923,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6990,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5897,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3286,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,898904,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,677809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6220,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4551,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,404,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10178,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,155364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1664816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,183363,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1985,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16970,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,53116,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,33454,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,99474,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,100663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,46383628,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,908905,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,331789,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,17262,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,795479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,109962,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,240034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1348,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,559569,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,84381,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,80774,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,328621,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,60777,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1513896,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,195707,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,208300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,371401,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,210996,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9685217,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2685114,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2820367,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,65112,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,712339,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2817247,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,88778,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1395791,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,263,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2873936,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,61069,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,574140,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,374054,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,559797,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1260673,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2284209,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18317076,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,58981,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,139265,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4281,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8707,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,69,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,346889,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,208261,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,46257,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,81256,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,71059,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,8026,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,139621,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,693,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,27950,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,336,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,710,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,16803,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,56428,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6997,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7121,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,13990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,38466,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,15515,,,0

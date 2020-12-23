@@ -1,0 +1,939 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3255,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,723349,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,40216,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,73710,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5499,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,42208,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,60558,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,928271,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,21869,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,80428,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,15307,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,563,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2108647,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,19128,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,22006,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,69269,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,352702,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,30697463,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1275865,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,568704,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,30177,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,368,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1040223,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13918,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,57488221,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3195026,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,561079,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,227,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1258036,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,23368760,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2653211,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14912,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,85817,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,692,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,823380,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2602,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,22999191,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2140837,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1076564,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,42367,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7387,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,990996,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7264,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1784,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1004743,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,9989,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11664800,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,75330,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2758382,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,88661,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1592450,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,14236,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2573600,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9175257,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,52512,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1741051,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,785533,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1506664,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,10276,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1852912,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16021716,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21191,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2598739,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,203530,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1952959,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,755990,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,17127,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,136884,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1105555,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,441053,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,522000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,160,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1747139,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,283118,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3933,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,389756,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,362442,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3095462,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,62913,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,54250,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,8124,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,465118,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,675926,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1208,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4546085,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,288341,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,137770,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1050985,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,581686,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,475188,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,29392,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1297036,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23562,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,739,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,30125,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,192668,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,505132,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,124127,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1433017,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2936,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,42511,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17163,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,944331,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,57174,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2190055,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15500,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,994069,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,11849,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7649,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,13203361,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1815510,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6909160,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2071,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1070824,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,80796,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,77952,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,7554946,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1917019,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9711762,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5542478,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,58063,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,23348,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10335784,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1806878,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16099401,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,32026,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1262485,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14855,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,16610,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,17090036,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1636747,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6567998,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4993,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4998,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3670492,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,30434,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,250800,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1155935967,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,234139,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5425,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,28600,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1797325087,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,44296,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,31053,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,287,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,84785,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2142420982,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,129969,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,76757,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,956,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,62006,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1751024270,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,153331,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7000,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,48800,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1111661590,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,46382,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,84181,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6892,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,136800,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,100580,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3396,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,61567,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1741,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1599431,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2059,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1502190,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,41250,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,183013,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,39170,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,504162,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2556,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5001405,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,6090,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,88525,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,38721,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,486921,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6849,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,7350,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,102240,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13925,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,186687,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2704138,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2695299,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1925249,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,24195,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,9823634,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,569,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,20927,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1162445,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1380635,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,132,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,21888141,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2124450,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1845263,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1222405,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,72025,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,14808504,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3936276,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1238,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,798641,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13135,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10623596,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,296,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1401257,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2497250,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3061,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1576600,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,372580,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,147376,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,50706,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1052,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1601617,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,54574,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,36126,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,138538,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,216933,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,80360,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,196609,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1287206,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,40020,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,126681,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1293,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1335,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1398297,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1598976,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,126,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,145905,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,51,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,73888,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18453,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1429377,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,26112,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,589,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,240288,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2188747,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,42490,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,36805,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,6643,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,83420,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1051857,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,714359,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,564263,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2391359,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,54825,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2076,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,101998,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,39653,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2877320,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,44655,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1166,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,45990,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,18471852,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,57780,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,457487,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2387434,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,8642,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,306052,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,17478268,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14201,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1719196,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,574744,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1847130,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,11520,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,278860,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,247486,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13698397,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,39464,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2775859,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2549541,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,28376,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3583982,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,6904862,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,47011,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1957401,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,853897,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,194647,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1109927,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,28747,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5616,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1023019,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1847612,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,171486,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,718736,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,53639,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8881,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,937325,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,150435,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,901002,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,13677,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,255940,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3331907,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1472944,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,158414,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1178430,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,16769,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,14299,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,442031,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,757719,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1265227,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,102275,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,932633,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,146539,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,27076,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,70148,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1291112809,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,78717,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,13,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,274251,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2450291151,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,673,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,73726,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,40000,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1207625109,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,133206,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1176485929,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,21715,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,299250,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,175292,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,30,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18681,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1382,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,24646,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1164446689,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,29568,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,6034,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,157646,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5395036,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,528532,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,164996,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,54757,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,165293,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,606575,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,6229987,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,145955,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,45500,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,48505,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,110,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,645029,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8127906,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,312113,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,56830,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,130516,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,195370,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4858484,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,271633,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,36606,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,69440,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,215336,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,334703,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,9700643,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,288705,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,167924,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,41979,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,75384,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,226239,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5234126,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,476394,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,109621,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,73,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1958662,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,149558,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,861609,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,671275,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5232,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,20524,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2762111,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,58444,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,26698,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,127072,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,209426,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,354250,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,59,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5430254,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,538985,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,40689,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1093,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,317949,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,395950,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3963,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2582520,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1288015,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,202,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,658015,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,279252,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1676831,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,57312,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4181865,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,18251246,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,14148,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,13432387,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2143246,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1380767,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,15223,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,5441052,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,12620,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,455983,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2620954,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1823861,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,69289,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4485376,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11311273,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,68515,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,677840,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1490119,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,430269,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3620944,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,90744,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,332607,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,338899,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,516317,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,83583,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3960,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,134011,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,643300,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9991,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4355141,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,759915,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,540000,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3384,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,9460,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2087355,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,460365,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,95272,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,315000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,257798,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,262966,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,81,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15479638,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3039658,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14027,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,547,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,474566,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,837,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,18219853,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2316378,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,16414,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,274,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1240573,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,914773,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4016,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,63810733,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3472410,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17011,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,59774,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,78,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1264511,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1309,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9645,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3621,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3423090,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,893805,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,251,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17569988,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,66219,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1896966,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1523,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,45025,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,57025,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,184634,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,39154,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2229933,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,70679,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,59630,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,273001,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,233331,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1215871,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1648,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,37220,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10189,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,350197,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,85719,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2037689,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,54954,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,14394,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,80744,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,86512,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1352,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,37169775,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2163418,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,628878,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,38714102,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2650813,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17401,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6727,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1247241,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,87538,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10535047,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2449862,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,713878,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4739,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1262529,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1976,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,26556836,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2907576,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,50306,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4181,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3766,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,999832,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,922,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12732448,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,659716,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,22205,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,8,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,161973,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,397561,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,33507,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8191741,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,735370,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,243094,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,84,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,74935,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,38055,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3602724,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,798136,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,150612,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,678,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,221012,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,598738,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9565491,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,783827,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,138577,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5373,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,91818,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,512837,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,114810,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,76975,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125226,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1330829987,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,11513,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,136800,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,63000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,123,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,79353,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18000,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,332500,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1220573787,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19347,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,57,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,43438,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,574,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5452032,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,62854,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,22608,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,499410,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,381467,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6899,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1777858,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,96050,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13354,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,95535,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27841736,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,40529,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3909407,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,362626,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2275125,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,18333,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1209603,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,15173866,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,21604,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1832131,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,194311,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1212763,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9047,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3396,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5863473,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,25150,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,263153,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9618,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,267611,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,19071,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,239776,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,31537,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,279979,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,17292,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3841988,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,16470,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,115167,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,27702,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,315676,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1352,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1104461,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,11118,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13160,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,210305,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6580807,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1798007,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,18474492,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11392,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1695736,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,63132,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3361,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,24017380,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2332856,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9319947,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,10620,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,31164,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2364988,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,159767,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,20412216,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1918334,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,10905941,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,39154,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3391,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,14707286,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4182,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7529,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8815313,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1685148,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,587918,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3908353,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,35199,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,933091,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,8509,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,44558,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,235392,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16577,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3689147,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,12660,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,81150,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,28688,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,395788,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5334,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,17226,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,112886,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,52095,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,381675,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,14,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1881167,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6285,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,1100,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,2239056,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1772,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1523398,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13656,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,22818069,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8602441,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,330,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2053211,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1728420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,16636,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10649555,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3969964,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1162483,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1269916,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,183179,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,15919495,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5028563,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,60,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1218335,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,12463937,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2186558,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,165625,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3431939,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,31922,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3265180,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,96,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,86334,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,29393,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,332040,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,8176,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,706,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,102350,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,82404,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,430517,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,54383,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12868,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5031889,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,323303,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,39112,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,810080,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3814043,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,249876,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,150001,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11421,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,249631,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,75476,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3661935,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,38968,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,373066,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,334402,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,447140,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8490237,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,215432,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,41311,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,106108,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,750145,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1065945,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,623687,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,108000,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3207,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,321664,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,495168,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4780862,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,308682,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,47486,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,170273,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,387715,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5512248,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,200818,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,51772,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,20,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,319883,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3708461,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,853483,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,14,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13529914,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2618493,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1104651,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1396236,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,40722,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,14920460,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,489,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,575,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2546981,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,384514,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,14252,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7955196,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2632716,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1345977,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1329959,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13413357,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4606778,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,29200,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,50356,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12965,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10712,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3008516,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2015317,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,94587,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,584189,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2642,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1004529,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2249194,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,176524,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1324204,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,30,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17702,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,665,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1015048,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,49224,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,202545,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3469,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,25884,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,829934,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2764366,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1137252,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,898257,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1989790,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,57193,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,712945,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1012672,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,419164,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11248,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3520,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,119889,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13734,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,31432,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2737,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1422503,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1384,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,137520,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,355845,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9510,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,326,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,134179,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9596,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1011487,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,229174,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2842,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,704733,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2202823,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13985,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3078,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,278132,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,353,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,83327,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,9505482,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1895870,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9729876,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3743,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,717717,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,48655,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,59391,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,18276828,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1826249,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,10194296,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9970,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3068947,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,18757,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,17047,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,13689748,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1732325,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5345348,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10353,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3071821,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,280784,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,70793,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3085018,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1726180,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,15975596,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,23869,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,32032,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1869,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2323084,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,184961,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1046114,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,19873,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,24717,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1467631,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2429226,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1424229,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,130335,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1308019,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,42725,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,17815,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1260814,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,105366,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,986795,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,29118,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,127077,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,760715,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,908234,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,905972,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,226446,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,230566,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,5750,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,62810,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,27441949,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,653593,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,135993,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,129675,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,231885,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,51630,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,22612968,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,908155,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,232173,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1954,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,103816,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2500,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,59905,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,561224,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,185848,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1278,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9887503,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,67290,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,134388,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,45978,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,40158715,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,39262,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,48590,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1290480,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,348999,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1971081,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,338913,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,10382,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,78234,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22778,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,393036,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1537,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1312276,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,236163,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,161479,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,92098,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2318,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,226,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,433970,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,789061,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1373139,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1262620,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,200500,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,805780,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,140225,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2802354,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,12,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,44595,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,29941,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,230870,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1119,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1208389,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5641792,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,162273,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,143673,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,266114,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,139522,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,710901,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,186419,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2720,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,728412,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,563583,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,72823,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,16168,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,82725,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,95031,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1298627,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,342521,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,576,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,335326,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1840003,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,53334,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8666,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,811559,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,150049,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,779,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,191794,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,104767,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,175171,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,25173625,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1018783,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,285086,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,379,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,292732,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,63821,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,118241,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,81387278,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1036012,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,107146,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4783,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,144164,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,126909,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,17169,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1556267,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,650803,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,75219,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2192,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,124232,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,101707,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,46857,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,43810,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3576690,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,154383,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1887,,,0

@@ -1,0 +1,753 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,7916686,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20889424,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,12240762,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8291347,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,64815374,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11047209,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12957209,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,14926785,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17354703,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11527615,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,14160060,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7657086,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,24146950,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16016585,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10954375,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10875180,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,7649376,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,23520955,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5409582,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7342494,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,7411265,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12697739,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,18352661,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11170948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2261037,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,66993262,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5714624,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,150168414,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4529,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,122345327,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,209220,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8828801,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,22079909,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5790477,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,156804874,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3718,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2537560,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,39554805,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2213600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,124953780,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11416,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,66538516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,310657,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,86924226,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,143012,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3115661,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17376605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4152093,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,135585066,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,8882,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14887531,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,75942662,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,217229032,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,6059123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4720427,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6545369,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,38645673,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,179462,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,15884663,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,28987,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5500271,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3556350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7976719,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,31440620,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2819273,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2752675,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5686238,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,30929219,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,132845,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,8364964,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,42949,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,135524448,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,374602,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9300591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,47373,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2747782,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2717704,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,43041663,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20724827,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,148063081,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,178931920,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5488115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,48372076,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,40785001,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20466396,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,139170313,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,175779682,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,36509427,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,32536489,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,40975957,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17214643,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,96868184,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,61563859,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4751684,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,18308468,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5016312,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,26748591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,18911191,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,111015527,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,105760401,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,36454083,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,35615268,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,46678077,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,22509228,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,224492723,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4073408,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16756803,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,28505,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,37392674,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,139931,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2975005,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,936245513,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,2921192,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,229159,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,938936977,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,134585,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1957144,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,136792,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,134585,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,19467,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1640941,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,35546062,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,74566,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1669329,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3086431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,598248280,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,83040600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,80756,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1742214,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,174089,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2263740,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,24321518,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,135368433,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,24319418,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5725181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,13476238,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1031104,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19713390,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4632136,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5857590,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,356746,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16712795,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4042490,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,115905,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2690614,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8767097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6328962,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,,,3640443,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,655981,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3154428,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14400676,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1328669,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,17602303,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6012949,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,26981484,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,182997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19844758,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,6469947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1046722734,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,12216264,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17671670,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7287608,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,76562125,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8289247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,37074758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,18706339,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14842802,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,28586196,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5069407,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,30867678,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,31534457,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6064645,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,540897575,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,740381553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16388555,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,66611430,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5997633,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16279864,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7158099,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,15646545,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,191370180,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12265123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1062854,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2610062,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4582607,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,995839,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2248381,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,176507376,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,106108302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2231407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15372468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4312964,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,970452,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1475138,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23253479,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4805042,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,73224165,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,648480,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,85695171,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,665601,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,6538807,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,123950544,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,7171575,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,453988,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1115364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,141047933,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2099909,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,18335448,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9893633,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15701389,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,19781694,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6475467,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8907548,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15357459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2701565,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,29707065,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,13891839,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6769066,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18000388,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,21012902,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20771839,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6066420,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10769210,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,23347623,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,18757648,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1677180,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10357299,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2975954,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7229840,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,24155985,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,691333536,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1292010,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2326501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,13974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6109703,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2965897,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2306192,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1866044,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1388037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,23178,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1197294,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1722392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2662724,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2168802,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11383570,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5795,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1877146,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2032037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,376725599,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,437134789,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,16848517,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3065779,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,8087835,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,12087659,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,4660881,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8272651,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,12048944,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7589465,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5192743,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14478067,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,15587577,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8264099,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19807592,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,27181280,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,16865664,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6136735,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8424818,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10161004,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,17684834,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,17444794,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11754283,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,17562952,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3677294,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18193881,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,12697996,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,21034562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7976144,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10997687,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5913341,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,14530696,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,18527579,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8167664,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,12662036,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8020531,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,19739468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10116537,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,22805165,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,19587031,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16160395,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,14378145,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11640823,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6649351,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8833749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,14178765,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10693505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,16483641,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,12641792,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15128491,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,12867412,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,12269398,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7246170,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,228396,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9475779,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,18502745,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,47739340,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,42641020,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,103794030,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,205540,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,17605297,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,152106813,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,84744652,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,13606231,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,186796678,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,66840206,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,320461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,345745,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,27686308,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,76260767,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,294233,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,32042475,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,75876428,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,152208,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,14936104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,163143482,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,101567973,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,6864431,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10418269,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,21464906,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,204743600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,99828867,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,441312,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,62828046,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8959593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,291088,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,90457467,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,209319,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5509646,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,24845571,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,219065808,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,14071029,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3107858,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7726209,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,32671332,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,246560,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,14348425,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,223921282,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,90513,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,17972477,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4987162,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,29144388,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5417814,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,648715,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,145101,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5807964,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,106468001,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,196768409,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,432796,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,10361742,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,35546,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,216937101,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6509655,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,162497061,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5003,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,153748523,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,423574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3098,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,150066857,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,101367664,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7037586,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,327599,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4002772,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,146789216,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,117493515,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,427869,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,151687868,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,288515,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3138367,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,75454446,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,271725,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14737792,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3132798,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,142633793,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,139624047,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,128041244,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11130,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6646708,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,147486996,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1152,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,18151559,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4165846,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,964525,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,14170050,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1350709,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2470693,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5425910,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,486430,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1627062,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,936356,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1341085,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,13565221,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,141339052,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,705944,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3867596,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,177161693,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2402350,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23826491,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,13432032,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,143233915,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,249753126,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,120717635,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,480151,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,13266995,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1083353,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1931190,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,138629328,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,8239918,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18211445,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8854874,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,15982270,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19373235,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9008693,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,16593237,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,32446456,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,47116555,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,212439841,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5427288,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,153474692,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,54684828,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,31791915,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,158641736,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,20263686,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,50698623,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18327799,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5077113,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,137956033,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,20640873,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5186389,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16036900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17980862,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,41432404,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4845194,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,219976665,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,45824028,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,155288071,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,223297695,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,55800792,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,30967053,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,49596232,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,39321961,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1144432473,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,21025801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17351418,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,36355119,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9319145,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,116177038,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,11245587,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1148884844,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,15426815,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,9979595,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16643636,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8285550,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,99900896,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,32256782,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,33944007,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9779271,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1024614492,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16978972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7899647,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,95355246,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7708949,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2635838,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2013687,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2154432,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1639768,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1611529,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10369,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,23189779,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,690941520,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2699301,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1493066,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,21064,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5711354,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,28489794,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,714527793,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1647663,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6295015,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1336377,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3957868,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5083,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2747673,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,612244562,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,28808554,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4913720,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,147997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,446770,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,45105230,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,188501,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,189335,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2420989,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,84293,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1116256683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,38939179,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1131212310,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2604393,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,68259,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2194027,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,201009576,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,140806,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,50546319,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1987774,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,40124560,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,169092,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2471645,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,32416723,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1910987,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,806289293,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,118152,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,15510705,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2033388,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2136100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8142724,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,13857280,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,606901,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20517430,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1304033,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,23290876,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,164823896,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,21990684,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5998736,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,56787,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,6399007,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,33504025,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11944728,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,519329,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,17003999,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1880850,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8694315,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,16923501,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1401506,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1146172,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,19764729,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,232873914,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,416019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,17094356,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,127768,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5231893,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5971688,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10052831,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9354628,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,14523,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,221858,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4605945,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,33267942,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5024582,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5603404,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,34672660,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,118965332,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,849325,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,12167313,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1071034,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1629737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,181058218,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2247418,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,21141189,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,794696,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2807713,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4700707,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,150967468,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1424725,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5456402,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,807629,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,25306059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,21386116,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,211959,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,34270,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2498972,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1194021888,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,86779,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1535078,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,75581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,93151,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2181945,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3238697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,846777,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,15159868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5496881,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9573311,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15660643,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,24024893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,19503827,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7460722,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8297547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18733016,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,11071767,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9172813,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8683023,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,11289072,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20154175,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15921395,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16079870,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5241692,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3056180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,12859534,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13020334,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24807025,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2362983,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,8406671,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17794171,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1031420040,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7108682,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1163269178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16491682,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,33086813,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7695921,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,100951127,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17423683,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,30597786,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7388962,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,70925031,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16982005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,91057491,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,22732626,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,50,Silk,,,,,,,0,,593851,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5611142,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20208195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,15920741,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,29654550,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,165080,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1948351,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6208523,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,108292,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,149026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3005225,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2948353,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,15474333,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,583961265,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,30849098,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,754172662,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6218604,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2771134,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1626619,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1647703,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2171663,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2950323,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1204118,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4893224,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,14480,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,16287,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2395918,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2345813,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2724196,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,67912379,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20923604,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,254636772,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,49277403,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,257719,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,100304186,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8107356,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,50221963,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,443370,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8859547,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,84025419,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,455515,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,465080,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7938711,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,314916,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,9436891,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,50292260,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,98112478,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,350940,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,18894590,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,86744339,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,97476850,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,265944,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,124771129,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,47881356,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20963427,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,78777120,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,308557973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,336359404,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,3074295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,242795632,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,189978984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,15622839,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2304879,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,155501565,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,322702,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,39466037,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2266175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,48669,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,22787286,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1510414,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,22687350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,166460751,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,67973,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,115979080,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10303400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1816455,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,117425293,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1248343,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,186587822,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,493333,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,135239574,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2380185,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,127233828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,497828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,108911,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,113147565,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13557166,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1596014,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,15542713,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,231115334,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,83079,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20287216,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1667004,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4423680,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,237916003,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,165035805,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,904188,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1986472,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,17628083,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,33602034,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,451949,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6760241,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3078410,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,175869834,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,105832520,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,64736,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,25872459,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,69559092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,223001161,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2835052,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,139925361,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,792804,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,205808206,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,165274298,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,953501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1751898,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20079485,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2133855,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,134669754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,317159,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13224175,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1925425,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,37838311,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,66580,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,123624965,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,71629,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,135811182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,16760984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,172173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,155105490,,,0

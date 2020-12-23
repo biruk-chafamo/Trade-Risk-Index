@@ -1,0 +1,789 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,10245586,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,27971,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3311464,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,157,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,30471,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6186673,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3648515,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,343820,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5249579,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6610727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2682156,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7222,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3286051,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,500810,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,47050,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5356224,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,602457,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,831414,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2858050,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1083067,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,17889782,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11328460,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3294838,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,804,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,188153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15479,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1506706,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1430406,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6925,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,26921394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,12036780,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5596,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,18804410,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10624803,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3301703,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,11684,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1110827,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1586120,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3412090,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11803354,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,76615,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1123400,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1675901,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15005681,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6584,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,71822,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1913025,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1135565,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,194163,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,93611,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,266,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4005,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1474274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,427423,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,210271,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,301928,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,76,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1201137,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,254037,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,359234,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1222690,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,876863,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6605,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1975796,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,20,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4016,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,76821,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,11427,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5799001,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,30099,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,296,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13922,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,37681,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,470437,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11247,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,597863,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1411094,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10823,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,39076,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,170626,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1842893,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3154,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4445605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,504398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,294465,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,445558,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2844072,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,578190,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2930,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11472,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,187949,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,189605,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,14520,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5432,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,48691,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11670605,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,67928,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1072137,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,107,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6193919,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,102,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,9607485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,320388,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3964892,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1209887,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,4909344,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12648288,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,633569,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3471,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7094505,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1814,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5356,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,27632347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13594730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,17,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,25520,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1670365,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,584,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6090729,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11574369,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,262,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,122,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,16710,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,146210,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3254778,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1240,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1865313,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5696377,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13175,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,336082,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4316,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,863936,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5641601,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3676666,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,8294218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,658,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,1811731,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4372353,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4761669,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,56484,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,62408,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,539991,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,514284,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1860150,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3352775,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,3685579,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,113569,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,409874,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,621981,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,75362,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3392442,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5020607,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8818379,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,18972,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1422523,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,244541,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3370804,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7267573,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,12724,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1261,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1171,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1409576,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,142466,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5041225,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5930334,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6823438,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,14251,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23802777,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,111025,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16269,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5219,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3305,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,97488,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,580830,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,183843,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,13,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7177,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18548368,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,271,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,554586,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1265,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,312557,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,304,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,39123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,6649,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1493,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,16803579,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,880687,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,308514,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,171112,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20391101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,46459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,613755,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1343,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6712623,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,389378,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,396104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,486933,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,525649,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4362,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,286284,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,143050,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,209713,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5612727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,99824,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,9368606,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,401070,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,35047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,448701,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,254446,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,25072,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,863257,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,109362,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,619429,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,736590,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,350595,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6392580,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,66725,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,245376,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,435354,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,577635,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,414038,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,137989,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,314726,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1286,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,339,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6377,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,886,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,514,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,631,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,14410279,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1005,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,295,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,8317430,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,692,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5111,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,860086,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,24355145,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1515,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14289088,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,909,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,20377388,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,775638,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,11961951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6111156,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1329009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1103623,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,16166,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6325,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,82135,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,298956,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,16660,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,138938,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,772744,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,306106,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1099,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,33715,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4243,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,330951,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,184,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,172738,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3077170,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,345,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,200605,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4133330,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,302425,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3348,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5914599,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3564121,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,670610,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3723721,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,79764,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,301026,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,624567,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,98828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1114606,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1277134,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,231934,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,451830,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,510110,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,263338,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,124305,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,68717,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,6884496,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3054134,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,158751,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,354987,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,4,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,981716,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,20266,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1639978,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,92798,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,248731,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,381313,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,918,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,83345,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1076336,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,71785,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,342,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1421016,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,28842,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4106,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,64906,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13430,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,802,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1549711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1023787,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4466,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,118,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8218,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18716,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,96050,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,515004,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8977,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,292907,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,219437,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,26204,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2080469,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,973767,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,735752,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,9069,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1553803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1001934,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,470626,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1195888,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,23485,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,70659,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,623714,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3373845,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,587652,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,619805,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,98800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,49516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,92571,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1431369,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,38386,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,363585,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,90042,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5514702,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2341669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4184340,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5703316,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10145116,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,759570,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,14639,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6130884,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,2493724,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,4490586,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,336469,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,99090,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,369,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1272090,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11129394,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7304997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16940746,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,154,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11659383,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4339297,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1254471,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,760,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2732250,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,46709,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1787,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1466586,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1306,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,22618,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,651886,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,764150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,13862,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5933976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,670503,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1573423,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15060,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,30898485,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11793240,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,136764,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1044795,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1771925,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5753901,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,7881128,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,13818,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1905736,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,501891,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3374313,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13674,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,143,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1455506,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1784566,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2457,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3849,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6237520,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5920,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,15779,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,22356,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,12775793,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7064763,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6353304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2963794,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1636304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,174149,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2652,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7361085,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3665953,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,103058,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3695762,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4567874,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1125014,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,45175,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,7889531,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11068804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15139275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11375995,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2288609,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5136433,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11542917,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2988,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1741112,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1733445,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18229065,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1983,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,14862,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,53299,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4372,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4622,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,538,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15068,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11095,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,109,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4140,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,273146,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,234097,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1931,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6475,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,601,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,47092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,9633,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1672,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,219716,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,230856,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,291690,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35039,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3123,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,933985,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,159934,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7320,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1070,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,231927,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,521928,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,7179099,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2189,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,27500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,22149,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,102430,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15717,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,193437,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,178069,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,340728,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3337529,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,20137,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8291356,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,361337,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,183438,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2107414,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1604067,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,66964,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,19948,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,24616,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3103369,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7079624,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1418579,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1337504,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,106684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,85751,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6057119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4592243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4328801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1869348,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,920483,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,21,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1252568,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,841624,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,197615,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1874415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,172343,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2069485,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,237634,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,38885,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,120146,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4367970,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,925711,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3900261,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1866857,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,779,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,288755,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,375750,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4477969,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2597452,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,317277,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,302688,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,73468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,120764,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5553206,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3276709,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,10026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,150069,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,45190,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,221162,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,204857,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,534,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8592426,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6926194,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,658269,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8795,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,33712,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,48422,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,9716892,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6622377,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,614,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,203272,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,277,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,712919,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,671414,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,502591,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,138402,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6275224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,296704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,707286,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,368310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,154234,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7072001,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,576472,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,225538,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19131787,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9201,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,536633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,8021,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,173563,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,44140,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20349177,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,318215,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,308466,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,388499,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,262291,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,586397,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,24320673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20739410,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22976125,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3752,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,37014,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,100,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,552450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,516699,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,653310,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,655631,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,880686,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,382904,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,161795,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,108500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,602321,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,967758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,202459,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,569804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,95412,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,137081,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,51463,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,389521,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,87467,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,442523,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,863317,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1421896,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,851,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5254827,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1264048,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3309709,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1139241,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2343045,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,510571,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,75441,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31262,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,48727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1772502,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,88687,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1719959,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1822785,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,733271,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1399823,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1612770,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,86251,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,52937,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,949336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13958032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,78666,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23321,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,188241,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,164050,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,27320,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,6458598,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,564278,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,161895,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,162629,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,417633,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2547374,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,12147732,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,25377,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,80967,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,13916,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,270026,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,98731,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,62103,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,21158,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,144062,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6015,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,55880,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,311167,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,184704,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,364553875,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5563672,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,834135,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,115180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,625464,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,150245,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,8334456,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,387485,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,35218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3209,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,566361022,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1534613,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,385414,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10911,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,771803,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,559635559,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2896748,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,820002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,52622,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,381101484,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1080584,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,20955526,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,548881,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,88205,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7058,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,716369,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,972,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1851420,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,47707,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,324372,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,344323,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10396,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,87615,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2063562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,18824,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,144331,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,71282,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,60423,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,837863,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,898646,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,363590,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13846,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,21414,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,70793,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,301795,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,76783,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,211448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,488524,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31345,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1816746,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2708062,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5608945,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,319777,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,86084,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,210880,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1325027,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,7673880,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,523139,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,260415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2064,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,208064,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,925,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8865204,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9515190,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,286924,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1146043,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2424306,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9982460,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,131308,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,31469,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,399322,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1420710,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4384167,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1513153,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1727300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2789781,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1166987,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,960913,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2575711,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2240922,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2060119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,319,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,64406,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,21765,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,92060,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,84611,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,104703,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,17340,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2842962,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2098208,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2047084,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1950837,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,67133,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2245898,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,48704,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3023374,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,130744,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1885148,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1613502,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1903851,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2633274,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2174923,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,14284,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2729129,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,803516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1154702,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1646028,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,57564,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1943933,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1879209,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1021795,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1848314,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1863704,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1346708,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1972732,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,605069,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1301193,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1012315,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2540290,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1830127,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3235,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1348012,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,57510,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3171,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,50,Silk,,,,,,,,,75,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,13027,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,434203,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,435969667,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,494702,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,11821,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,648592379,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2378,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1092709,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,345311267,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,819960,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,264601,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,462501,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2961662,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,418362530,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1062821,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10506927,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,757776,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,69745,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6230,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,373327365,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1610708,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,330222,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,776566,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11473091,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,487766826,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1057423,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,155078,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1481416,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3446642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,49272,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,231037,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,505239,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2419926,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10493115,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19298893,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,45159,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12990128,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,910283,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2476017,,,0

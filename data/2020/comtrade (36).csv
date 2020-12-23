@@ -1,0 +1,863 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,231796547,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1673327892,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,48297835,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1495565049,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,52919878,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,101899766,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6638318,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,61721997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,225847248,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,152725009,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,184588206,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,189789,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,215903117,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,35532298,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,118972149,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,147361,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8613919,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,151763165,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,149611049,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1107999,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,973915242,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,142945404,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,43417486,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1597188983,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,282931909,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6372739142,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5949182568,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17633468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,145238527,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7287017,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,255746196,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,116458425,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,64000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,159880401,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14393666,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,99011250,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,309057081,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,16584,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6836394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,136791818,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,76839405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,3087373331,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,12767473,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6100869073,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,5580199240,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6405987480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,134646087,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,824151733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,727194632,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,44821302,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10228,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19000481,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,61979527,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,199355193,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18536927,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,80161358,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,81654088,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,184781279,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,45052813,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,70457772,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,152856186,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,518512095,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,18903727,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,750727997,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,78991957,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,711335999,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,780856222,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,63815268,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,175926909,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,653437659,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,12768799,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,98673437,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,29291566,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,26057411,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,81853507,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1569407,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,181685274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,49250635,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10781403,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,11170807,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,235577997,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,8628689,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,186888824,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1390150,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10566077,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,261798059,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,29941772,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,13676847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,14989790,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,68280326,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,12602127,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,12870908,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,27526588,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,86568441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,23545828,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,12355118,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,8325760,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,180316,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5143877,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9374827,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2202271,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3296161,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,42203887,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,593257,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,7880325,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,8628074,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2484328,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2025857,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,172639,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,913563,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,39220298,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,5607451,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,1404477,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3878838,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,11456251,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,9602881,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,7908046,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3693362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,833477210,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6255232299,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6735969018,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,115232355,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,772776342,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,28617249,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,64103014,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,17563088,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,374768667,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,654150200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,108567041,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,473635442,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,18105382,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19755515,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,750962699,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,,,18843965,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,3837940964,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,269563169,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,832267290,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,140556096,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6488511912,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,692979204,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,684434649,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,704154,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26634182,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,140085446,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,99562109,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11929441,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,33240872,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,703394580,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,23495812,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,126507023,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,99720906,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,766290945,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,912762,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,31420135,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,10601588,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10303861940,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,94368894,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,437170678,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,11314367,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1098565542,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,90048259,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,601365303,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,538626309,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,9525663586,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9275940,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,105514345,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,640031084,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1172723387,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1189897737,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,25660453,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,533442687,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,149954580,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,136218553,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,570547563,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,47486419,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,522621052,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,134680119,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,150977570,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,533119314,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,876112393,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,10954726,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,116318193,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1567440533,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,17734546,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2128603688,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1326401511,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,17749650,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,685900432,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,14229139,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,97057980,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,39135451,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,19048647,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,101864954,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,752297440,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,37934054,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1673580,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4735293,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,23877566,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,124117859,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29140414,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,27730797,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4887750,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,76979226,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5649553,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,39486247,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,18331561,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,21727441,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,30238277,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4710987,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,83033151,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2332155,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7537678,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,143641551,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,20101544,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,24997786,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,21235373,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,69321712,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,111163002,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,28892875,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,128919219,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,108199089,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,132205321,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8107775,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,113535,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6406166,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,49393739,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,131955925,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,481283757,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5707800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,506004471,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,74934990,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,222676,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,147799961,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,8649371,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,100787051,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,39933010,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,50629925,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,10529180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,98712058,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,204908705,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,104510736,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,83743879,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,188973774,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,108408086,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,146655370,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,211159644,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,101831759,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,117264784,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,51425929,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,96870544,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,141641933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,583214630,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,497722200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,100107454,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,53406340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21935913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,54446844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,149965264,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,49355534,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6962989,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,84097407,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,78691013,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,61694506,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,26797971,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,8247193,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,161434480,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,89893431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,357997622,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,28960421,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,69149711,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,104487452,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,19679450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,69812961,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,54299988,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,548013155,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,519055332,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,56169415,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,490658768,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,80181055,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,441766760,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1419968618,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,37784744,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1538696392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,1556807,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,195337678,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1287878020,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,142034,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,201551912,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,30007767,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,160547869,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,259649277,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7442695,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,280190132,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,72300713,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,100155180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,149346,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,40129742,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,194540011,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,176686536,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,221678974,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,73371996,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,138359194,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,86793,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,42535967,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,193194478,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,14465188,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,2102578820,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4646296,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9777528939,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,140580314,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19501473,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26291881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8744075,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,872090,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,17526370,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,29948986,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,143110142,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1434427,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11626799,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3921563,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26045654,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,232051502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1348759,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,19130109,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26522525,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,144637754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,98182460,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,804817,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,27127013,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,18441036,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27515656,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,76887450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7752336,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4248737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1640670,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,7001937,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20050238,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,37459914,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29620540,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,9821217,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1008631,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3688519,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1973009,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,53151653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,38819049,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,39347562,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6920788,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1859553,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5476684,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,72770308,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,863918,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5417522,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,49550800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20604108,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,22983479,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,18678278,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5856524913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6452916314,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,138811200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,,,23270004,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,12956581,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,5062701055,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,431616626,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19930889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,614546675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,66971051,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,625765757,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,56762023,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,633970207,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,495500070,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,68589244,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,139210047,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,10736801,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,847433256,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,70666546,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,152323623,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,487069121,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,829653316,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,51885628,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,436627512,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,127659244,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,26150074,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,32707740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,561036,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,216088,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2775522,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5504578,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2663174,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,149260,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,396372,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,42438306,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3544490,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4132124,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,880152,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,356084,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,485246,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,37950698,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,6895308,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3027487,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2201632,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,139223,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,523343,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,39146417,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,8887779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,51181236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,159204,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,101365792,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,4409628163,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,10373444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,84987228,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,160435,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,278166466,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,150213497,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20932436,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6558990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,93472047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,19475411,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,26633,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,105497533,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9542458,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,152247005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14705217,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,91249605,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,294841659,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,30887,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7163100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6655189712,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7530564976,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,137161334,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,198360651,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125336265,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5464983,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,67243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,82733637,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,91244710,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,29808374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,13541907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,17872093,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,8685961,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,77561917,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,71857265,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,11643073,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1074978,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,172432888,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,247238890,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,207766092,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,587245,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6728462,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,199067155,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,189924763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,674627,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,52241196,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,193605695,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,9249087,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,182753685,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1326372,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9001680,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,211104029,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,14536918,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,34761639,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,75397680,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,44093227,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,169376351,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,21428185,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10319,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,41122284,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,20177773,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,21877103,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,74344362,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,74792652,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,16763136,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,71023873,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,176644989,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,16656,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,42815055,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,76438570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,787834894,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,836573367,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,66009020,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,51194143,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,37633838,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,119986419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,440640087,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,58601903,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,349531184,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,464243067,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,122510740,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,574184116,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,76603790,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,502683123,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,135981801,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3141920,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,681984765,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,132314155,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,146338907,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,565667054,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1622165224,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,20245291,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1404485271,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,20030053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,155372039,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,159733396,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,14691543,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,44799783,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,436027047,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,500075693,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,116772350,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,127388755,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,25073826,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,632381941,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,32861431,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,839065145,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,112459311,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,6875030,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,849760,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2768317,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,454216,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,379709,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,811163,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4139634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,40964549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4580196,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3294180,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,389551,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3557269,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,114892,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2087065,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3479224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,60403533,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,24426244,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,102659013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,156768047,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17114518,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,146379,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13600446,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,146320310,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,80733769,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,8530368,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,247295203,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,58378,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,11130505,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,53957429,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,230508743,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,36484278,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,107085108,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,453571,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7931028,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,127041984,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,142497498,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1587512823,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,56524045,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1684016414,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,53401696,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5575819,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,158951169,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,185914733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,171894,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,114777195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,276580559,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,59831461,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,54906831,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,132297,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7025557,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,157264142,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,160349266,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,222283896,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,184637494,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7561969,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,13878594,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,9922918631,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8933603,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,751098425,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9992747,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7300402,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,23314601,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7134676585,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,642423713,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,109483454,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11548188,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,41099929,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1136389,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,135307127,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1136904,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,21695460,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,181336007,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10491727884,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,21510862,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,9088885,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28112532,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,107997114,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7377544,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8239816185,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,84663108,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,117099217,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16599847,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,80155443,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,31764288,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,82168058,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,8701901,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,40061254,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,216116693,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,8721357,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1331595,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,224542266,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,19585236,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,187138311,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1285317,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,100448731,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,261756820,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10040034,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,11502981,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,941600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,255118233,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,40390768,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,164215594,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,12028808,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,25142911,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5692432,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,81639497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1381008,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7556329,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,122912973,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,4633307,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5651904,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,23518588,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,75935771,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,104322489,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,38267631,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,25912156,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,943436,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19696642,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4694861,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2809630,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,117944410,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3597712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6963572,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,42622757,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1449660,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5789624,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,27677241,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,24322096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,82738936,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,29756876,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,217719399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,130214876,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,136860587,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,248964,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,175358266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,22340609,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,17646,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,93594270,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,11899,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17461670,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,83764512,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,179702593,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,40067760,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,14328765,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,34327767,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,89905327,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,83774947,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,165285455,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,426232188,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,29092803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,79131714,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,612131777,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,38377319,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,87186381,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,59599528,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,171257355,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12328093,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,47903310,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,46034360,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,11242639,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3440653,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,40904994,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,59188269,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15291323,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4931500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,95460556,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,61232216,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,52874017,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,22802397,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,8359211,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,170516135,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,505346003,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,60732901,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,521376517,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,46638497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,41524371,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,169185027,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,93965359,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7062282,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16513590,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,715358,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,20500082,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,25480683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3763628,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,73606331,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4790320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,92128983,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15101655,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5919853,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,35995207,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,22126041,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1268248,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,34029424,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,220824,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,19668570,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,869717,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,92527561,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,23471754,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15390522,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,141729305,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,20022411,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,15608349,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15123511,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,31618470,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,87905084,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,14663588,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,147357150,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,13319290,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,16394666,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,247873,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,16845763,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,9986211,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,474732,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,17750002,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,15104324,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,13959011,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,13603405,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17523871,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,48880296,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,61574391,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,112261339,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,172333934,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,64609528,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21921031,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,49543524,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,9871008,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,66308337,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,92309157,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,40054465,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7921967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,126380171,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17915783,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,85016595,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19426751,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,774960642,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6535188080,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,147074668,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,6612370134,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,890634191,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,586301333,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,74861900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,26836808,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,694227898,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,14292265,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,856772039,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,174295983,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,48275029,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,799336004,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,660487533,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,22797136,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,86393513,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,652127821,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,37467336,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,59674979,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,630879378,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,149000795,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20920665,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15936161,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,14655322,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,137337934,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,67814370,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7476209,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11552176,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,73722,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,88362774,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,12490665,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,133770402,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10881310,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,28763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,102094141,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,15932217,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,142790047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,10403844,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,18407243,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,28844094,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,84987419,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,14305483,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14381995,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14932009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,5611715,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,865403415,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,138134536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,61300754,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6918425,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,614986909,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,58873810,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,125906,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,5989664,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,101444000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3570428,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,685719893,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,58257547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6519874,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,98185115,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6780588,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,423465294,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,62193257,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,168501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,133327782,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6494039,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,124558250,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,236564094,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,112865383,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,103789151,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,244953277,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,99087383,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,191592007,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,78375940,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,204056,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6891832,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8293793,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,660855139,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,69331815,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5188609,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,133691098,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6408440,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,212606507,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1033857501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,50,Silk,,,,,,,0,,223830,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,90117117,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9503946,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,117126048,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,951703304,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,62697662,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,319779,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,140030023,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,15744711,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13767682,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,16092053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,90739345,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,164596495,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,15425424,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13990840,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,191623,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,15305467,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,23180915,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,17933281,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,18022781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,144682979,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,17062879,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,79983267,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,13088042,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,67327119,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,15265178,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,14457132,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,403301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,26744103,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,123221240,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14778304,,,0

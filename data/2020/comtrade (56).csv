@@ -1,0 +1,874 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1337999,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,723020412,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,34495847,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1446859,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,642636,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,31792815,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,225051736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,1967633,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,7985067,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,45308902,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,188428422,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,7879818,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1200667545,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,12987883,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,30403121,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,27135771,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,37613269,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,4825029,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5890000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,321126474,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5869054,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,6023934,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1071558883,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,79414298,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,44403971,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,11246741,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6558123,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8195461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,362653134,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17215059,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,68870142,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,68547690,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,26474872,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5401833,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6841984,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,64594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17443304,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,57065893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13898696,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14888136,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34867416,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9143627,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20300081,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,50613432,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3936917,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,193631418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,414852930,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,80389086,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,343548140,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,213340559,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,89152,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,144129287,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,206346377,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,663169,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4690270,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,20980483,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,10834,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,693295009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2391310,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1077560,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17086594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10769098,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6113912,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4050420,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,117489423,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,22040707,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,509852894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,126636455,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12096263,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,4711319,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7618348,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,93739664,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,42463063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1836434186,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,20607263,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,47759647,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,500665104,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,223244452,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1982512533,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1472345,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,552555,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,100296,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,13575418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,8229512,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,174589,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,35017447,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,47719818,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1565109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,83938749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,21835163,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,13975156,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,853030,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,454323,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1447065,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,12609917,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,107238828,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1823174,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,19574017,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6223995,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5889,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9377692,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1378973,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17189946,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4209171,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11181021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,23156066,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6356192,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,22380972,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,557183251,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,184232495,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,209561770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,120762178,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11716330,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7848537,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,4042163,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,14359853,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43825522,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,107935581,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,351738314,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8276469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,12216513,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,19830944,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10028476,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10033209,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7610961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14187902,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14530121,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,59061852,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20286641,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34106032,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15342866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,68967385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23528154,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,71010079,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,27498276,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,297255091,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8722911,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,45491080,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56312529,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3526836,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,22270230,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,191993111,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,441900052,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,79329667,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,689066,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,324182931,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,231844304,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,125151,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,763891160,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,216029335,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1944911333,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,36816757,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3189244,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,240311,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,476472612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,301517372,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,4326013,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1253812232,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1880265965,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,49942770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,165043396,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1772830,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,51336677,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,7256227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2723451,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,871849,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,36670888,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,841456,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,35538431,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1006290731,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1397062,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,21176579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,24668604,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1722139,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,80464859,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6027434,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,100541,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,58070951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5702883,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,37440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,6051202,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,4004302,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,188883,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,3446066,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,35384674,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,44560757,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1639582,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,116465612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,88999833,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1743594,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,521322,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1065518959,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,118925931,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,12695872,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,15631478,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,358066491,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,18579417,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6992026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,31897910,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9678053,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,12642361,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7157450,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,52566933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,14368482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,23548738,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,469930878,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,10012052,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,196696680,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3298511,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56392930,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,48676069,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,21296657,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,79985896,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7955083,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,84052047,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,21342715,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,18479268,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,85973382,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,216468328,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,373317403,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,71210608,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4191210,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,764491727,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,639733,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,37547228,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,76546973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,98050638,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,470039,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,25327933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,4325013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,6711812,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11263457,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,131336400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2245879,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8794708,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,12589795,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5995112,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,38031604,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,554473604,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,101588287,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,52159,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,47815601,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7693679,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,26297294,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,351313908,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2042079359,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,213172562,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,46177936,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,524579487,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,12524686,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,29043098,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,101028976,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,19632230,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,336009935,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,50958344,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,44473356,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,13423182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,54831828,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15791790,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7817989,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2544383,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,43792857,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1601025,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,15254597,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,616033110,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12297279,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,31652307,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6623359,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,68738278,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,18225798,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14436645,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,338061986,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14436530,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,64528273,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41210611,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11844187,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,183167489,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,9825065,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5035529,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2105519,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21705508,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,318995978,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,50581436,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,177492422,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,9679006,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2061116,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,50739198,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,227708768,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1622141317,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,395954,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,526942634,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,25127,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,11265574,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,25930,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1676861392,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,36435188,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1807664,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,97065998,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,4405400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,115523791,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,976403,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,3547978,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,8805407,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,1057636,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,28299839,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,20835122,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1063946,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,80586939,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,133887043,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,676483,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,584684279,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1399549,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,78097744,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,13076565,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,141881496,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,123375284,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,13455423,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2194783,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,54713420,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1180034063,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,302822576,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6325275,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5348758,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5713504,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3093308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,31923403,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,11988930,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,548176,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,250947946,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,48928871,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,11472842,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,123864753,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,2577006,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,31369325,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,442450481,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,80618323,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,989571,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,19201927,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,17066209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,393020010,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,3923728,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,80273,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1172334576,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1987822195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,21548737,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,95761624,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1603210,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,695737,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,2115005,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,340464895,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,96082502,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,80863971,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1518537,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,7387816,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,34790057,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,22896318,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,160772177,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,13707935,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,2121874,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1449747,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1248156146,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18167712,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5517387,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6440850,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,360430490,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,6457270,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,58027107,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2859142,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,25215870,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9184090,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8988880,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5299640,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11624159,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20884015,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26312972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,13812355,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,75910965,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,65697704,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13906257,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,83320782,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41498235,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20730766,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,52898638,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11578549,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20069586,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,49097144,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3034284,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,172027165,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,440511583,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,74970438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3835299,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,213353263,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1017044,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,112039,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,28332,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,648773830,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1429356,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,128888,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,18166317,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1504156,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8229934,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,12894901,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3416011,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,36947775,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,49824647,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,24523031,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,466411492,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,222514709,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,115852673,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4446255,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,40137,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,46970548,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3904411,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,69681852,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,22587352,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1853581,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,50643583,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,235390293,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,49284949,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1540652551,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,504749131,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,114660,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,462131,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1886245,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,1822378,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,366514324,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,13046741,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,12606265,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,614212,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,145829697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2708021,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,390980,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,32862787,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,42123468,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,72081147,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1337443098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1327516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,3633381,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,16052039,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1483789,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,11458671,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,151976607,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,6397485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,130726,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,3021364,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,25828638,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,5528407,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,954399,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,20974018,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,66263746,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,60034109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1581187868,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,10079,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,16811147,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1027279108,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4933954,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,9079660,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,540167,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6989443,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8950132,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,284985389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6455463,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4508346,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14591502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,47184654,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,32523898,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7288616,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11361575,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21908159,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11205502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,52357607,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10796360,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,16998055,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,35533986,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,67123643,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,295849108,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,10232343,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,33582578,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8574918,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,76233040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,51949063,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,150849371,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2522411,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,21083987,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,68189108,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,424218319,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2539375,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,216285951,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,299733462,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,65862,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,695142,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,13073,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,673243317,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1224033,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,963779,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10533212,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3087126,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,38591374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,20123701,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,180806551,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,486304425,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,107060695,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,95306843,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,6227441,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7996531,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,89951772,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,34002797,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,14112406,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,6248697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,128468403,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4322037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,285058136,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,44838474,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,183634121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,44036256,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,473391703,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,515319,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,328692136,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,302888057,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8852991,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,24916505,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7854775,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3472975,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9444473,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7472112,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11587694,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16929855,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,20988037,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,46165926,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11331248,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,50233984,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10454004,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,63221072,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17660618,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,71060726,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,11561258,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,32585504,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1005820356,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8417866,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40212842,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,47460294,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,17062553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,813982,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2881699,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,141138461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,384588770,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,68023596,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3257882,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,617858288,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,369536330,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,181243293,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,21088,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,140310,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1182141,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1822175,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15164565,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1123198,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7278106,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,41813340,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6029720,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,20926729,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,432257780,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,106569796,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,176945329,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,101303036,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,6440054,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3195956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,15884732,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,73180186,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,38474811,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,11035405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5632553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1613909833,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,192468075,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,989774226,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,42163909,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,899875,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,358213208,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,7611343,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,412995748,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,37087448,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,14050337,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,5469611,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,3728386,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,417162069,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1974157,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,3654888,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,8479186,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,60702932,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,21620408,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,103638901,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,706938,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,32076012,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,325247010,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,23628940,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,26863306,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1195643,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,841044,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,604263190,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1444293,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,5285753,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,2395357,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,107175965,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,28304546,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1636745,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,8789800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6769961,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18962719,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1399854317,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,103576,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,55582832,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,6545170,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,38106,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1048647,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,738358094,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,14322958,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,147589934,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,16198529,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1242360,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2045741,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8175965,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,54680032,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,30357283,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10752245,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,945309,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,641782600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2172754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,192642,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1084254,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,165908,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,24431059,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,86735521,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,18185296,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,17899,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,277106015,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,220896783,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,190286507,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3284545,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,409659253,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,187700299,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,60012050,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,87978505,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11184479,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15247789,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,10492693,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,22658879,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7683711,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,89700960,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,8764697,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3765022,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,229728963,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17981464,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,22282795,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17954213,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,39873589,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1952447,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,74022698,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,134389009,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,53740293,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,494154201,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1496646,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,247971,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,708322047,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2108346088,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,109902629,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,21020325,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,10190220,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,457373862,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,37438655,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,49891371,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,21389964,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3792725,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,13666903,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,145978,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1522088,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,129130,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,41986714,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9266971,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,137193581,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16046883,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15857371,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2107471,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,142852477,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,24486379,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,78983815,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,58327588,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,363272519,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,33938226,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,210416168,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,19517121,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,108086663,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,63954937,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,260889077,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2139113609,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,289356,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,14282817,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,554049559,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,416435893,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,202778250,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13396925,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1687673901,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,55561043,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1387711693,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,67231985,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,16750611,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14986667,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,74192472,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,42343633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,698362,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15609326,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15928182,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,96034926,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,167818437,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14209393,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,6288134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1083734,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,119751,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1076872,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11513894,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26695792,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11466746,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20600123,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,81085114,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,77590428,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,22939469,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,193704417,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,292712306,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,50,Silk,,,,,,,0,,43163,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,102639923,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,16916956,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,51218915,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,312021621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,45299773,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,12158025,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,33074569,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,665823,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,152183213,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,29462234,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,409386091,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8920659,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15824701,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7681980,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,108847706,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10935947,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,65146418,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17848622,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,29661,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7055557,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,683266867,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,506783,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,942180,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,52043557,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9346870,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1891443,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1711183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,74990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,3702882,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,97879334,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,32722522,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,226512,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,267352860,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,68700663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,30986446,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,358711390,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,4541243,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,1037819,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,81779,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,16126057,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,13063621,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1036247105,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,37752,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,823034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,2615584,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,2755791,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,10708289,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,68479397,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,78199140,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,30299812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1124124,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,27686080,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2889723,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,11536981,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,86567630,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1040699,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,17206771,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,15487668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,282740953,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,20665037,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,880948,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,44492701,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,4295289,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5093282,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,51864485,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,1719010,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,12740731,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,40924996,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,38057175,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,6949308,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,26753564,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,103707609,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,87393391,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,1441990,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,8607226,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2548633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,2587037,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2578958,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,10273001,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,68154243,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,52269667,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1072666,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1350572,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1377909,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,12284084,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1195405,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,123725690,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,2937878,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,888020120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,14666372,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,492135099,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,31507516,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2895268,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,509107,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,340184637,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,480885,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1345592,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,348583351,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,47369,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,318370184,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6743120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,4717539,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1201221762,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1209755756,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,42601,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,15989574,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,6182090,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,65580,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,14063867,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,35030693,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1273265,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,67557661,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,4316472,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,89412509,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,23388297,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,158103,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,933775,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,2599400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,768148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,36285351,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,286021648,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2698634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,199867794,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,17696682,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,34694863,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,515680258,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,78492,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,703483,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,1221513,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1710837138,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,19462761,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1305292,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,1118528975,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1096962,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,1624955,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,210704626,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,119338653,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,12256101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,1642647,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,16978863,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2565746,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,58716386,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5381712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5568894,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5687446,,,0

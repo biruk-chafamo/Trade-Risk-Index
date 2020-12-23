@@ -1,0 +1,837 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19483900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,200271100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6732200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1391700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,23000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,291300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17441600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,34500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,204380900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,64400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,137600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,11037000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,128020300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4588900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,25400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,71700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19444700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,151845600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5794700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,528000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,16700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,38300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,18633600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5947500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,989200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,38600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,198184300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14377900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1083300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,13938900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,433900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,16021700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19470300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4844500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,18400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,123800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13343100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,466300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15637100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,16811200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6615200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,179400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,89000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,339800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,6994200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,202400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4359400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,23291400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,15213200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2608900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,803500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,156400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12266500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,254300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8120300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,23051000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,920700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13546500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,12917500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,39060500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,279200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1524500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,60500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,693800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,651600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7585300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16903900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,321700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,882400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,21392400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,70800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,305800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12041900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9798600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,25729800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,251500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,729400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6786700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10308500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,57500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8710600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2010000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,22413500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,132439100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,108569000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,25843400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,32451700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1967600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,44000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,3374000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,15777200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,129202800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,84893600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2003000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,43500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,25400900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3425500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12153600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,115306700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,66146100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18129200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,963900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,37200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,6628900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27720100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16041600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,69237700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4167400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,552900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,148000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4462400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4748400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27460100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,47173400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3156400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,225300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4588100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,85016400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3828800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18216700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,36400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,19794200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3309100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,425300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3970100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,64409000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3950600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5391600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,27164300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,26509400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,70430300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,75545800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13353800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12331500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1016000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,24500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,504000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4187200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,68570300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10206000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,485500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,9925900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,49230400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10528000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6310900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,753100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,538500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,8992500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,73828300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13187500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9797100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,669700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,19800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,591600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,8968500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,260191800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,89452500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36427000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17373300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8655700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,304100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2728400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7466500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,194188000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,277514100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,81612000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,27318000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2693500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5483000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17655400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6575100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,101855800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,240943100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,77726900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,23051300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14786100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6088400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,256100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2372200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,3437800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,113087700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,268769600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,92671900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,32563500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18932300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8743400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,114660700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,83300,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,581800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,198394100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2321000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,139029600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,3600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,120368700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,401300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,175642700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1468200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,107362600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,84200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,348500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,224864300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,858200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,141746300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,478800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,208365800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,754100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,140312600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,116173700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,126900800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,776600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,225734100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,150400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7143000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,34700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,169717400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,95700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1401000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19095200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17815500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,159211600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,142800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6676000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,236000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6343100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,3697500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19441000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5862000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,23200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,129630200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10219100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,48800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4711300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,460200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,117454200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10776500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,943800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,10226200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,19688900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15615600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,309200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1018300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,52900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1197300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,14313700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,37795900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14755900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,365500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1151000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9139300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19744400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,32600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,23212800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,286500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1198400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,57600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14150700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7109900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,22860500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9263800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,19893400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,375356100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3440100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,209400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,20835500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,65483200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,632600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5454900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,26139900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,184581600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2111700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,27260600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52564700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,202200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3607200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,190200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,25075400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,220887800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2784100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,41573400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,25090500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,501300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,20323400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20011900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4182800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,423000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,81700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,18718900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,12443300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,28578000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,622400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,19724800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4512900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,632600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,332800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,153100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15779400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,16223900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7320900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,405500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,85900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,649700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14110200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,254600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12232800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,750100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,152700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,79800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6865800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11148700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9570200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,7477700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8019000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7820500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,12199800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,68800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11626100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7240700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6553500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10197600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13200800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,309200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10443900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5841700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4342200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8273100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9284300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5710700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9830700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1401200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,95800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,418400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,200957300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1164500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,803500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,212811200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1142500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,218500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,205442500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1523500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,107110800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,367800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,163032000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1568600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,93213000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,30210700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3103800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,20788000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,140238600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,90319800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,27078400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1181500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,43200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,31366600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,2094400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,130203400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,90345900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20596500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1068000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,14700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,22565900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,30455200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1829000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,34900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2558900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16575900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,90236400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1884300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17438400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,287700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,507400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,8328600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13410400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,29300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,25541000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,16026800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20163000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,633900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,837500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5951600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17045900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,14145400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,13204200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27812000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,101200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1515900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,107900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,591900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6279200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6199500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,25020100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17239300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,197200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,519900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,10397600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,16700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,317100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,181200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5314200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,18788800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,3645600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,276700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3870400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,30185100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,234000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4518800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,72963400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,21670000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,150600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,79871900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4250500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,21537600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4547300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4058600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4498900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,26876900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,21749500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,165200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,127600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3759800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,64283800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1159800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,328100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4150500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4865200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2445700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6633600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,244178000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,90149800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16812500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,176300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,31275500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2359800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7201600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8603000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,127480300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2914800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6129400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16763500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,118879800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,77748100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,24853600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6464700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,296204700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,91954900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,27042400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17935700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6923400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,115514000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,135100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2316200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4709000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,203900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,226300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,180141200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,202966300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,71553500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,21927100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,6131800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,375600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,22681600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,17469400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3699900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9714400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,598100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8839700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,365000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,13769200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,232300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9667600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,16599200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14002500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5441400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,214100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,78800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,104200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7839900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4097600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,500100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17161500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,14392600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3436200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1105400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,681700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,23246700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,127000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16711400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3645000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,885400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4326300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,84126500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2564400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4829800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,25897200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,33732100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,311900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,184100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3532600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,57815600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,81900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,7500500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,15378000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10993500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,113000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8043900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3644000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10071200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9522900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5419000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7939400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,9353800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8906800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7245500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,11200500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,145300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5710400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6534200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7542200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6493800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14470600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,16738700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,224300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1196100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,170900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15309800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,23048800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,322345000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2963000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,64603200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,204600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3643000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,209000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,19185200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,26923300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,20176100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,65293900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,359721700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2606200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,330200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5969600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,200100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,44735500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3084900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12658300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5856900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,202400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5289500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,97243600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,202262500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,70404000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,21973400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13278100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7049900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,116252700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,177600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2030800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2879300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,13657800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9747800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1037400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13300,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,479800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,9228500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,78018900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,16700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,468000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,8669600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,68027200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8780700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,62963800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11722900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6018900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,882900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,715200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10098100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6801200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,776400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7464100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1018800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,16700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,469800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7591800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,41490400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8999900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9459400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,9238500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17064600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9750800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1359700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,15654500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6856800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,34525000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6968700,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,10725600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1281400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,13746100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,27886100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5799400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18510600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8469100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,8876400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4557400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1088300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,7943200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19522800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9428200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8334500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1847800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1265700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,18588500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,10989600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,285600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,69566700,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6361900,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,12900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,9113500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1649000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1349300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,19604800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,28900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,67900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,46900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,906700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7926100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,7960300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,68445800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4068000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,779400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,22200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,121700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1321400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14399400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,11245200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16777600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,143819500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17988400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,30060600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1377500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20163600,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20525000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,35111800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,109634700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,85725300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,82543800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,80400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3486900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,11022700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,92552000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,19232500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,30096800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1358800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,26597100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1879300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14697900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,90226000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,59239600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17655800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,886200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,70900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,62295500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6405300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,5545500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,813100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,11200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,7270000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,46994800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8250400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,6834700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,819500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,563100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10064800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6507200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6033200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10128700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10936600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6961500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6877200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6118200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9275400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10616100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,77000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7356800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8264200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,444600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,14925800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5106000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6082700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5853600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4943300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5854900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,15835900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,585900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,11686700,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,298200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4561800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18606400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,28348400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,240623400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2185100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,202700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,212192800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3009300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18008800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,61075000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,39240200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,234700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2890000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,302200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,56141100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,213622000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2261400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,53600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15962800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8498400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4113700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5228700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8698600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5095500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,8715500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,114200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,51989600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,288600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3934500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,33708900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,32501200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,212632700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,12639300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2001800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,133500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,743900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,131600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,24891300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,31917900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,20349100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7977900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1319800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,34036200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,8177700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7873500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8214900,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17819800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,10292200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8777600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1165000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8981100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8264200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,13783100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8278300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1329800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,16507100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,45762100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8206700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7164500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,20818300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8455100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17507800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9097100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1477500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,16849400,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,71689300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3450600,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1371000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,21100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1831100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,64046000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3884200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1353800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15280600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,11473000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,33100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,125300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1526400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,45500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1778000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,16905900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,9242300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1111000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10971800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,10846500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,88200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,71337500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3895500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1153100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,6100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,69398300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3540000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,8615400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,33510300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,6409100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,13751500,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,11906400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5723600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,28083800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5831100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6994300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7458200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1051300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,25445300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3671200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,15807100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7674800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11922700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,7829600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4308800,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1024100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,70838000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3369300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,24800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1437000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1284800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,17291600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,8736800,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,130100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,62850300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3502000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,935400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6470400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,5469300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,210100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,68324900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3639300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,616000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1100,,,0

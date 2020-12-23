@@ -1,0 +1,1165 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6852642413,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21719557781,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,78155765,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,372757810,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20508216289,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,447789056,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,541652852,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,285764103,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,184620048,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3769182684,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,317101481,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,664938009,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2562148511,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,221277309,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,567182980,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,196234535,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,308162275,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,71096651,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,611634402,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,225477418,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,833911667,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1669331389,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,154436286,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,74146118,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,136726999,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,649965957,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,87861288,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,298845813,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1116717388,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,300810558,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,961594711,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5176984050,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,186175836,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,593414623,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,109162084,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,160354623,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,180608875,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,355733645,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1447833818,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,132324387,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,70627153,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,49748016,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,44397902,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,32708139,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,122278105,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,252921305,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,52734029,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7178070368,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,707156888,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,252099177,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,438537213,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,65243786,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3337704,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,457782602,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,358560109,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,827038886,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12981638961,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,714798026,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12961588697,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,703347521,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,45045871,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,41875744,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,59236089,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,50178902,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,69611603,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,50023005,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4462750,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,137193842,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,66515644,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,861313055,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3073455399,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20239349809,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,350574603,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,626960837,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,339209299,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,54910656,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2885597249,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,824087833,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2585274018,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2381249203,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1174119379,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,163985376,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,66644812,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,10668059,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,139231520,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,33786591,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,244451231,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,817289103,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,254475033,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,72989253,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,47642245,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,14440410,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,52240245,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,367996705,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1449276258,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,380425540,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6473136015,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,23807514475,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2906626302,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,750376692,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1358403154,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,870492051,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1079471872,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,155440790,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,62777786,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,140112983,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9581729,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2544681979,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,29955204,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,650799640,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,483654024,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,383689759,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,49418919,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1441788648,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8341026,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,15054124,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13815791056,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,65667184,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,90674048,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,657747743,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,587857494,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,805106927,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,52051411,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,33602297,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,260378817,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,717895712,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,36282867,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10619190,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,366940235,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,55533524,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,406290134,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,594140492,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,266581966,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,570651257,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,322954821,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,748257,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,96548771,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,159731024,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,82070137,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,112640356,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,213005197,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,689560748,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,863782250,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,61008797,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,169876825,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,184212859,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,228759507,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,147443637,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,134795894,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,413671014,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,190871676,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,70419598,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,301119251,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,248284571,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,588801293,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,20745437,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,334344826,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1352938048,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1676608095,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12756281563,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,124993017,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,200387784,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,51069066,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,496436,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,143998965,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,101560135,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,246517321,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,24202471,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,43397982,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,259730416,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,105188625,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,291105135,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,456395630,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,999681385,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11741612646,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2354433065,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,187269035,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,190090279,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,68391845,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,832833072,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,635003807,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,200770553,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,216780686,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,115180374,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,85947491,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,922870,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,302093263,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,201211248,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,146141751,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,392801071,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,506611733,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,257873770,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,577334199,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,130858122,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,125747753,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,529303527,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,163949481,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,83477477,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,308832932,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,545725174,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,249855699,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21711526131,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,341858927,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,621666893,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2980807079,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,343643546,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1063672116,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2132189501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,234887126,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9720096,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2995049,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,369144295,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2687704496,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,466742520,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,89634962,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,235331680,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1019359196,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,237878057,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,787201074,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,40811373,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16171525,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,450202339,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,53919130,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3299604,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,234447611,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,72483566,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,194941223,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,124900227,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2136245434,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1026576954,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,846089372,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,602546131,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,391556284,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,42834730,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,321027695,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1020879,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,216010947,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2169070140,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1016519697,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,383486511,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,409408301,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,147164166,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,788872466,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,160827745,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2595256844,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,49111009,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,2041041073,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,13997928,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,795592487,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2120784,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1037879597,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,28014611,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,155614486,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,156105320,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,858183337,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,920371385,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,89169670,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7890054929,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,414864105,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1739157662,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,87780262,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2827321,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4167147,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2197068322,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,52314343,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,946892283,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,3005679467,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,96342330,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,548732544,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,795518954,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,129898896,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,133796419,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,885603483,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,84228194,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,112103547,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,130465717,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,155889010,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,161137203,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,260657437,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,94569807,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,771136,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,54402735,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,210657200,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,239515112,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,302399343,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,656681494,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,267710198,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,626673190,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,527945708,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,318769441,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,409850942,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,186488240,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,135027649,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,57346275,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,135444519,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,70431751,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,951359758,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,46260949,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1383211585,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,54865267,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,718033285,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,735704020,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8649923,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16824308,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,53861458,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,846460947,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,267321454,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2050228026,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,355977836,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1993997344,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,464884238,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,610736759,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2626076288,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21280947929,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2944820205,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1599354431,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,368879117,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,630630101,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,169092044,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13617344468,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,65722438,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,82827510,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,53214101,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,48136003,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,236133483,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,221596449,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1263284339,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1111471201,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9367040,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,38468385,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,157166857,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7533764591,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1008971697,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,945579533,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,833905965,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,48450641,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,13430527,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,414416283,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2768157776,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,553714866,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,311812145,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,147390930,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1622145903,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1963285833,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,40767299,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,203121395,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,81959885,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2807393894,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,831531224,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1959364636,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16447499317,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,294797902,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,12725806122,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,387537106,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8197156,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1257680,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,35367435,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2499228,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,51312287,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,104494190,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,213104366,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,69662199,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,45139075,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,198622091,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,42690885,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,55104611,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1046492867,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1141189171,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,250236270,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,663127449,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,316544495,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,20746119,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1877835462,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,46238991,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10940146,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,728163782,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2997630,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,110345170,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1573010381,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3704605,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,242483309,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,109118347,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1284171949,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4591000833,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20554934188,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2357543073,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,668063185,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,712750840,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1296612413,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,851395540,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7388636,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,29542053,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,130132632,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,47504705,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,117151613,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,216615252,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,270700277,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,118289321,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,237549219,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,639138420,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,7380140,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1003105096,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,283497599,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,636205318,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,25899171,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,344363784,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,62677339,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,47257018,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,14372029,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,697166942,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,457266880,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1418448432,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1904226754,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13943409578,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,540660068,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5676722,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,745179020,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,72658091,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,74761102,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,405961600,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,126990280,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,678030952,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,828027216,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,269426584,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,594969642,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,186293387,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,40852994,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,79055517,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1573862985,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2903542143,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,162964363,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21322802968,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,462268294,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,60316032,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,46446167,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1466903016,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,631129744,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,280476841,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,224421802,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,509378725,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,337737678,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,621468396,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,638881299,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,728018563,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,23113617025,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1008949638,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,344490821,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,236494458,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1643461386,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,49412171,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3221360,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,94598742,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4453566,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1420909104,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6910521145,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3544909343,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,399853059,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,778042157,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2414694930,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2092294280,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3007319380,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,19391763126,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,327403275,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,101638818,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,296608037,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,41328499,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,62949591,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3411193449,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,155000599,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,448143818,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21410610334,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,583283468,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1273404251,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2160547600,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,356590342,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1516588343,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2611822467,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,341633220,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6425633711,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,760678735,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,697723659,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1409296233,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,927602726,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,147798364,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,65980197,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,126947531,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9682422,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,29840540,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,63730489,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2382257,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,44535417,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,135513102,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,49013084,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,84995450,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,48557779,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,64454141,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,230575809,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,154571725,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1036325371,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,111455277,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,224104734,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,905437258,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,681137828,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2037054994,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,63407560,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,7808161,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,827947979,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2270337,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,113510039,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7870335118,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4193971,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5077430068,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,894021986,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,863193015,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,468879810,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,225581185,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2811089,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10240670,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,704814481,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,253331603,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,721771853,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,737603410,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1106921293,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,285901225,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1474243383,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,14310399520,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,888113845,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,77130762,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,42836247,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1623040898,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21670561544,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,484517306,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2203674085,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,114951351,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8889774,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,803490842,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2144474460,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16961526,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,57625193,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,424860461,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,138916960,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,244933352,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,93041637,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,77485568,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,430768754,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,55813889,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,40779926,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21634477,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4892936,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,346724452,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1145851593,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,4413242328,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6998909753,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22727232822,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,133174458,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,131412217,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,878406194,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,925803555,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1188682120,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8300604460,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,404310409,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,877995436,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,14614635,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3810613,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3062998,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,102626418,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,288746969,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,127864600,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,108695123,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,163924902,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,60046767,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,370327092,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1150788567,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1826627558,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,652465539,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,51204471,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2759751008,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,82898221,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,446984602,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,306523036,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,206046597,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2103951069,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1530574486,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5410317357,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,91596375,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,599903961,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,292081423,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,720174799,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,93455804,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,565700321,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,193164737,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,101747183,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,137026873,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3045883867,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,769861547,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1074030660,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1439884649,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,178001129,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,998596380,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,766209329,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,246946866,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,253712590,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,306554525,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,902354,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,72208281,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2736119459,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,64939440,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8413035,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,131394257,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21103915120,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,290203705,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6803383496,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3321423296,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,133809975,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5172053562,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,749015061,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2141018033,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1097817430,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7818408972,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2075170034,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1023665528,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,346612699,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,119426571,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22535540,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,180559440,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,11712630,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1419327997,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,385690358,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1763285663,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,64705971,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,232218693,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,781644896,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2624091,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,96891783,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1959577,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,70051195,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,41795390,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4666455,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2986446,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,122701409,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,875568112,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3051800577,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,80212107,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2676025767,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1794734551,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,54471832,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2872757668,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1228180260,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,318120076,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,615816247,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8398914664,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2284940422,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,350980752,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,129386558,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,26012716,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,70107289,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,255403809,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,48536890,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,231104448,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,151591554,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,66671972,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19916831,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,693841,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,290314260,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,156575879,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,105559020,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8220593,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,130782980,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,64395773,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,228551073,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,143670186,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1404227895,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2106120977,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1006715304,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,816852159,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13933286997,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5282267696,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,117552915,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,259579413,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,69476785,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,11019739,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,810206014,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,45071257,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,15011695,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,475541450,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,754567076,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,732023286,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,141527041,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,924921330,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,121181069,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,86800998,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,167006861,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,384341293,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3039564,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,61945576,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2518679,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,46641754,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,65997102,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,87827603,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,11729944,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,278935016,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1034501479,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,826239370,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,120044928,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,156771926,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,3015080371,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,879325150,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,87819100,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,53753306,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,158829692,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2255553684,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,202094637,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,154236121,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,135880783,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,238501053,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,211789035,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,924462071,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,743704293,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,70063117,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,104427544,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,249565446,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,740115,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,290872554,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,605578263,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,610637237,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,385139960,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,102100855,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,119506221,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,166098862,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,448211847,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,129797043,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,251488761,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,554224262,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,300904834,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,628442493,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,455517249,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,353787650,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1306591846,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2522432052,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,11834464,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,22786919257,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2674069930,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,815066064,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1473272847,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,723358612,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,996764938,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,152001932,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,77537634,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,135925547,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9431530,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,31754744,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3032653125,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,84625719,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,514609645,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,47405003,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,330740675,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,66997007,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3514734994,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,155164401,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,370587699,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1555969590,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,385724880,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6749114991,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22347716173,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,830408592,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,215198279,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,118809331,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,175866517,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7404574252,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1138822176,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,988173563,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1804206249,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10273926,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,359396447,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,739603571,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21697436,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2211254286,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,67758386,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2649671,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,354632798,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,76472363,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2906043,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,12763412,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,89754400,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,136580664,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,246696171,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,111492949,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1417759664,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2966078,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5408920,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,52731390,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,51483460,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,239256410,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,78912263,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,853799751,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5375448510,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,970902054,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,272172433,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,682108594,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,41482336,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,53321353,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13330791483,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,219376510,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2700945583,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19558634,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,125718528,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6328765498,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21347866418,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,10281858,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,88372776,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,846428673,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,236402806,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,50601010,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1025206996,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,699734606,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,74610452,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2869945,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3890411912,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,42484789,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,193523954,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2837971525,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,150849586,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,213094906,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,370383269,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21781498137,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1513958720,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,143927173,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,11184743,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1305003558,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,13768931477,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,113217860,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7780599850,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,239251872,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,772341091,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,128259210,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1171641393,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,163909989,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,969610497,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,20535216,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,350461478,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2487593877,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,75432607,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4186156,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3015912,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1863170536,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1456965911,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5510272358,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,774483200,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,7123175,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,148223771,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,118472331,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,504702912,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,598942950,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,286779564,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,964268,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,256985347,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,172413213,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,165072247,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,177716344,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,178410746,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,74962137,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,710718990,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,907371641,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,232048453,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,209875297,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,105032942,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,94217648,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,53773586,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,521053288,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,177246889,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,366956828,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,529047548,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,269122730,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,432548400,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21240547145,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2694429160,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,828804789,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1449815116,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,761625620,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1001627106,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1002848158,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1124456890,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2712997,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,249443321,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,456722624,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8195991,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,73133363,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,135106172,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,49997090,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5722762,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,55120931,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,87172274,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,52645965,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,151203246,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,38118498,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,58595950,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2660772646,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,158068893,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,127570902,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,129210577,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,239739189,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1038285252,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,851823119,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7353894784,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3028026768,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,86247987,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,385024566,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1852692673,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,51647921,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,72940451,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,408154484,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3626445,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,142896666,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3622289,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,89727024,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,50423275,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,255248744,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,52228915,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,240537785,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,78145971,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,970865491,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1188285613,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,258346137,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,876000401,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,50000098,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,94194612,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,3306151890,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,853509515,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,773504898,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2364755182,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,192907289,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,173501426,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,130361945,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,201913103,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,247897810,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,932569006,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,699798288,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,75021073,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,407484651,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,548382070,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,292232970,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,630743471,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,156627346,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,188585819,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,280264156,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,119749640,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,152607203,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,171923221,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,530612923,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,124070048,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,363109802,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,256377458,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,605858253,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,22495073536,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7110550163,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1540454743,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,387574577,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3313250407,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,66869584,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,48356831,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2020803713,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,159977324,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,363366532,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,233919785,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1188574491,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3112582,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1514005732,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5735791,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5479306105,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,13202990,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,947737,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,346786829,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,25492540,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2494519981,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,79618911,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,21488359835,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,43739513,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,819795004,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2999498151,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,8237939,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,121241474,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,812124753,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,213986395,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7094973354,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1075507631,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,212399371,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,956678298,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,708469533,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,314571085,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19604618,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2479284253,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,75467474,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2959269,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1434731398,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1731903653,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4737782,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5210039526,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,129206056,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,850284421,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,58489328,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3171169704,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1139526929,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,158562666,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,62478818,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,381696544,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,146407439,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,10849968,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,138676965,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,368438512,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1485537065,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,35377511,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1413470682,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6408354983,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,821712610,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,482830051,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,20469559289,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5646092,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,166926722,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,277568270,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,84327799,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,103764281,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,561762251,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,224386805,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,490908287,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2478234315,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,884969502,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,26859170,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,96019201,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,800097214,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,68021017,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1401537350,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5302983,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,147369969,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,276152254,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,148336295,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,876523872,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,175133523,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,652879539,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3856155093,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6405209349,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1846309212,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,150574195,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5709104521,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,242786021,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,424424948,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,228406005,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,164607205,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,37692060,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2620721759,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,776407804,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,481467667,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,222688735,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,41090000,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,333685008,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1045807505,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1989560129,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,150661852,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2290418,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3676523,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,7155116,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,58290951,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,600910977,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6517994755,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,899148103,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,789046698,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,220331453,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,300601690,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,38149431,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,6031687,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,78348768,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1452023968,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,42342495,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1240839478,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,336958520,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1306825227,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16282185402,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,549767902,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,64724074,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1868968,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,40677632,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,71161008,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,191799658,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,57571875,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,80560025,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1797300285,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,368059228,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,37969641,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,67998282,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,559053397,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,170487483,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,303412314,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,541920293,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,244395410,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,294379803,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,791300,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,129691090,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,134038805,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,409618187,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,583458662,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,272369495,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,630404366,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,161218870,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,161447140,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,243524002,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,60351574,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,776653693,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,859625727,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,112842990,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,135605159,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,117937133,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10626545,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6342452438,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,6130582,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2188857853,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4950685,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,378715467,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,835062363,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2211040045,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,12193098,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,74341338,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,96636190,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1406884739,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2268522,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,135476700,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,365691420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,282503390,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,147597420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,162254646,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2966632804,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,488009058,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,1390944594,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1036587123,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1082656145,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,212016835,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,57435825,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,57759946,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,46645480,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,35029712,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,63098605,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8151009,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,129837214,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,125669652,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,788215556,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,72727230,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,110739035,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,642459,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,68290395,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,248854370,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1706843479,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,352103850,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,193709676,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,175827083,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,158104843,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,121616634,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,272789911,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4922647317,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,311372779,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,53199479,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,58251941,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,34332136,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1854876217,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,592442463,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1331881687,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,356963853,,,0

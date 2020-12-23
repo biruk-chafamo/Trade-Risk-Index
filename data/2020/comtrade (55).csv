@@ -1,0 +1,777 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,55915209,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4483413,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,33198476,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12965375,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4474737,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,480466430,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,57104578,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,228000760,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,12722520,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,203104249,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,12100800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4423048,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5719135,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,134041573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,139896433,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,35908171,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1243458997,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1408951473,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,101296223,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,77091507,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,486361205,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,130620113,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,90874701,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,52601986,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1670366,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,156200859,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,9140959,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1166096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,165043840,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2009061,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,40057729,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3216401,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,9442252,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,241107045,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,117989502,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,225037523,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,58820188,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,25460288,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,32552070,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1839021,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,94259,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,46369813,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,295706734,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,36981566,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5927409,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3632065,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,23357748,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,35277686,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,36557937,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3777605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,21420079,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,654522840,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,195656874,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7849041,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7135029,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,17181162,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,41864500,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,215677479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,352975069,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,50424821,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,352318297,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6265885,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,22554517,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,94865688,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,259164414,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1001365596,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,926339601,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,382329911,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,314803316,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,46352269,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,854185123,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,66431965,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,605442558,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,57283510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,117975544,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,449129119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1452357555,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4999057022,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,61549974,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,66621835,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,25770844,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,60776961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,50104317,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,66640155,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,324262505,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,4105562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,273269703,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,571043574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,100845654,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,70177767,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,133426374,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,582899502,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,211015088,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16249185,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4893952,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,4098920,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2711863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,104819092,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,106995524,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,121434606,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,387865221,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,61372818,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1595348807,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,267666357,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,13082013,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,368054217,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,117964005,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,267244522,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,59494285,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,757411017,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,96706087,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,129949457,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,60634687,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,28403525,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1449909990,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,301412951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,53830081,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1200901,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,12730484,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3685461,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,18452485,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1670732,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2695055,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,26859654,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,27720263,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,289723140,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,668421964,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,347734597,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,169898333,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23493937,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,355736506,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,351961007,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,38230009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,975169916,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,394168303,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,125890313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7488162,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,64415901,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10771699,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,112538211,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,287777,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8132157,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,49918985,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7566739,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,123748950,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4229755771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,48173625,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,546728,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,136315585,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,74951182,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,32826257,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,859818150,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9075690,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,27503761,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,50012244,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1017245638,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,147806025,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1115202102,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,247347409,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,59913448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,412548986,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1541992210,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2258518851,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,73220302,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1036663374,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,95374503,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,746342240,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,94018289,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,119194042,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,338762396,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,321548739,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,786774564,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,184381626,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,73693208,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,21440348,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4263118,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1138745596,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,275080535,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,164095805,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,22493315,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,329854456,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,61233825,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1169841053,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,35789140,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,355904330,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,109364465,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,44917621,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,22618745,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,27116127,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,525666828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,128381301,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,63366284,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,91103036,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,271678797,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,6588569,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,49126099,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1260175,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,1887195,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,158308541,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,48975409,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,47014347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,159093736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,4004495,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,5511892,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3413500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,143140964,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,169663950,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,198405574,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,168807925,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,143694477,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,58217676,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,57916351,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,268074062,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,12360077,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1679903,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4734908,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,28263043,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3340241,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,91132579,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2055944,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5614339,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,124554938,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,245433484,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,332657920,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,335749019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,279878874,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,31229592,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,414428957,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,29455902,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,108289913,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,726452884,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,55975499,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,218446894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,133612711,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,418043402,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,102613418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1150904928,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,50603863,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7988055,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4354913,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,34562192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,47946541,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,44485406,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,31226109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,899594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,249324,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,52188865,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,8204949,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,68957720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,50066855,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5078240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,308917685,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,26600477,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,328636113,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,60346666,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,329936570,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,62667136,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11656510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12076600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,45679652,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19806821,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,54622976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,7603804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1929690661,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,121187617,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1482808873,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,79037361,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,61642698,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,658479819,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,653745721,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,142369297,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,307449331,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,129242343,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,121130749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,960421063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,100879524,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,366361298,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,445325607,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,236971463,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,68188707,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,330287354,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1557863849,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,72292711,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,152516340,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1050153113,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,35812170,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,769555522,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12017018,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4994886,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,358276597,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5876016,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,85533192,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,41773724,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,124646727,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,677943546,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,295343469,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,113375914,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,171102457,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,124338666,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,19832984,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,48723671,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,953142751,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3086941,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,6745121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,836915655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,427876,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,3744518,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,21485248,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,483885626,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2382068,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,195188556,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,91212980,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,29887838,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,93444111,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,95778923,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,886248,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,396872047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,508411189,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,399935655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1107414935,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,58714200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,163240500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,207528191,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,49347471,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2990196,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,75224517,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1442834,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2213103,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1887547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1678011,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4423188,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,15005705,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10318692,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3964345,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,83737,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,28710808,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,36575257,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,123072228,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4073874,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,83983768,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,23533236,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1359294,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,120821409,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,26370601,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,12897842,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1180143402,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6201127,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,21738657,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,355147176,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4499687,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,352757795,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,788449954,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,88144171,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,181421099,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,148780143,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,57278067,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,67485002,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,788378078,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1005815097,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,59424799,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,243741984,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,125244249,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,135546780,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,26458817,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,20809757,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,47934853,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,174544875,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,870181,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,50039604,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,41383879,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,400419494,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,158636715,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11422171,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,695574162,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,109435838,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,322743560,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,155172528,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,93153151,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,295501444,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,218463992,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1976231,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,22350457,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,48614512,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,30277111,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,64759677,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,79429822,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,181312763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,32706916,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,227834049,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1352911,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,53458877,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,132269943,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,505079521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,12472599,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,50815973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,24725972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,429089678,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,72428057,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,50428021,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,45365965,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,75144919,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,25002045,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7940881,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,54999747,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,22388986,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10692070,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2607191,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,296466045,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,50602614,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,198816223,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,67212962,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,48144560,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8366443,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9673826,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1375433,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,102872041,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,135244784,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,877012063,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,104418033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,785852173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,30715664,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,255508665,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,5968758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,143155973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,177552026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,205237712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,339149350,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,638516382,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,26878879,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29229835,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,117712153,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,567611984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,145965527,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,52005729,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1022585282,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,31019465,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3399297,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,940249312,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,407510305,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,229204513,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1400693905,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,306471852,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,57671035,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,57634115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,39015239,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7116974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,69684142,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2665496,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,73253076,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,227819,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8598505,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,6193832,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6357948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4195372,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,197492618,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,183687362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,332060951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,56577279,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,57221039,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,121635014,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1882127641,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,19461144,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,289260189,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,113477180,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1240374715,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,382149242,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,117557966,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,187721067,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,1035779574,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,25383103,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,259707635,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,434444791,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,229384596,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4374194,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,47255942,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,157596359,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,53109074,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,259541332,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,353932780,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3404792845,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,117117083,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5601363,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,436685431,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2112341417,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,70816699,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,41404790,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,292207360,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,89011432,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,200406996,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,51524917,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3603363,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,232692135,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,257667222,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,77783866,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,967261426,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,39853205,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,326118363,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,154108594,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,29531159,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,428661157,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,760205989,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,47392972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,122477019,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,354153443,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,201554376,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,928448,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,36035368,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,426916241,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4592289,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5797299,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,47281420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,466533991,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,46059170,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,152513,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,56367233,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,932684852,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,70024196,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,24134303,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,145321011,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,308714417,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,175990168,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,330522350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4407688,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,23379068,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2190362,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,181510304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28063994,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125097546,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1347816,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,52599578,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,46980821,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,348187234,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,185354084,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,301881679,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9619835,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1446047864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,480658747,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,120503288,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,337926505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,90919268,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,71250110,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,35693228,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,27421521,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9504896,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1813783165,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,235524268,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,17966869,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,639213371,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,48926468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10287752,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1622591,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,75937603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2040583,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,96127482,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2620232,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,112823341,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,21815357,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,64185650,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,194166199,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4955395,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,315510079,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,170277202,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4951680,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,23636384,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,123881636,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1051077734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,106486808,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,159563347,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,102972144,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,398266469,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,11725116,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,263512372,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,29073040,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4032549,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,41537712,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1947741742,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4616808130,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,125681570,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1278246280,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,20467507,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,305999818,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,320200556,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,422462186,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,2543468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,54313622,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1763095,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,94066120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7838131,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,34970639,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2717302,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1455834610,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,142449871,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,990772662,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,390400031,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,6989036,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,139508798,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,29216359,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,38613154,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,,,48879084,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3426800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27951532,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,96572167,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,338906916,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,62695313,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,262505895,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,15562768,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4641010,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,34260037,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,43695890,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,317592944,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4793408203,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,741946576,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,82630185,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,178708433,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,71307883,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1399570667,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,8289245,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1509047,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,40441249,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14321422,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2353046,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,115178057,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,394770841,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,188608660,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,147888330,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,637576138,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,521203801,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,82137924,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,312754844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,73882053,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,817401002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,50673949,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,159524637,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1171912,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,197747758,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,58770353,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,30019564,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,57364752,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,9594884,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,255330,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,45482010,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,47260579,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,147240939,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,5363399,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1876821371,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,26816919,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,770540356,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,424164956,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,301265578,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,30702327,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,187537665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,480501955,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,307420683,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,106046345,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,111482164,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,133088983,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11241464,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28043325,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11197974,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,30914339,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,197889463,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1469828988,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,313964345,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,81617650,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4851028,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,403790494,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,69641763,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,57024681,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,56562785,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,69814041,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,314242752,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,244918740,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,283570702,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,414064900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,937458211,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,109795824,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3175097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,592911088,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,249547826,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52867993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,53830486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,263576529,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,171459840,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1883698581,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,284394033,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,31674252,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,121713600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,344352691,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,133610445,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,137995985,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,878822,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,310260764,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,429975804,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4966942,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,42004770,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,264552256,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1014903715,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,167231161,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2722642,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3102340,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,257910160,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,620375960,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,330310446,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,111724410,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,44570172,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,58564311,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1049294500,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,155473349,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,269040645,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2894850,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7216004,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,54254218,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,159825907,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,64070297,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,42140289,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,13657175,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,5211108049,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,425905802,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,66082958,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,50071296,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,333194066,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2512222,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,14818270,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14506751,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,138201616,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,71600136,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,375316432,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,178460464,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,118287800,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,462822233,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,820490693,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,176734341,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,172286854,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,28730073,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,117827936,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,59651263,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,113144038,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,3419634,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,292968842,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,70413281,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,187826098,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,140187028,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,74118574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,620034530,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,370809965,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3451648,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,560325112,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,43588292,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,54963109,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,41624356,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2479257679,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,80107234,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2405951,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2185682,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,71411606,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,257438665,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,66023780,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,325231699,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,27234463,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1990310085,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,30369841,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,615789948,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,63380264,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,175862788,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,459267298,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,145515145,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,32230511,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,32440593,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,44833738,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,50,Silk,,,,,,,0,,160050,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,148453878,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,327458662,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,32498438,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14590902,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,270548605,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5545589,,,0

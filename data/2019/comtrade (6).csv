@@ -1,0 +1,604 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,16473,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,99,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,130733,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6936,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,55722,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8246,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3576,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,31299,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,166,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,124,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,86427,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,21,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,356,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,254,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,568090,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2155090,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,275573,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,176179,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3038,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,359759,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2968394,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,66776,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,30979,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6045,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,128,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,124533,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,27187,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,104803,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4413,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,44413,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,171,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,162335,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,34448,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,60002,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,360837,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20130,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,77350,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,23848,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3337267,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8683,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,20314,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,450,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6441,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,11327,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,98386,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,3435,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10920,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1689,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,147688,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,30300,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,5701,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11535995,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,197,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,15445,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2389,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1929,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,225417,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,909876,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,8433,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1399779,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4156430,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,103977,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,108633,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9271,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,214707,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,16979,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11018893,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4435029,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,275100,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,128148,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,67780,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,593,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1286,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1975,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8707107,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,404,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,337571,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1838,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,18347,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,72,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,122,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,646815,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,291277,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3095,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,83,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,744,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,154138,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,331503,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16322,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,48,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,936000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1242167,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3266248,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,166927,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,98569,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,91056,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8731198,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,75657,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1776745,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,531886,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,770610,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,567099,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,365798,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,415863,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,978,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,95747,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,798202,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11114,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,169689,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10893,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13183,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,558425,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,739,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,37795,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,152323,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1676,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,130552,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19444,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3061,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6559,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3824,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3456,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35761,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,65919,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,113889,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11263,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,135,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5156,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1093,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,106113,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,22232,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,313965,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,38788,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,605,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,305770,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1655,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2135,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,20618,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,100802,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,817712,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,766,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,37662,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2465,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2589,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,100775,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,8243,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,473,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3183,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,161400,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17333,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3875158,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5400,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,110291,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,22750,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,158814,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,38794,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,23532,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,504,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16269,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,164540,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1343002,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3799,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1249,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2449,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,212,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2093,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,241,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2130268,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,70561,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,20100,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,303861,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11770,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4341,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,371490,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,348930,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,939,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,66680,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,112167,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,743424,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,417469,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1269,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1715,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1020,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,16524,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,88196,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,49150,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,83595,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,156962,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,28367,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,355,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,81651,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,28134,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,64,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13367,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27431,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,14049,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2764,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,639,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,52484,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,58,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,673,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,2811,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,45561,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13068,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,160643,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,11318,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,59,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,228293,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,227945,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,119068,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,577699,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2517,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,103260,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,21247,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1355497,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15083,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,41794,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,53,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,33833,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,61175,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,45,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,130,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,22276,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,732707,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52620,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,486,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,24,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1919,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7571,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,36119,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,43359,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1755,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2618305,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,270142,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2752387,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,18359,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,58721,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,58709,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16523,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1030730,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,45394,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1140052,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,259189,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,534300,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,148696,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,643078,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4490636,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,84558,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16190,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,235868,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,13,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,182508,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9143,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1715,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,339,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,549706,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3516,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,42421,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7603,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,187,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,39034,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,892,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,781,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4059,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,133845,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1107,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,68352,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,37927,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,262182,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,18615,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,215857,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,184,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,20130,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,151901,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,63262,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,88,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,28959,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,33629,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,37709,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14025,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,214884,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5145,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,32054,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2661516,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,44,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1122781,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1372,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4152000,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,359387,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3644880,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,45480,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,18814,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,111065,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1914142,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4222,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1821565,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,295163,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,714271,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,65236,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,302711,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1404,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4026761,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,143,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,102533,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,380,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,422909,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,26,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,7582,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,5814,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,123,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,453621,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3639,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,18925,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,26,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,893,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,59904,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2080,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,390,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,605,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,56551,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,518084,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,93692,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3377,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,91,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1134,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,45,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,14487,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,915420,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,16897,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,95140,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,259089,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,346411,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,19834,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,848,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,286,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,16801,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2785324,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,723,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,877,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,51092,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,68898,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,3442713,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2126,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,56660,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,987892,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,58840,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12712723,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2090338,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1872799,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,200153,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,228965,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,119823,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,18082,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,42248,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,869521,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,12211,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1890089,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,49277,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2194,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,288984,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,34851,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,12943,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,30,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2018,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,9799,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,6792,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1252489,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19883,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,411932,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1089300,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3176,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1532026,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,40,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,156008,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,303,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3010174,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,335864,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,4721,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,776942,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,6363,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,459,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,128678,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,101369,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,2330,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,109308,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,875,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,162207,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,37556,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,59736,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,111,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,206300,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,432,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,7865,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,50,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,111893,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,44503,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,79287,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,27,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2273979,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,20,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,84354,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,100709,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,365,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,29173,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3642818,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,7,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,844729,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,81,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,45915,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28725,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10584,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,18426,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,40758,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2328810,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,351168,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,300784,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,479362,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,604298,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,110,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,271033,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17891,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,410654,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1598,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2058,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,131692,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,51446,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5949,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1824849,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,254534,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,95,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,490856,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,284344,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,403500,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,444286,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3226,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,118704,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,413054,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2615,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7916,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,25783,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2392663,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,44486,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,994091,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,14534,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,496575,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2591006,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,61796,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,143447,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,62222,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,55475,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3167391,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,35707,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1387,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2387690,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,370077,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,498176,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,356742,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,245728,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3702414,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,287192,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,42,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,282941,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,64,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,207,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,844,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7695,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,877,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3043,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,343908,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,108,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,166397,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,177,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,10725,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,231,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,400,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,182,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,312,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,33079,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,24405,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,443,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,101538,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,326763,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,139,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2695,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,46,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,66220,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,48581,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,77979,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,63072,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,22128,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,25011,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,901,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,266,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3553,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,69877,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3701,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1084,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1345,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,321360,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,173000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3965,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5765,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9963,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4472121,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,104499,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,997308,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5443,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,680,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1612378,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,832349,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3052624,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,30669,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,53174,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,504,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9737935,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,44392,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13638,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1228601,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,343621,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,237018,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,71196,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,567769,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,876056,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,57622,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,217618,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,10288,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,52,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,27975,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,474,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,10697,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,473834,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,116,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,36042,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,46690,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,542390,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15781,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,82083,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3452,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4115,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2674,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,14930,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,208,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1741,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2406,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,74,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,9118,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,196390,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3239,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,26385,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,235475,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,95553,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2184,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25194,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,3785,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1086511,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4902,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,75410,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1595,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,935665,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,327844,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,30,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4563,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,51,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,262943,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,81313,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10752,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8604,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2340,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,106504,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4756,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,16898,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,228,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,383,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,95089,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,106700,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,64029,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,121925,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3320249,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4739,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,81331,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,181945,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,29560,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,86025,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,64458,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,13255,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,94766,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,65468,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12272,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,44476,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,122,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6329,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,475,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4239,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,75953,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,75649,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,538713,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1817,,,0

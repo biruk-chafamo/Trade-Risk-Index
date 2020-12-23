@@ -1,0 +1,809 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11480993,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,599281,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,89443,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,430044,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,132718,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15639052,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1102247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,39138,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2417264,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,456722,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,17660614,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2801662,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,286085,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1081897,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,77903,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,94615,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,604560,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1798401,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,301650,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1007620,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,16419,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,13756208,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,523101,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,20062392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,284804,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2734504,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,71598,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,13166725,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,550810,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,21539,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,148517,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1877989,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,59488,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,206381,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,983070,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,19592472,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1932985,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,35128,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,890470,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,275548,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,619336,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,26555368,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,677527,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2164810,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1377431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,37618,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,370601,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,377717,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1212,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,56620,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,542283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1227,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,709761,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1269595,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,404357,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,527212,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,319135,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,13940,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1569919,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,417389,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1433077,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,523879,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,218015,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,314263,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,15557,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,403486,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1684078,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,698663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,48625620,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11034543,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,50,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6851529,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,385927,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,56938,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5079880,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,628330,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6321201,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,269417,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,406392,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1176197,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2205468,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,52152080,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7401210,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,475342,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4881484,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8682094,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,352250,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,247,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1233308,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,229920,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,78321051,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1402558,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,411078,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2133816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,416978,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1488509,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,562149,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3734627,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13303983,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,261904,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,223182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,663754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7504976,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,232689,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,58738,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,33943,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,15486784,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1127628,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,117809,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,308902,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,12389659,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11569461,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,300905,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9882240,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,371662,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,250019,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,192239,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,18002630,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,935,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,128833,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1403261,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1625642,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,68961,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2334478,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1523980,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9392640,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,41719,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1429723,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,20487216,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19930,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3005651,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,75100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,36416,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8883653,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1526799,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1793483,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18111928,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7088289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,165337,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1993486,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,960453,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1313098,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22277,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,103835,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,340464,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,102474,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,160,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,181216,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1376723,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,887648,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,378615,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,567362,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,110507,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1764,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,109756,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,786402,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,899,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,255427,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,154320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1105030,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1763626,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,415803,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,438691,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,5180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,30393,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,25594,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,8803933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,121818,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,26283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,974545,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,274957,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6704362,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,30742,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6288017,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,22318888,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,157658,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9645,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,473,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,37271,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1020397,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10233085,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5950,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2539369,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4889779,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,29027,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3597640,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,950248,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,734002,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,516357,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1044,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,981973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,507562,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,865181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2323,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1629277,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1273094,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1257125,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,71450855,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3867728,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2128157,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,896242,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3876565,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1209,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,280,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,569796,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,702576,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,82784586,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,499803,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1521936,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8279,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,162230,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,957790,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,105765,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,93580,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,146362,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,267212,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,435462,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,14323528,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3214522,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1115195,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,17269077,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,18748673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,302161,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,221598,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1379234,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3019750,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2888202,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,103986,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,225167,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,719300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,109144,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,69877,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,666032,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15033113,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1277438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,276289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,42509,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,312652,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,65,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,501385,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2817278,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,238931,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1371191,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30453219,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4016771,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,99597,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,670557,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,363559,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30457595,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,29797,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,38617,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,682,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1120030,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1723335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2187182,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,10983154,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,74,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,301492,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,701438,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3416278,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,235240,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,126300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,119778,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2175494,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,189,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,105488,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,704369,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,165085,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7001919,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,190,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,157588,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,700010,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,406217,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3820318,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,477803,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4550791,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2585752,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,136060,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2828373,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,105037,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,106902,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2363789,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,80862,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,415,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6660645,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7562,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,376461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5055275,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,608,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2195,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6493233,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1456017,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,178724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,27919786,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8049711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1347895,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,76667,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,902100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2577,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7341011,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10466609,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,26263133,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,575497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,56908,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,605305,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,20014257,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17905217,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,1391,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,953759,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,172056,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5010,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4846095,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,181516,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,249242,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1175,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,370914,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,644273,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,279611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,265713,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,85657,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1825350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,342170,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,157290,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,30177,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,66939,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11384987,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1903326,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1501259,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,28287801,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,3215270,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2641749,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7304889,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,7611803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,71907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,28201,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,44107,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,26032598,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,24240,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,90230,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2667961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1524918,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2137224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,24229,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2474377,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,23348,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,289099,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1776859,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,62119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,533,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1258470,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1810341,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,9316,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,47893,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,179146,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2877933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,37355,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,274459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,421337,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1019695,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1928504,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,382882,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5253,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2779,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,711602,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,577495,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,597263,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,899465,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3036,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,15119,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,804556,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,202329,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,331056,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4044570,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2371692,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1150,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,4348821,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,93022,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,14772022,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,538544,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7257780,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,337181,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,837784,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,172818,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,694905,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4385461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,480332,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,555528,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,888236,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,16241090,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,281416,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,109377,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,16860057,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,90298,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,693535,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4478475,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,284548,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,15599,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4487,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,134767,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,624241,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4145,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,380457,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,862383,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,28074361,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,65350,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6087,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,138047,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,908205,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22156741,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1600179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,18438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1213618,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,97179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,67,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1137918,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2042228,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,23184021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,647022,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,186595,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,990048,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,3558895,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,87685809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,646,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,698809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,311144,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21225837,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1440496,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,620976,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,17067,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,958763,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7714,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,705878,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1544504,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2549876,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1470260,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,113433843,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,943426,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,645573,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,64,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,967749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,780055,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,959726,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10854635,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,13493,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,102784,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6439563,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16945886,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,145780,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,636,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,40934,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,939393,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9216501,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,288086,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8429,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6893670,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5578269,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,5952171,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,5589758,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6635673,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,18294899,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,141048,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3902,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5540976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,930529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,148195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,564250,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,13051303,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,51219,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1675586,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9581829,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,31472253,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,763214,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,42813,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10131438,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1945835,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1920785,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16922611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1221484,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,53009,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10605486,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1750578,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3223793,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1838884,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,18144396,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,21458,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1332645,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15727494,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9872514,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2188,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6953499,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,122505,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,901914,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9813737,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,24259996,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,364348,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4963606,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,899534,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,272885,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1066162,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1388776,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,86920,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,602048,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,372375,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,81987,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2280,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,966379,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,15704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,28100255,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,21472,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1653,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5891507,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,889763,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9074835,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,139213,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,35675182,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1350668,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1870,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,365066,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5288493,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1899679,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,607050,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9188942,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1069457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,150883,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,435388,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4165528,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,126031,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11055722,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13454806,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,938281,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,469609,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7638530,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1266889,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9464742,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,219716,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,93511992,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1997405,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8971517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,81741,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,146383,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1593709,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8484024,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,104,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,102680,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,114060,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1331738,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,336172,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4293336,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,159076,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,182720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,120267,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,429,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,248186,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3695988,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,182359,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9283716,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,333,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,136450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,127234,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,148331,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2806928,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,27,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,28,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3721323,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,413261,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,596554,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2174,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28485,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5600268,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2209,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5395,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,27357,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,984418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6428941,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10079744,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,20985,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,73226,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,750604,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,8843951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,196275,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,29672,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,6010163,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,23808326,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,165374,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1502,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,54753,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,827253,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9292510,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,277081,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5779381,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1633204,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,388,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2300202,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1270599,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,37414,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,21807,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1510145,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2146442,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1399964,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,89911334,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,623066,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,756248,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1134676,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,729231,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,955647,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4586200,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,611729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1069697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,91111286,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,943986,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1760775,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1060650,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4550113,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,620779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13256,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,428315,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,13998922,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4450313,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,718845,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3582696,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,140051,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,7176155,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1434159,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,345309,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,450236,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4864609,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,653718,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1906084,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,114959,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10130603,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,64061131,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,383426,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,570074,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1796450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,423804,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1380037,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10061446,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,331464,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,429922,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,76601035,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,41489511,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,8031,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,834954,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,147232,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,39403976,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,416176,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,73381,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,52068,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,210536,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1151520,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1380,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1817,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,96060257,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,36789488,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,634262,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,109984,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2585,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5753,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2079710,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,42485495,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,248949,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,732,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,137828029,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8480314,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,46737130,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,417762,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,34601918,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,9491,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,144892,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,47145,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,136639,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,4487049,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1076978,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,77251300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,46884155,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,681831,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6765340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9644324,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,27916888,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,60146,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2077,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,355459,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7830388,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,147119,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,659,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1118829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7047057,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,23639593,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,7849,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,410,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5219176,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8250071,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,102395,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1348638,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1698279,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2061720,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,775525,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,34363,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1719,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1714419,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,831714,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1470765,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,199457,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1834317,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,514665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,10666,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1673,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1639014,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1805239,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2447,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,172761,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,6696,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2026019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,740983,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,172081,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,1520390,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,144930,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,887050,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,358748,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3880136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,294388,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,132626,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7250683,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,248,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,110300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,681478,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,476475,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7815345,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,127874,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5352682,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1815705,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,780151,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7207467,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,623373,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3807524,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,59945,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,884339,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9065240,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,327350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,313485,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1964008,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,72164253,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,824105,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4852237,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,58468949,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,4040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,667305,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,122543,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1311,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,147737817,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14745,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,51498999,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3829,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4057410,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,815643,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3633,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,95378134,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,196165,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,89729,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1488293,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,799874,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,166357,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,22830,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,696573,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,44956273,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,24357,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1909991,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,190292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,51330,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47860760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,107,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,920970,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1965005,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1534597,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1632882,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1059491,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,146240,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,13027,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,243392,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,32149,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,139,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,148985,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1667539,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1406701,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1364219,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,104345,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,3378,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,271152,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,19211,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,116293605,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,52286,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,134968158,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,512574,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,139147,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3614,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1342,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,42763906,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,807415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,51475,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,117550725,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,473142,,,0

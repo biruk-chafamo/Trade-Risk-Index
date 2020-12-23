@@ -1,0 +1,775 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14013722,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,95,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,12101561,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11984395,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17472250,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,30520961,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,16190225,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14068051,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,379,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,667258787,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21058544,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,15847172,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,26577605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31856298,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23087717,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11535806,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,944066410,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,412882417,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15081532,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19889542,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,11645585,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,12602289,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15600375,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2587405,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1289,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,68248,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1225265,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,576397,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2104453,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3524069,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2109125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3406855,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,8673069,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,10994446,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,74860,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,43538,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1179480,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,244546,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,101097,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2854349,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4831720,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1916471,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,959189,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5472275,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,283005,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,7955021,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3334912,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1063,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,38407,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,922861,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2840220,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3642255,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,175802,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1462129,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,27835592,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,31090770,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,2126191,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1213712,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,101144180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2181337,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,96895,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,6213228,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1434667,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3592894,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,20537354,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,31588193,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,90180536,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,974950,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,681625,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,100395050,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1636700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,113557,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,24714995,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,27323721,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1210699,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5007472,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11810,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7384362,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1271514,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,79370567,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5895991,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3931404,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36714359,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,13878,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8707808,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1710722,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8414594,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7130188,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,100124147,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6363832,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3746319,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37503591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37769697,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,81620652,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3441595,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,6457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6333670,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10406569,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,27552,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,98598860,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8647403,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,17390402,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,13210868,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,15151,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,23325542,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3910526,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,163851431,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,214688600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16563433,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,24110020,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,15344726,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,241303,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,83656507,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2656976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,134365299,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10703919,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16427769,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,72065744,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,228087442,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13144084,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,22602579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,13855573,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2789408,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1233728,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,568729,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,15512016,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1167328,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,9521401,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,18614892,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2196009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1521976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,624888,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,53953669,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2425195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6225507,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,31566525,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2076205,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,589110,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1731156,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,671110,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5287187,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1120958,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,71542516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2575837,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,32200839,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,16042526,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1344468,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10650489,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1323,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14137808,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,30751376,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,647702755,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,22660602,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,10681260,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,16907,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,34848185,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,568208861,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17199784,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31305284,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,338,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,14116861,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,19447987,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,652229613,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,15256780,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31510762,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21357027,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,12990958,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,22220893,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,17297552,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,407156108,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,19456206,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17633960,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1197674,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,87224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2293004,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,11394966,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2651129,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2028277,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1498917,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,119207,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1432,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,191152,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,29543,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2997294,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1842348,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,6588575,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2440871,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3326655,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3289848,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,8431,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3658656,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3073659,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,148458,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2242135,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,3486998,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2223132,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,156637,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,6155849,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5018211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4438420,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4307,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,14377137,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22942771,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,158978,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15791332,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,9007500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10490591,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,55194544,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,11664743,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,25675272,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,485003,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21184968,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10600710,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11526550,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,51008848,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,43865087,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8702315,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,25097891,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14144645,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,9969888,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,255111,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,317183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11800832,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22709970,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15083767,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10224413,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,99267,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3080807,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,146718930,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,644538,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,229708351,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,22549685,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,80021998,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2528579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,171653663,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,138365649,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2029332,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,238616167,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13552777,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,25028105,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,18597278,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,46076,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,63541361,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,214233743,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,426848876,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13413966,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,22044184,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11820306,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,29159692,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,17165188,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4055612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1573147,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,378307,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5594574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8514298,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,101589198,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4835863,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,37690734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,82783660,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1728760,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5906875,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,46139653,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,18385,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5887751,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8033030,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1030532,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6145071,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4423655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7225631,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,34317845,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,47998159,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3161470,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6295410,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,158705631,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1227605,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1767352,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3721175,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2905770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1265131,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,23721698,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,8627602,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,29717593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,242110,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,94853612,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1541695,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,30784107,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,7139973,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1287577,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,86091,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,896864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,97471314,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3464989,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,528998,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1181196,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,3487495,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,97018,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1135928,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1650304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1436203,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,105884507,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,29296805,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2541805,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1142,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,15247857,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,20135193,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,38059577,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24603005,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,14634677,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,653156890,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2805,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,60793,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,233422,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,880385,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,63045,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2559501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,154457,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1200413,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2209523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5283624,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2597689,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,878252,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,536476,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,19557885,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1380916,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2837525,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2785435,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1665864,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1293015,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,335377,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1270706,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,500635,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18999164,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6454207,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,36128065,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,23454817,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1682576,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1648734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,828578,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,248516,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,23992326,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,9562440,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1154202,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8780194,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,10100650,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13984974,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,39737848,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13939691,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11004307,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8955464,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,73370159,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,17341437,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,25981900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,131396,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,42525975,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10804787,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,45947807,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13803692,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,30591349,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,25465704,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,13944003,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,60144643,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18082073,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,96446,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,710369,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,18141725,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,21343071,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21046863,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,383996,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,85993304,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1269137,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4356681,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6053538,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,21184,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,234435,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,22808988,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4171547,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,,,3013240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,53923185,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18915836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,33531291,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4916339,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,202823,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4631278,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2713549,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,186375,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19736400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,53921116,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6676827,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17556055,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,17893728,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,192125,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1868701,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,56481,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,33999031,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,6706118,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4639868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,30182028,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2828138,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4365198,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2866702,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,191192,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,70107,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1387929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,27872779,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2833484,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1348107,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,111025633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,41478979,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,3202299,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,13928120,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,115211199,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,33068413,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1448556,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,20724717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,84691682,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3502977,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,164241098,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,310825,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,43215,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,263597809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13168970,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,18280494,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,18303851,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,179958,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,88075594,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,87890337,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2822701,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4426155,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,210655376,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,102789040,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,47013,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,32385,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,29682826,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7923377,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,4470204,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7927234,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11109029,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,519198,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1628957,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2884,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5503566,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8113136,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,111784533,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3477548,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,93222554,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,263166,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14415000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4440395,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,5289461,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7971861,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,12821404,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12940556,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23779929,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11207872,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,19062033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,11681050,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,27006737,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18878871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2756333,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,64595672,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,257895,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2238681,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2515184,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18636639,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,460708,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,90258,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,55090414,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5213939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,45834757,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,22626568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,24384590,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,67301691,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,90810,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1166564,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11916526,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5479128,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2202669,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7459183,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,76677457,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6628179,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,29152103,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,12923255,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,20256646,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,43686050,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,36005461,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,473379,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,47955,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3204191,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,176928,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1473423,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,17416954,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,132678840,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1959565,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,118630,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,70885227,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,33178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,803741,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24299817,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4166745,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,152906770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,807454,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,124216,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,74555514,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1503746,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,28836,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,492728,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7705310,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,132765334,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,35991,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,235381,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,469456,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,638653,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,54021091,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6939348,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,17610601,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,9572992,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9502914,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4030222,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,37747355,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,868439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1349815,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,252606,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,9591640,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63690249,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,485974,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,52716578,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8524811,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4187617,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3893841,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1459968,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,123930,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,317002,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,30277241,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8609683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,478638,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1269717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,79926,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,48539125,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3122904,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,28043389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,19156649,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3902092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,28692866,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15521407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,291540,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5210002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9548268,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3784247,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,50496228,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,374241,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,53186,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1396726,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,553746,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3873552,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23181360,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,50393875,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,42621154,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2261102,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,203005,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5725230,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,36329676,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3723206,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,925959,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,50666,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,38842611,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,151905385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,3624460,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,33275547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,41491882,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,131457838,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2748456,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,75425,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,38013166,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5184274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,46180,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1005030,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11106329,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3252535,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,31388,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,64070058,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1956971,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,26703,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,50324369,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,144285074,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,34302296,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9127198,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,45729152,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,5117144,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,10416805,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3639477,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,497619,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10128976,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4233865,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,198175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,36808186,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1114881,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,979197,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9925953,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10338758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4245371,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6580643,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,56849811,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10939601,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,244873,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4078079,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,44560417,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,8594325,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1101996,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1551923,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1285087,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,37377684,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,97980994,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,859097,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,11940,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,46328223,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1108011,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,227380,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,86256622,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,97114727,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7942125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3019952,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,74102,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,59320871,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2062374,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,199482,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,110889849,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,103623566,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,95523100,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1492906,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,28230,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7149083,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4514985,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47762385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4153,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2688857,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,170573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9230650,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,74498358,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,59914374,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2091770,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1574102,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,39897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5590492,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,20804,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,29304,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1675544,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13958541,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3321590,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,7617,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,156281393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,281366,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5779685,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,158286338,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,564355,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,13030974,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3400777,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,80339182,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,42472520,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,67684,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1811302,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7122743,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3015698,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,4742977,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,13176556,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,61237762,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,26986389,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5996027,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,50987913,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,55496,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2161024,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,8848943,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,16151918,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,7182760,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,62049096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,5608522,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,28342332,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,87821387,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3206889,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,19918129,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,15666255,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2985580,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,74753,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13364665,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,682435,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,999828,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,322833,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,34505719,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,48159536,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1101081,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,77940191,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,6914823,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,83063867,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,131867,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,98014134,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12086259,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,91702933,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,46319430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1307028,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,295190,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,154193864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8818040,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1440904,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,67014,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,93686574,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11444632,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,15028323,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,68789035,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,299306,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1670287,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1419576,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8005947,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,112442497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,60524351,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,3146046,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,29514,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3157,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,283422,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,50,Silk,,,,,,,0,,19319,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1987522,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3801301,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,353115,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,129071236,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,129139301,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,69741562,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,208302,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,54564698,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,112767351,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1000579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,64278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27454441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2096549,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3994833,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,4646897,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2998806,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,58680872,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,5752003,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,12107309,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27050539,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,93733117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,773990,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12537538,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2191419,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,30780774,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6284210,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,99155034,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,34014245,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,68363,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,30566434,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,31057559,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2058271,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,72474177,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3165624,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4273325,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,30687114,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3423619,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,25616397,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,9511188,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4353468,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,52333788,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,33937,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,44868,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1389555,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15671039,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2087123,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,8282543,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,23555092,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,22728325,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,5320059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,78243991,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,26940822,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12712738,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,7147106,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,7552,,,0

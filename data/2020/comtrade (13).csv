@@ -1,0 +1,874 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3202495206,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3134575041,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23140831,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,86149237,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,26150456,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2629721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2903389880,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3303487,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,86042518,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4041441,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43462325,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,36168737,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,87256504,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,8231059,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7014763,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,9118755,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17142558,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,82802734,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,535288925,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,142775956,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10053509,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,23144277,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1714942,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,60579709,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10815173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,303316,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,93047633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,65821847,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,63403212,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,15646582,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,47050145,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,154334730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,118504656,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,338344,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12560399,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,24557518,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,68344278,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,70339962,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4143883,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,81152106,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,77417149,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,49849435,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,268674498,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,39068935,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9169364,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,14646328,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,151860315,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,15354422,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12561514,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2905517,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,5184288,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,10363175,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,85151149,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,51976015,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,219382179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,31748055,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,22302968,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,33336727,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,523168586,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,325819089,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,234384,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3891821,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1078219,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6508317,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,134933035,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,108105,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,209032,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,6549,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,69216688,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,31882630,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,388419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10178689,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10581893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6942715,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,42423724,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28171614,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,95285089,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8648950,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,49404689,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,92637693,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,97051133,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,151309760,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,52598620,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,122474330,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,148672808,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,73114055,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,293289,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,29508190,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9437257,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,181286,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,32652692,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,11007995,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7686245,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,43800897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,26347066,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11727712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5966039,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,49295580,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,72670424,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6865304,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,84647484,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,76549199,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1014451,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,58890571,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,543311036,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30583139,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,6483347,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,147488516,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3875438,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,10458052,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,14015290,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,386519,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,335147077,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,24528040,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,30588433,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,47004297,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,205610564,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,106228096,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2931209,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,284460,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,163286359,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14371454,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4022582,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9427736,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,32297488,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,33988312,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,24647784,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,68171603,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18304159,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,74040272,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,70014631,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,150515088,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,94006908,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,53524291,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9752312,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5377681,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,283117169,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22388678,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,121144056,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,591967258,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,24012169,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,76182223,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,28506591,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,45328527,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,255459004,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,143178120,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,314682998,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,31491159,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,,,8685083,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,60866063,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,364166945,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,31276427,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1306045,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2709681,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,243232034,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,26633574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,126376,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,335885,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,46374827,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11133334,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,131281281,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,120448877,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,148697818,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,22670215,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7017,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,74570943,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,706519,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10617922,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,9236132,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6148446,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,58274100,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9538016,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,494630176,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,226728812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,57207063,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,50750185,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13694156,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,77630137,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,17870355,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,58801447,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2344162,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,54300350,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,20846315,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,19069421,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,41695504,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,269225250,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,28748782,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,38701728,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,70128931,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,69346219,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3293980,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,88478499,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7677724,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3911549,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11142290,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,138032790,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3160501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,553213,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6034902,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,46712198,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,246383190,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,152969222,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19792316,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,83774360,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4937962,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,100227515,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4823534,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,75492987,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,18155372,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4025293,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11290490,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,543484722,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,59154082,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11462829,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1592990,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,402129,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12576212,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16845062,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,65283937,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,22464671,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15197940,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,60124681,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25074904,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,31167703,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,36934685,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,93317586,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,54782303,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,23469381,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2770948269,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,300120304,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,58650924,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4506442,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,105131052,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,458113496,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,189800877,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3429983975,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,549935,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,71231847,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,54927518,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7927600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,777395,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,22433025,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,9763226,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,52157784,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2849830328,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,25833599,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,14003062,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,17311614,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,75079384,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4002701,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,207116557,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,84608708,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,49161275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5157312,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12391979,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1734899,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12110019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,54908280,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11150922,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24803505,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20803439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,30400306,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5419548,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,62968823,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2410093,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,29084416,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13435122,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,60637002,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,519035,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,20189149,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,38008153,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,62133190,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,70656772,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,245281014,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12864391,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50496615,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,129512945,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,64114262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,23355572,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,104916275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4512591,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4857618,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,155391475,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,59471495,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,72848653,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,321944454,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34234196,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,522334429,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,150649378,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,8232192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11122775,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3627412,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,330098,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,132544331,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,45921433,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,47390325,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,92148719,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,154978004,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1079794,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7219004,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,68391469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,55986887,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,538842589,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,42037701,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,337623725,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5856417,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,140154214,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,154207698,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,11127872,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14234708,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3825019,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,408399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,167513419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,4251953,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,81045525,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,33827399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,207478775,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,31781997,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,50315538,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,258653365,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3149444546,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,705995,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,308255954,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,26960448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5808499,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,448469540,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,113352669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3559532781,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,248103569,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2632441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,47452318,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,69276699,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,27568320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9012529,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3260101641,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12711748,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,51646260,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12859076,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,28022952,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,52059215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10776226,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3173983,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,76742686,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,19199150,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12650075,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,946019,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,83059320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,48769436,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14811026,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3060863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,60602050,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,72086653,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,24306477,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5743255,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,73386282,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1997340,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,25490782,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19908108,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,34707340,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15083931,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,61729418,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,21750798,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,405886,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,38591978,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,148522892,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,77590388,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10820438,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,47682737,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,240814591,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5263399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3504769,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22940602,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,100342392,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,558202350,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,323355438,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,397440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,37450863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,586460,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,26662528,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,82879106,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,17390,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,112409,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,281945,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,8900176,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5852465,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,44372486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28395829,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10216688,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,11421524,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,79053317,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,9498579,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2714842309,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4706034,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,345387853,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5018451,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,35394961,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,129374566,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,394224148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2562062153,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,239358509,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2023704,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,75250085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,33674855,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7243948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,21067726,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1361,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,202034644,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16940501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,57354124,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2828705897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,25246733,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11069353,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,83070585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,51209014,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3125514,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16128301,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,355561,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,26609257,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,13070073,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,41015253,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,77908726,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4775822,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6486839,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,61393143,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,32015771,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11001870,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2706747,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,15167561,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,27120917,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30031878,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22281190,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2766949,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,71061256,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17339192,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,64323144,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,69915763,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,112611947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,277103477,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,52680425,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,15244287,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,82913241,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,138920478,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,20459907,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,106315568,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3295849,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5300820,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,524857040,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,289930385,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,24013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3281185,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,72979,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,34945624,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,136621511,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,18649681,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,20051871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,10511460,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,86612003,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,53247518,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,74965964,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,20572277,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1845712700,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,43314571,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5463291,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,227482498,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,39991760,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5043084,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,272363532,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,95988385,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,4944574,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,206404898,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5364,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2529038,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,28530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,22741847,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7824602,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,11688522,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,30212111,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,45049860,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,406373,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2217705409,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2495896693,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,172348766,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2638666,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12411822,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5637354,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3666064,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,67864398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,13460153,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,65529523,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10052954,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,70609874,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,41391064,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,35996110,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16314593,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1848214,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,60912567,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,73883395,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,22572711,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20055647,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,67116610,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,14621214,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,17101762,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,11749817,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,51576998,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,14887536,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,232834784,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,43679840,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,67715603,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,121866415,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,12330676,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,78145855,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4606087,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,403073742,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,142447460,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,26863053,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,87001,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,321340,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,191146,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,131479763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,63561295,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5645907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,403076,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,19916172,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6468762,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,36598281,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3885705,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,18253714,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3888374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5909742,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,54979903,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,36273995,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,75008627,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,94580254,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5718635,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,548771,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,49538216,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,412749945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,255855545,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5172996,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,31622154,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,103549877,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2922374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5499348,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6902797,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,205395,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,69952844,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,48667941,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,2094488,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,17292085,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,15292120,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,2762575,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,34877046,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,137408707,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,29763624,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,61619290,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,21826392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,65723042,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,202974201,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6115558,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,28401625,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,668984613,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,178938612,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2447180,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,33564991,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,104830796,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,178991161,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4508836,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1543278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2177063394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2544342810,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,50175889,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,23515453,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,69967364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2012834,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,187440792,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,73297726,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,42501927,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,39212483,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2970196,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,13366955,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,69784126,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3147752,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4402777,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,26273804,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,21915742,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9077481,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2081657,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10521096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,16060819,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,18255038,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,453819,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,11555908,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,24637816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13917599,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11556362,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,41394449,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5044916,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,10532801,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,66520397,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,126002648,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,76814343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,418841818,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,184847348,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,26333543,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,58515,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,526640,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2297880,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,127881535,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,54251,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,60714480,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5868086,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,21739426,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,584378,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,7071666,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3644872,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6472132,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,37030013,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,18943058,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5653358,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,64832436,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,62942199,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,70020374,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,110617473,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,629864,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6054741,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,248031798,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,446384378,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,109743809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,4187668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2525422,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,32596991,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5095144,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,222424,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,6850675,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1897528,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,57036834,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,85498780,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2815469,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6231540,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,79363449,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,15864599,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,51893816,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,9122179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,27532266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27989175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,222566334,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2199066,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12238839,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2101582,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3060429253,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,22276659,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,11056771,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,334901,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,21726924,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,73129372,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,28120470,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,13504051,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14779181,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2328972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,82223615,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,49648189,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,46104202,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,65396366,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16220165,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,57273608,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,20362147,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,19075343,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,67931046,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,77763264,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,152379124,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,78285584,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12669066,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,271318579,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5365598,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,18478440,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,96711787,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2816739197,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,359942712,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1906659,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5724932,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,399822576,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,114567836,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,33858857,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1563539,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,261327742,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3304407154,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,78969547,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,67439429,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10217748,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,20741110,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,524967549,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,287013199,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3636967,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,30595,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,148125997,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,23543590,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,117157,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,369373,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,69295858,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8440,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,19443038,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,9061226,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4736329,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,424745,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9828446,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7091145,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,42652502,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,24667709,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,91464951,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,91737243,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,83795880,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,91056521,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,69280723,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7267537,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,796126,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,61721353,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,517564711,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,143689779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,44260862,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3693680,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,627304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,139570028,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7679497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3328086,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11646894,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,118784134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,267999680,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,8648522,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,23536113,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,22756507,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,42183494,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,48385520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,166611438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,4971091,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5576499,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5382571,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,26170127,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,69145292,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,196293243,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,38894302,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,4753353,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,22251437,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,155313505,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,61569432,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7418,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,94072028,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16455652,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,311289690,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10557554,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,96630,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,60081237,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1608658,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,121205386,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,298103682,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,,,9537508,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,220889913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,261863,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6293932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,24505697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,40188930,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,26567862,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5255729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,3509592,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,48137274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,30744207,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,291130774,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,5418575,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,33018697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5417169,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,432931793,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,88460515,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,8928939,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,504394103,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,27457719,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3211865,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,344224,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,22653340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,100678011,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,342778,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,267287768,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,23714549,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,22868606,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2788457238,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6324640,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,86498317,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,57478683,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1392634,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,117113310,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,46569169,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,62179720,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2165886,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,75969096,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1288198,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,283055661,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,31115826,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2814453857,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12896760,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,29739554,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2657354763,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4842125,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,382145629,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,108326668,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,337099989,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1605286,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1885615,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,82872193,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,31301423,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,268034700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,121445,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2643176,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,142891198,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8550158,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,211795183,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,24448970,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,106252,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,333331,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,39272638,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6817324,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10457713,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,611466,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8282336,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8070,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,69257942,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,43461114,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5555716,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4793796,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,24509970,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,147610635,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4874336,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,92184934,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,66551902,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,479874151,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,263462268,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,61211167,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,94002022,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3448006,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2243415,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,35486253,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2958024,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,54868948,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,84582390,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3414485606,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,436796,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,11653656,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,27323676,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,13854058,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2199940,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12459642,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3460294,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4946098,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16827447,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,78149486,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12207386,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17576078,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,36352948,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3366022398,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,402720796,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1161620,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,46227913,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5691895,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,122241284,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1757902,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,63073082,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,432750422,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4002281789,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,83407310,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,109657882,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1183664,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8768639,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,68539425,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,569505382,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,175736181,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43101384,,,0

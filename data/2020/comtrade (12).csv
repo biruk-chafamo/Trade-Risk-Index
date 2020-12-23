@@ -1,0 +1,562 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,59072,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,142049,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1490,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,488520,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2258031,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5584054,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,66746,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2086460,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,218290,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,139784,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7610,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,256351,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,282363,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,21573,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,86407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2006,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2914142,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,420870,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,474636,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1040217,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1549710,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,20134,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10018,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,663,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,22546,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,271856,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,324449,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,765034,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,333602,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,42315,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,220252,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,85060,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,51,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1327775,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,567573,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,194054,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,98117,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,25361,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,72,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1916127,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,166310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,73810,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,552552,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,16520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,111804,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,255412,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,84178,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,188530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,266185,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,26430,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2652,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,318955,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,23157813,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,31581,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,52448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,8356,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,45750,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,895045,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,522470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,473019,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,51565,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,371401,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,24641,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,25582,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,269247,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1033557,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,300893,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,7141,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,66392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3605,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,60719,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,84536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1207,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,48989,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,436753,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1237312,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,114114,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,46,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1732811,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1768195,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6636,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,15502,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,253217,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,3101965,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1752,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,33959,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1138,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1239794,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5241109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,582202,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,237295,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,365,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2114581,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2763336,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,433,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,132416,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1721417,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1263937,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,224,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,689723,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,231019,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,431,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2861017,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1824871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8206,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,49602,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,27654728,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1728,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3359517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1725649,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25495469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,43,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,132,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,44270,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8984,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2924506,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,144032,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,253947,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,96408,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1804004,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,223794,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,403229,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,31571358,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,255380,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3240649,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,249399,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,589866,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,15806,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,159684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,20621,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,512709,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,159949,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1245246,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,88681,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,150166,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,277964,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,72734,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,897643,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,428508,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,119515,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,2226034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,20479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1025558,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,101103,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,11157,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1167549,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,391262,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,103389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,865398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,35915,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,49918,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4188132,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,145529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1154243,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,249150,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,361369,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,56424,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,116053,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2801098,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,497621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5093869,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,415732,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,26948,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,142210,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2851132,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,34150,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,258145,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,33577,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,483603,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,443586,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,269245,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,237790,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1071105,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,30318809,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,202313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,642461,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4812725,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,54464993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,412431,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,277619,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,336378,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,176931,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,286179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,77635,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2027501,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,55679950,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,252260,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,200784,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,325299,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,11823723,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,205761,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,94953,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1582349,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2491754,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,346571,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3283526,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,648568,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2822351,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,235032,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2523322,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2216884,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,929138,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,410323,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1278780,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,7037999,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1032487,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2012983,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,539938,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,685061,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,132916,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3140,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,629161,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,366081,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,566528,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3110729,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,461666,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,11670201,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6031694,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,728393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2504427,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8717,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1736521,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,331180,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1155768,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,27920182,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,141071,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11278,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2700169,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,36907,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,44,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,51228,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,21872597,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6722,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,59451,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1785568,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,140720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3011125,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,29923152,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,68684,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,62,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,608581,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2436986,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2945093,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,119599,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,50857,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,60667,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,75125,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,49521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,75,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,73336,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,53192,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,15539197,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5005169,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4057072,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,11733037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,254203,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,61829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,14295772,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8277429,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,212033,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,23841,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1746,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,59105,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,33599,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7736578,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10425120,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1984705,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1215680,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,49971,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4161450,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,75,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,60759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,311,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2126275,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1855453,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,440608,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,34859,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1468216,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1596761,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,121,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1499,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1393659,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,434046,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,30094,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,83856,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,178382,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,37389,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1073032,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,446669,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,218,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,35526,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,696496,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,775603,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,29067,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,47968,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1100476,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8860,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,36496,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,125,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,33796950,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,39235,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,236457,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,33189313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,31342,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,829358,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,145137,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,6998,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,37089186,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,35505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,464171,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,58473,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,35164995,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,61056,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1007487,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,29825,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,13172,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32906373,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30949,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1211225,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,36275,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,42795655,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,52800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1419823,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,11502,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7145,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,20,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,301727,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,322669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,345185,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,252913,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,473572,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,49799444,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,26506,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,556848,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,145141968,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,531,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1050,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,379509,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,271707,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,377274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,533839,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,42605,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,98719596,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,360002,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7082,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,18159,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,264,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,187782,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,41079,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,825673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,350276,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,62114562,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,329531,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,121400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,86652,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,240628,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,660097,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,353144,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,703803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3697200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,170152,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,19,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,88,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1220,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1782187,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,351788,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2148989,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,678826,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,769734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,215754,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,349021,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,607227,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2536548,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,382801,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,97012,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,717911,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3358052,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,48769294,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,130510,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2862,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3428805,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,52303486,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,290555,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,306152,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,462886,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,640594,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,28962675,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,138215,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,363146,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,41996,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,142614,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7780,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,173,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,40529207,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,19366,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,987043,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,345782,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,58647,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,285,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,29531,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5836464,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,10871979,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1429,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,102,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,95060,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,38590,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,18506007,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5417808,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7225075,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,9827446,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,492119,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1465359,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,808377,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,70815,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,27,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2331,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,454640,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,87918,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,85,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,507,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,373610,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,510573,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,666857,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,618679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4261623,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2187464,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,453862,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,696287,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,590,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,27205,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,2979618,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,102795,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,146956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,210,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,159029,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,280263,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,27559369,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,34761,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1312939,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2832105,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,137059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,196317,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,291813,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13433,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,271343,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,442636,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,508430,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,38651586,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,17533,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,24,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,710735,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,203248,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,597930,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,21892,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,120329204,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,59352,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1392336,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,148132287,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,382480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,94515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2673145,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,336319,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,16,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2684418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,438311,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2061698,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,403329,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,380992,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3888685,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1048798,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,41720,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,849755,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,359485,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1703506,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,6936518,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1401616,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,3258069,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,256861,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,460348,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2212129,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1995589,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2199104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,308155,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,4231919,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10352245,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,992730,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,153992,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1513523,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,196201,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,12109,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,7231,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,241,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3960815,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,353952,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1647083,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1459982,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,523653,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1507033,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,97166,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,27,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,80,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2913,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7915615,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6481,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,396643,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4469,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5659122,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,641043,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1276207,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,17407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,12430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,265770,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1561422,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,170022,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,171724,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,290802,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1867567,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,44003,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,286702,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,481095,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3660670,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,76818,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,488824,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,857148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,2066212,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,783585,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1701679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1485,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3320063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,591733,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1611514,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3425,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3122,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2101304,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,681350,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1462410,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,23,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,362997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2303,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,15140,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5061,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6081,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,7677286,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1147730,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1225510,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,255814,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,52,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,196,Cyprus,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,466692,,,0

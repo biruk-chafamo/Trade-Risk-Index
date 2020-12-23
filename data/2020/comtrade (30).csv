@@ -1,0 +1,658 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,339238571,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,580047861,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,112630331,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,113424,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,63823086,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,422008998,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1679619,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1376933498,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,219621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,486279639,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6227697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,177104651,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7985247,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,163466418,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13396175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,22622237,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,114830314,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,28384828,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,8302610,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,45785574,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2886083,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,81265137,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,44316104,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,10805531,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,587986936,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,267016719,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,235368,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3752979,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7039378,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12557015,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,6987451,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,506746614,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,82904148,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,26024456,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5472953,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,838705,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3109997,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,14107671,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1832558,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,544093,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7745407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,8535,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,658714,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,137953179,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,295932,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14763893,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,20552368,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19797267,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,20839467,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,32562156,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12482523,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,61372347,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,42219616,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,198717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,47844909,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,15927260,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2831886341,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9243249735,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,6797753,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,41344892,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,50243224,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7159643890,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1692846310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7178711,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,214915851,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15665357,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,58697923,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6044641,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,712653009,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1679538397,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,234480465,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,71926426,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,163981122,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,923221684,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12250037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,13586171,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,231401020,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3950059,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8867120,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,47650265,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,15730560,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1812918598,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,238854279,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1075655868,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3580509,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,468163869,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,313611831,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9088318,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,451901907,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,89647,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,6440299985,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8217174,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,30627325,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,344347909,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,64570048,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,25447189,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,108590378,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,242727001,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,67202466,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,144057873,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,169055999,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,630131028,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,998318839,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,680077706,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,601749831,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,21881983,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12765888,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11999954,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,95159448,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1291154134,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,732168927,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,160385073,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,159566450,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,98117003,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,80323300,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,271039442,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,48030468,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,7897912,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,24112942,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,130273174,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,74924070,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3042078,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,21731477,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,34803061,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,67257508,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,361707626,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,17182896,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,670172157,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5058771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5010741,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,191325110,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10484844055,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,211530,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,297415,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,482299430,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7642606,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,301134146,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1237995755,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,21034180,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5318826,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5978588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1401969880,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,344129771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1775148346,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,16548718,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,13977090,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,49823699,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7091926,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3322382,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1432943,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,190593837,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,14537497,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,329864225,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7401539,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,63676398,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,756315579,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,917071,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2115206,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3177339,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,13990486,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,177033018,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4625198,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1733790,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,110630560,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2253057,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,82292997,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1948084,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,8235,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,8907814,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,214963713,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1915615148,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,636279771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,11706683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,319001,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,55327747,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,31538153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,19742546,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,20473617,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5352252,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,23809139,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7486372,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,189514,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,31929909,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,42243178,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,7699586,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,202970275,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11498942,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,74250866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4864893,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2925338153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1368545912,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7340672301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,67256877,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,59531084,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5530035,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8708831133,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8284276319,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9650614450,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1998310858,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3366999,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1128378,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3392779507,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6779969,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5090134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12511936,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,4458150,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1130131625,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,360253526,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,299324963,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1351616045,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5582661,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2233916101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5190072,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2524491,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,11810566,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20001498,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,66852998,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,706179,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1080203461,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3990944,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,17931678,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6738078,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11614187,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,83432807,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,516389265,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,18397459,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,273406714,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,14979377,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11700931,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5605682,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1084136163,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12980550,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,422164851,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,626907114,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,430928850,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,81040198,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6328945,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,63950179,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12660482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,44227581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,274715,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,12869722,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,114326553,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1045558,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13937295,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,155169530,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,5486308,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,539346457,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,31151274,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,35982264,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,10597736,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,30943,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2967493,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1671900,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,105925383,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8996540,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,243046806,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,44982067,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,15640949,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7091410,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6233058,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,104846281,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4017460,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,47143803,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,221590,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,169191,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,12062968759,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,256079092,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,29879709,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,168626374,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,24092355,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,865915311,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,13252012,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,375535835,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,71052903,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,11634076465,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,86838326,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,989998119,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8972638738,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3293275231,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,83590777,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,9876813,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,271608804,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,21007930,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,28765059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,80494841,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,435537,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,13063994,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5852586,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2452676345,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,260203419,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,731035882,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,6950916,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,32405905,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,325374004,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,113826194,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,140961769,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,203221482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,195607624,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,912440425,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,983239965,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,729798013,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,767054439,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,184300846,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,174388361,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,128905255,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,82616748,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,284856926,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,46467818,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5005446,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,20162586,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,27466409,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,587494691,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,246986556,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2029383851,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4836549,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,13581945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,427694,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,74944483,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,44641718,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,21142258,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14627900,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14043679,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,207507932,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,11641790,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,78125506,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,913379,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2893040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,41082,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,10573802,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,257071087,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,21168738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,69730291,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2998044955,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,909115214,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,67734591,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9460049083,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,57865755,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,6570098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,120439068,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3877372,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2205205363,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,275262008,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,541641679,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1044185175,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1017233,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,738132374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28987719,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6248565,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,90600438,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,431063053,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,140646953,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,97144945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3018334,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,26416442,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,51440297,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,390731385,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7053428568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,253525,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,230066,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,441764289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,7970721857,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7379631,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15373160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,138117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,32503829,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13109907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,66230367,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1046808,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,106720508,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11923556,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,600277730,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,669036521,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4267792,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8082336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,15073939,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3871378,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,8467354,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16368750,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11734915,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,80500063,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10092509,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1259622474,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5526700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,50438945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20289279,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12285809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2314156,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5485006,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,612106335,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10165510,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,170717224,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14138277,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14266091,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,151285127,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6848606,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,722046875,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,19670466,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,23667912,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,6470898,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,36981348,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,241511662,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,64217297,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,107786662,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,139722497,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,166059924,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,828164350,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,614503763,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4494884,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8363466,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,13797005,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,49647288,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4469859,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1018012671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,152309530,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1745298699,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,4461647,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10295655,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,61718457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11066274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,484754250,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,216741522,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,14794677,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7733408,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2681641,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1490478,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,923972385,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,140731922,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,87341,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,198664,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4269610762,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5392977,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3388993,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,364801155,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,399454375,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7408090,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,43145176,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,19933394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2108112,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,74224347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,108794251,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,334955192,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,66918763,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6911313,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,24781800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,523413136,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,118770031,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,760338,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7583276,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,59278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1954968,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,861371,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,63365619,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,9588928,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,176516720,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14031925,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19209965,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,20952988,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,35019538,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,59788010,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,422409,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,11943806,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6247535,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1688854450,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,224021867,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,598255573,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,59806791,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10271683,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,41580955,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,47077,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,14378858,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7943098,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2718152004,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,57887491,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,13243067,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,233568592,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5732146,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,41446686,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,8106272527,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,54598460,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,6813072868,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,632068290,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,320559250,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,11958076,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,3311410,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,25420705,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,174993794,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,84138108,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,244684229,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,172481305,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,72967414,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,9409030,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,49782040,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6876438,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,114451763,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,640700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,155633218,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,140099259,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22437408,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9898124,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,12520905,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3996892,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7101007,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13791621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,201911798,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,16905755,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,51871810,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1612259860,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,942288877,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,71398613,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15186406,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,28489871,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,9413792362,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,47791026,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12323094,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,343848759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,9378711,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,22364323,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9692514,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,66031274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,22340208,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,32307874,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,577680942,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,600089100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7708698,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,31340212,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9615539,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,146077,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,249747539,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2911786,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6306630,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,385015649,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,15794378,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11209955,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,734929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,71826945,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,684109145,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,834309044,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,59415480,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,47655015,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,239963327,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2960138,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,84504190,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,110023173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,35174242,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,16225429,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,47800098,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,150097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,14120729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1339039,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,30465448,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,22082178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,834925678,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7955845,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,78289495,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,43505907,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,28354282,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,166075432,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,86051912,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4169746,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,201676,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,9145684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,299644467,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1048105398,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5584294,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12945996,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,381911253,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,619640689,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5526798,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5009465,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10245294,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,17598348,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,51014517,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,21284723,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,2021217419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,340366316,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1343358904,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3670926,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,75486559,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9514327,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,439440133,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,14530840,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3471787,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1017307093,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1659698,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,20782066,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4712694,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,17232751,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,241394,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,718220351,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2143400851,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,237686535,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,78688346,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,38704510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,20911234,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,29493119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5388929,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,87710200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,124295302,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3224173,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6745691,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,214284849,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2240310,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1043605,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,97264601,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,10506220,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5738,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,39144661,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,13258644,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,203249,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12823366,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,57656283,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,93464935,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11745117,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,238880812,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3517890312,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6817335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,7547210,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,71369736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,10887170979,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,78767037,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,30467971,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12647752,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,296218273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,26140661,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,82075249,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,874690743,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1113958911,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,186495966,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,193693783,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,124805916,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14681621,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,10677143,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,29926123,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,589505543,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,133584303,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1218798292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,8368262183,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,249187675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,11007567,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,191782,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,12244959770,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,406901210,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12365392,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,149514,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,15519,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,9434904,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15560496,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,255115,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,352756,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,16393608,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11965084,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,293471,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12965218,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,90152,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,274302,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,13963795,,,0

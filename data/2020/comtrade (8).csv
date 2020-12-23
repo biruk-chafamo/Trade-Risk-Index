@@ -1,0 +1,971 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,124698172,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,11882449,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,42704927,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,8573001,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,1214630852,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7646203,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1645901239,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,71802260,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,564070175,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,26630702,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,17783584,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,170613227,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,11087672,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,69075506,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,15821208,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,279012799,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,283990346,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,25974535,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,560622443,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2515260153,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,25681497,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,102462507,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15487228,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,50570703,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,22652465,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,107281090,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,66249862,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1130254,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3825010,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6896412,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,39505815,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,213346240,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,608321951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,582250,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1857478,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7361464,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6604842,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,84592726,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,96532724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,407690218,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,522263749,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,45474712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,257436026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,177196913,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,357984736,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,218652725,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,112510989,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,640408716,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1089412134,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,6706921747,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,153009755,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,35485704,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,44213927,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,315889,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4179658,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1125547718,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,175767040,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20599783,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,407935953,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,26262,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,30176332,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1560618,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7126654,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,653996,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,16795150,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,28949256,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,15281006,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,87165630,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,11007311,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,7547838,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,33744023,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,30208674,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,12833296,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1477606,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,250881819,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,268892661,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,60929324,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,13684799,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,97736974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,8576893,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1770998289,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,20734009,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,47396294,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,138405304,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,40854388,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,563920398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18918398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,195363204,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,958695406,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,162853721,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,420943399,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,823843945,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,725057240,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5052096,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,60101730,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4052018051,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5997009,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,519220408,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,29248780,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,4135843,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,18865761,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,64696406,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,428953274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,19657226,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,36100300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,73272352,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,399331,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,395503141,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,195997337,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1950134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3555285,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,91670999,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7711966,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2226019535,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,380559938,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,57865870,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,44111744,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,744646470,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2687742901,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,128376469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,220920742,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,12964053,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,43420473,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,65643037,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,28849466,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,38748321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1768844193,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4608688541,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,43288300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,408464538,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,420931425,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,163493633,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,305484852,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,174582961,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,485358103,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,250052391,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,72385390,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,386781,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,58451564,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,564792,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1833703,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5005112,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,212574742,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,138644606,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,45139348,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,102421,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1464488,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,445521895,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,34389273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,343336600,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,70677441,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3591066,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,96856615,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,30914859,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,134405570,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,7328417101,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,82017295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2670654,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,983268338,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,728010074,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,231625399,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,162985536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,78028847,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,247314008,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,85169841,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7112291,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,545511461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7613727,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,18802252,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,24961168,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7498368,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,87466989,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7162973,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,382673702,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1564298244,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,49234800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,34528199,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,623876015,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4088928,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,10651127,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,42772890,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,57856316,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,38787084,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2676180532,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,124903212,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,232381509,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,939476646,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,861251202,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,15507646,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,16525110,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,66125945,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4633975,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,548886517,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,19780503,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,63561037,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,459455740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5723535,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,14102860,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,239047613,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,475195511,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1488486,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33560973,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6595047,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1328060,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,40711000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,94596436,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,480992,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,403040163,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,700827455,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,118054610,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,254484273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,21296075,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,15792630,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1295015,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,20744450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,242434574,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,17761889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,848132230,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,333529,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,11464494,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,8715549,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,32556518,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,60760424,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,287347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,486413825,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4087786,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,206902617,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,110272395,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,71668466,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,547627427,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,39634298,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,265627426,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,110246377,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,68351247,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,100010882,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,704122781,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3345629,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,915127498,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,75309380,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3391891219,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,77923756,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2967280,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,18222092,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7901080,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,12732613,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1037280592,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,622567759,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,45785224,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2902672,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,72541846,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,17341012,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2611536,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,461895025,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18752478,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1668184,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,68023309,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1885552501,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,44324902,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,124582382,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,53894777,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,32676972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,427497862,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,15723379,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6347632,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,110581699,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5590949,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,995123912,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2750609768,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,13945191,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,64837246,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,45079211,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1165258561,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,725425147,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,89362882,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5697940622,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,127843730,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,272196378,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,90455464,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,32124482,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,580427273,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,685188716,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,122365364,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,273218671,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,182078749,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,111190429,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,284738112,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,894969882,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,322261,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,543921607,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,54233738,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,32393765,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,189565626,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,32400819,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,3034156,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,50589992,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,229110143,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2630959,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1393045,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,41024446,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,3582222,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,252057211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,928402,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,23830595,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,14883430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,358452382,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,10882955,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,441887834,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,4548890,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5600058,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,34520226,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,72819605,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,5739618,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1242211606,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,282829340,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,810855843,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,16737782,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,385546,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,28609858,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,634724655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,34154382,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,29376127,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,14240149,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,9136930,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,8875233,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,114031574,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1666495798,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,673433015,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,45818433,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,190315017,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,19425365,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,5803042,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,107695564,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4196693538,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,123777426,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,73125071,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,553702274,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,776230151,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,233215608,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,81854519,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,261777486,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,102497324,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,242562779,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3763793,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,65728219,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,105196210,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,147807350,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,271138024,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,234715094,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,103941153,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,604091442,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,326058823,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,214249,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,46662291,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,657641171,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,74020600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,72113,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1895195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7910311,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,150951997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,698549063,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,160332,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,834013873,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,95624476,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,34065012,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,41755910,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,50250689,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,41263666,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,939037256,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,531050041,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,34227925,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,418496065,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28706488,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2168946,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,202334905,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,192967396,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1049446,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,540879819,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,222650,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,687127,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2485428,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3125936,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,14939488,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,471742435,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4680,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19916980,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2599916,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1314759,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,67590541,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1136831427,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1357293928,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,327647901,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3891376,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,58604966,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,184742293,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,742824163,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1924348980,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,20129697,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,5901442,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,314619,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,36422507,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,81274046,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,6289236,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,295526261,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1325538038,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,43515201,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,20725699,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7407369,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6339976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,33039701,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1378474,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4573309,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,259450546,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,521896556,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2290907,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,553672,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,121452749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,39112418,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,422009397,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,54461096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,15234032,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,555179416,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,255949727,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,81647631,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,621594766,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,252471,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,327243365,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,297206727,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5968140,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,569663453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3929003612,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,520498110,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,99723739,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,193493183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,304291962,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1634312,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2048889,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,34544890,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,29358453,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,87284224,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,597234062,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,286413,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1696908420,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,528726510,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6382756,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,602162649,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,85374914,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,8624667009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,822419260,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,22920720,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,524280978,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,997018700,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2946521,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4493269,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,228179182,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,166781452,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,73364201,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,626418987,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,96059468,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,198599134,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,158607312,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,294382351,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,94618081,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,72516074,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,509036862,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,40613961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,316840489,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,47658589,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,141230513,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17169141,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,11983059,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,563815539,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,19757562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,244995437,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,120500817,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,20826537,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,9270441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1097309,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,18477176,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,237867308,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,181617,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,11452669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,24774831,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,60488006,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,25613422,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,14806,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1889262,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,331880324,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,725674,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1458400,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5594398,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,78221143,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,350074,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,71846966,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,44763344,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,133573082,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,388774307,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,315071309,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,307113034,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,79516489,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,267242995,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,129479250,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,39362887,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,104290486,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,886341629,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,293239614,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,86298198,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,152148991,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,86245575,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3670839125,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,31138319,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,226700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3424073,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,968248911,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,238587,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,485328594,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,481258752,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,721090634,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,23016902,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,19821725,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,9771077,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,14218759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,215198515,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,12338096,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,23969796,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,71437350,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,31925061,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,512773620,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,879860461,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2401438680,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,7147826,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,116368587,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,170731137,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,24628800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,5750181,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,458312681,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,31686190,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,8298727,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,47989251,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,89187834,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,8697403,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,825471,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,8010597,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,15811087,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,84401564,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,682200924,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,23575913,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,53352803,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,52055865,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,357194405,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,288825,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1864770795,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7309854,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,735575788,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,297308,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,309800659,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,92441683,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1016316316,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,21386436,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4869842,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,120487045,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,325326524,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5906745,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,43323273,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,266626661,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,271891670,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,548996072,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5471722,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,38925721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,104589228,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,379915684,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19365047,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,11144,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20143133,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,34020818,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,163462104,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2089250,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5305264,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,555803,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1643999,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,495399952,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,84138212,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,280923,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,79829042,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1743692932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,251458375,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,85052964,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,505389550,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,500274316,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,172069052,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,216555942,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,761230943,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,84922076,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5120142316,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,137579381,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,438948798,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4200164403,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,974336527,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,847930020,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,155117461,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,259843370,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,140157094,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,421829150,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1111039,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,520211604,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,63991734,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7228571,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5974987,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,45944756,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2356732389,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,919977549,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,206708428,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,105241860,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,7281141,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,44552802,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,995714,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,29947305,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,40373796,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,367172521,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1819982497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7729843,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,96332053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,707771892,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,24508064,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,46055935,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,44704729,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,166135281,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,52336,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,393854308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3998006,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2491848,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7018830,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1693401,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,548209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5085420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,81063468,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,87701145,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,261606761,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,534758820,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,523273535,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5192092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,223296620,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,162679357,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,350039552,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,611809276,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,36998975,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,439225410,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,133192029,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,832084146,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1647122113,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,114963700,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,19362446,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,279529125,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,707919494,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,23881196,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,942771,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,955858181,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,9551204,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,194931596,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,18643531,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,7292052,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1882101,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,5565107,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,28068648,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,19150303,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,57496650,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,52120136,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,113112960,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,7201474,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1426899461,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,381508973,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,830407917,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,9776772,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,46095571,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,31542685,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,682765092,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,6762661,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,39065897,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,66853130,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,51557443,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,12939398,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1446856,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,6379555,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,86267211,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,59093140,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,463476681,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,4758191,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,23777531,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,118922404,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,257514537,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,915999987,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2378748391,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6513789,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,486287364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18874837,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,10195363,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,19369094,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,559485613,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,243396886,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,12414932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1191114326,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1046602,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,22892621,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,318825960,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4561165848,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,282912,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,61585528,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,10268981,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5224361,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,637264332,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1036277147,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,26143580,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5703163704,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,94474817,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,131589515,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,244510024,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,78070200,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,30241953,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,272278323,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,160484351,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,86259428,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1006071765,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,236110294,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,440374518,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1946928,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,480326351,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,193083,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,517817732,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29674909,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,445912,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,30441367,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12120929,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,179991167,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,50400092,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,113546342,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,23231178,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,424055941,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15323,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,19764270,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2645410,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6235229,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,34863706,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8181312,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1134477,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,595698,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1597574,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5618941,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5217395,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,403776540,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,82285064,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1797823635,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,77900973,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,224806550,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,101799184,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,357344540,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,156229105,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,4066006,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,468987729,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,351506592,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,295481238,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,393279230,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,145992887,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,126324034,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,936583102,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,12878036,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,547797008,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,9658552,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,9696021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6822428,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,435625426,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,68499093,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,59935618,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4405629250,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,32197076,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,759822217,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,14726858,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,10393060,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,108295683,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,543672974,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,19230546,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,67520095,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,18998326,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,1920428,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,690530,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,6265732,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,81020172,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,3880884,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,11040108,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,986670290,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,457341185,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,64504173,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6052020,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,477539,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,46653967,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,664597379,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,31332465,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7156558,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3886779,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,171656546,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5537932,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,35966118,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1749098,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,454023460,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,93932879,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4950867718,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4894313,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,99527665,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,48561313,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21460998,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,405821746,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,16504921,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,835082,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,277656608,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1513894381,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1090823786,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,520798138,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,36297144,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,120590227,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,201975864,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1088857634,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,501287950,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,658200222,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,267816195,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,126881855,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,534843448,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,261574590,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1600262,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8884865,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,35237721,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,954726,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,562974,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,531994688,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,352596390,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,179321151,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,24242047,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,401769275,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2458202,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,311282,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,40523,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16482513,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,111342855,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,41843842,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6153622,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,81843091,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1871871340,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,266846,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,241929634,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,87961221,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,37679760,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,388575451,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,96728008,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,274907233,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,64044381,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,461860510,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,162623540,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5593747996,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,315066355,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,573591431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,223156045,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,162118811,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,311720170,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,7364526,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,850489992,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,43912428,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,429543458,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,123642813,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,81759302,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,52658669,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,714878,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1075192,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,5513142,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,486449620,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4415757,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1794812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,45934914,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,152322896,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,23017826,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,10751,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,406209616,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,719874727,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,115362617,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,9925818,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,6513623,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,509581732,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,309467611,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,892084096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,7746033,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,108319668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,772126,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,23891392,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,10524094,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,20337206,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,273376,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,24886459,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,11825811,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,39858334,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,428492151,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,38132126,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,81743606,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,35260364,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,14599318,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,57359733,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1388233,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,278586233,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,132974982,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,2521680960,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,8564150,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,113900025,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,1856488662,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,419512761,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,724802479,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,32111901,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,61493803,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,717609824,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,123676489,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,351813074,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,22077579,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,191076119,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,20015064,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,24651939,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,997450,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,274248107,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,17655855,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,1559744673,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,365603,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,4192666,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,11696478,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,6745181,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,62560278,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1917713918,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,468115911,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,69457099,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,81956483,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,102746629,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,317513882,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,84240928,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,366805466,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,165090352,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,434459309,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,595512969,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5444907,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,286990623,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1293534,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,50,Silk,,,,,,,0,,14291,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2508197,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,24150226,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,467184,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6209997,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7067613,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,37723199,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,11056815,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6615558,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2394180,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,299922545,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,480782862,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20513588,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,38100088,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,122404313,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7726004,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,267599,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,15403801,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1001986538,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,10604212,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,22367142,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,593949646,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,8842262,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,687429259,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4929852209,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,76983470,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,11610291,,,0
+HS,2020,202010,October 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,26593914,,,0

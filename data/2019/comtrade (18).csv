@@ -1,0 +1,1079 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5786,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7714,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,20667718,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2250101,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,32314,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4822181,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3633571,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2268602,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6425235,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2598973,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,470242,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3273370,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4196719,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2711150,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,9480,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,693168,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3236429,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,43924,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4413728,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4205,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23206415,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,34517,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4450,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,18082537,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22164814,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22627022,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1804796,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,43,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,572,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,60525,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2391861,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,301408,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1451505,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,841507,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,316,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2305,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,657630,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,21700389,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2321905,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1687889,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,151494,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1493611,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1571550,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16932482,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1670,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3399022,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1862144,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,627032,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5166431,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,263827,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,21313775,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5323311,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6376083,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,771845,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18790463,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,358740,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,335982,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4434976,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,29328147,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7098903,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5918679,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5753498,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,16245664,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,532950,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,441581,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14643573,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,27826801,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5884750,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4254941,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,299089,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,168514,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,393912,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,100622,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,550413,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10638698,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,13354,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,167588,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,260818,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,10538,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,12841,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11581492,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,14680,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,194377,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,251836,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5276821,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,179106,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,238228,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4661930,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,880,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3186047,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5176579,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2895,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2398523,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,24879806,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5198429,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1953484,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1137906,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1491548,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,193319,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1695934,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,151298,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,42554,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3220474,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,91045,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,202062,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,862492,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2224602,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,68207,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,22767,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,281435,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2356910,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1418,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2102925,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,82259,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,26576,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,90828,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3056550,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,382113,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,34972,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2073301,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,18262745,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,99188,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,90101,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14188545,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,14033953,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,333351,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7190500,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,17723634,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,14,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,251899,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,36441,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,22075643,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,698160,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,44974,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,95246,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8479757,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,210388,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,36088,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,580955,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,14988092,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,411558,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,79325,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,16461333,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3570,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,25267,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18319,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1150,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,14914317,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,10813873,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,41140,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2455496,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,4648,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,1967,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,742777,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,8953,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,22997245,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,39175,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1733951,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,42163,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,28673263,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,144657,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,663092,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9418,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2649604,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,6533,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18109663,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5769888,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5526,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3278957,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,46340,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8682428,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,144393,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9048765,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1474,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,165,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4173,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,21904074,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,200150,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4533,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2798857,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2158828,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1660820,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1753137,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1951,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,951771,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,110668,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19714853,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4256,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2016660,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,300,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,112703,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2056440,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1848670,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,17202,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3387979,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2274377,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1851257,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1069,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,39678,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,23071496,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,303,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,506525,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7120,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2641375,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,56646,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,6004945,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,639903,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,575365,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3993,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,758649,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,3427347,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4515343,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,602879,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2699629,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24140532,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,5618773,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,428460,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4258140,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,93117,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,913722,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5995261,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31824466,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,7499571,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,87185,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1111943,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,443173,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,144643,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,232460,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6236707,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,982099,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,99675,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,486279,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,284884,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6734116,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,154231,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,22283454,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35053369,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,32314327,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1054409,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,49561,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,23334,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,8034291,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8005742,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,26544482,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,211790,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,163,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3144850,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,241192,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,1957100,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,84232,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1942351,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6094,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1345427,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3022540,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,461240,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1160,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,213981,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,63473,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2351362,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,33212,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2052913,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,360964,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2648160,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,77912,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1855016,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,37019,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,151691,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1842994,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1916333,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1014020,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1679718,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3262594,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4836329,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2258898,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4904960,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10853952,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9988104,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,20908335,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,111688,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,381472,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,209662,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,81341,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3045398,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,333670,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5465668,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2356348,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,969,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,7468863,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,35224,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5019313,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,69904,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,519451,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2546122,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,190175,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,16842379,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,585339,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,356612,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3255,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,23264,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,22350,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,187,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3065991,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,35559,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2507,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1125,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,22851,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,620941,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,613261,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2515456,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5859,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,506055,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2773025,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,834934,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,486857,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,827711,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3517,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,218908,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11631363,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,10998,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,10665058,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,18519,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1613,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1070,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6323396,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6150296,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11038,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3091358,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3553310,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5656587,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,223904,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1600,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5964965,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,190818,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6199,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7382,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3303048,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4598701,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,12623,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4561743,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3923374,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3771699,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3476392,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,319436,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6276877,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,4265287,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,44450079,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,709799,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,787477,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,687012,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,39129303,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,844910,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2543,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1951024,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,50364,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,975993,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,4989808,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,520,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,84,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1613438,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,379559,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,263237,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1202870,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1736,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1245,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,165202,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1815286,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,395025,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,36,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,503506,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1792177,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,59387,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,13,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1402113,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,54,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13960821,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,589918,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,65450,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,171065,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3354656,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,408901,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2154441,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,19532779,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,794422,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,491476,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3376,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,176940,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1069767,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,428,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,22779794,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7379,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1983535,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,199631,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1200026,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1270,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,12211,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,69989,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1631,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1590893,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,109,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,140837,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2032242,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,472452,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,981670,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2418,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,152039,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,17323538,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16330826,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2594493,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,776723,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,37852,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,318294,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,149704,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,481205,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2669,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,194662,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,443341,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2265774,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4063,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,866285,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2431053,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,164787,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1407831,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2150852,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3233603,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,589239,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,32048,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2538565,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,159802,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1827552,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,842520,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,35275,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,738487,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,90068,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5969141,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3330958,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,163,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10953811,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,131670,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,353994,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4582186,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,216749,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2396,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5282126,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,314,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,13178683,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,300810,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,280586,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,126144,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10305095,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,129624,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,416266,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,424636,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3986,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,23,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10517278,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,410067,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,18034,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2235111,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2103106,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,284175,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,682463,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4299,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,576524,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2332895,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1740594,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1115790,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,603208,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,8218,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,49370,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,38736,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,579645,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,9472,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,503247,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,14670866,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,182,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,363914,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1533155,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,111788,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,49132,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,7,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1321003,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3671140,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,164515,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,80870,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1767655,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12514345,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,330702,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,278972,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,611048,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,14962866,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,280,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1990620,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,119945,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,936945,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,519684,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,18865307,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,518987,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,8574865,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,74440,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,329485,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,342047,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5116886,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2348527,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,54001,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,472539,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,426548,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,33641478,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4575959,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3724813,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25085014,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5875434,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,17010881,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,468321,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5326041,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6598658,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,28305711,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18991281,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,330100,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,6384740,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,548468,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,732973,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4879431,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6262351,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4162906,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,481358,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14445518,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,43393,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6470605,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,55,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,30521,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36449803,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35197758,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27113886,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,103915,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5861800,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25343411,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24800652,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1103208,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,369620,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,215,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,33,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7796047,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,38238,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,25195990,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1016897,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,980866,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,756304,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7430839,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1803650,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,311399,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5346111,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,634484,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4549622,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,6368542,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14900990,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6694762,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,31082255,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,5473020,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,561523,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,777238,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5911991,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,13905675,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25517688,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,489049,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,675769,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4678987,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5024082,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4217353,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25238460,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,460557,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,18087126,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,409492,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,81391,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,232430,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,18056881,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,18805,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1472472,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1764170,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,101432,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,171762,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,381988,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,10820979,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,33,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,411695,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,936313,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10588714,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,579649,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13741657,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,412798,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,341828,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,396250,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,16652581,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,336,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,970887,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,16951,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4242767,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3372644,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,29211,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4309844,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1738944,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,34588,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2492874,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4918965,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,298367,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,25557,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1221399,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,177807,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9148301,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3898851,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18224873,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,913083,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3092494,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3135938,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,506982,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1789232,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,160975,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3712489,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3715608,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,111924,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,343229,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,13308,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7261,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9083,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14756099,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,980972,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3280493,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,16161,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3348,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3619654,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2141,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2730,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,144074,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,33399,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,914684,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3516019,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1068599,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3149443,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12606986,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,164967,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4421,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,846125,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13035,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3084,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,503801,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,13084,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,287331,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4929533,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5164271,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14410163,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6207443,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,28325534,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26970895,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5045924,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,430292,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,309986,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,873043,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3985486,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,27011507,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4063171,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,17770509,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4490710,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25129128,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4820870,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,278762,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,4978976,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33242807,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,122459,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,62767,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6777969,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,102946,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,53908,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,29,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7893236,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,27100762,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5170,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1540977,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,22137611,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,320881,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7085946,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,956781,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1058111,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,723369,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7902707,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,143257,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,7775393,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,242416,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,28836785,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,77723,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,17,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31868819,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,16457,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3199729,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2745974,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,511962,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13286022,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2301,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,11315,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,883,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1099906,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2950,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3044592,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13833941,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1620,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1432010,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2270746,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3809133,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,210,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4093289,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2115372,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,659639,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18037758,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3864,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,282765,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11295,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,200681,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4793471,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,10915,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6785280,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5366271,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,255420,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,292101,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,190727,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,227040,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6190879,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3185788,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,158909,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3978294,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5058925,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,167936,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,10748,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,324441,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,12817,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4562520,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,105952,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3728858,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4325724,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14077210,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,80,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1688375,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,620952,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,537090,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16274050,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4064091,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1871868,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1516256,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,109444,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14043155,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1494,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,13638,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,40,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,521160,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1524971,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,573760,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14367842,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,696912,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,18265813,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3857025,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1030933,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,13250,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,466092,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3349562,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5556164,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,111957,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,18782,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3602904,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,170009,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,180575,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,13502,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,283800,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,105952,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7643,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,3852672,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4504504,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,147452,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,187089,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4091222,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3674146,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3718157,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,233841,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,313237,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4456321,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,154758,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2574578,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4394306,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,255420,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3190174,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12614029,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7741426,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,557615,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,671996,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2754821,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,646982,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,487767,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13572,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8294609,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,280857,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1157402,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3792603,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,87107,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7831,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7912,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,29002,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11663532,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,516248,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6803,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,20000,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3571,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,781887,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11899710,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2615284,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,78953,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,373083,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,512382,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,842075,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3460381,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,98705,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12404,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1120,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,700,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,440,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,657744,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3908,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1560593,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,9323547,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,9539,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,865267,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,2652383,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,109462,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1688,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3600,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1713,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,9501325,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12803571,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,359019,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3142107,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3108221,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4463,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,310973,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13151500,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,17400,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2798165,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1700935,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5301,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,284469,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,12195,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4115,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6654895,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4295101,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,712123,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,231676,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2860479,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,17400,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1153324,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,230588,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,21503,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15551607,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4672119,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,161691,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5476651,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,7463,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35100,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5778,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,81601,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,124627,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,113593,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,308530,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11006,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,21939243,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17118,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6171378,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,114831,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,23639513,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,105786,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6601651,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,30541336,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,24508418,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1392399,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,580196,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8381383,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,127568,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5566602,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,86966,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36685601,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3763483,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33547808,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6965451,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,68436,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,37053308,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,173,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,38928,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,185904,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,26753,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,107866,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6886688,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1187705,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,894814,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,5567662,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,28586563,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,59840,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,6964581,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,134025,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,39906,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,58,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,92631,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,126374,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1685,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,104822,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10000,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3532917,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,439935,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,430310,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13950483,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,14147494,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,428268,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12786867,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1443526,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,26795,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2106477,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2967785,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,397090,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11161591,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,168,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3353380,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2294302,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1710124,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3884098,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,12354292,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1672554,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,29000,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1462353,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15576885,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,14648,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,207938,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,15405,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,23122,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,4909359,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,595505,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,628444,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,36597,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16718939,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4760345,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5388496,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11193,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3522922,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15138048,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,15515149,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34882,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,8641,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2697149,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,14345554,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14463,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4203773,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1232212,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1183386,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3144,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1083058,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,171852907,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2011007,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1411610,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,161977793,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4516824,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,155309916,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4206187,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6426547,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,741260,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,166912,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,261823,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,108046,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,147965248,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,75003,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,272728,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,124253,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2297436,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5266638,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,184784,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,141662443,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,146304,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,101417,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,24719,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,14153162,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4311014,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,4001301,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20995,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3539937,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,461502,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,548151,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4096271,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,398067,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,24513,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1140083,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,262697,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,9964,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,10420086,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3323169,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4266323,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,28492,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,164449,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,262192,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4978468,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1026103,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8586348,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,108593,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5470821,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3682132,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1232234,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,104117,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,123412,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,140695486,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,263186,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5990713,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,203105,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5203646,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7865087,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,253070,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1050481,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1358038,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,170758247,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,167555,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5318101,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,202393,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,177604,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1204643,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,234119,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,40,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,780173,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7693016,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4465178,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,218863,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,190388,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5069635,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8413799,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,365637,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1668993,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,191117992,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,196766,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2605,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1649641,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7574177,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1005278,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1000,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,849333,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,123594,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,604569,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,162647,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,73352,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,168458228,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,238771,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,103370,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2301149,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,150,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,225557,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4754427,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6790446,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,310780,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2343669,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1479128,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5759270,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,945796,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1009863,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,224788,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4181070,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1692670,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,145728692,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,85700,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3732535,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5433891,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,228414,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1285199,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,145607542,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,93125,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,152255893,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6632357,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1673948,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,157169,,,0

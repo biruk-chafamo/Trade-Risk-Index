@@ -1,0 +1,874 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2013980946,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,56330101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,8769706,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,31830830,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,154175313,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25672643,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,688867072,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,38594578,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,56566225,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,738717,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,366295,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5248949,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,5123311,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,27630393,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,304400113,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,41532399,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,142060685,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,376674703,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,36959,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1575836325,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,40356771,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,844847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,70040268,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,268774364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1145924309,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,59767671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,21430126,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,62529218,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,67483689,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,301956406,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3782970,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9248568,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,356893323,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,36597405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1156822039,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2959802,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1065662309,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,122215586,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,178430472,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,129828501,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,330026503,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,43940225,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,63862406,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,66802578,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,59157713,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3143988,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,40364239,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,120939278,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,5012523,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5559544,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,34615377,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,118810334,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6735739,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,167137637,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,34822863,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1359205,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,530484061,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,576458061,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3278605,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1459254581,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,206166753,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,816704242,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,225309,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,68580285,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6974415,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,451406628,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19418103,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,66272817,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,357288346,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25838706,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,56062610,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,173403077,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,110500343,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,105623324,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,274490774,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9584604,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,224506665,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,49829008,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,148068598,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7808933,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1270803,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,46950615,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,299243941,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,271205639,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20895657,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8560245,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,138316808,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,11790138,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3697113746,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,91813834,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,347154593,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,81644482,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1810122019,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,317576,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,22694202,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3007721,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,79337917,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,198797155,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,54573994,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,43168234,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,668806353,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,481909558,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2716601899,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1329745458,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,52934443,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,40257514,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,528343733,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,197673616,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,651015214,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4347501,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,93572236,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,84969295,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,947786943,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,35226635,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,195949935,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1707372,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,64902618,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,65336027,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,230526131,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1407973469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,518938419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6191440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,625209478,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1486747832,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,127749604,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,384498,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,432649376,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,49905494,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,12070767,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25818781,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,70668702,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,237958098,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,57822747,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,91736552,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,181058976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20329408,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,280742017,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9431964,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,137857468,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3281613381,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,15005135,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,421274522,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,25651776,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,128243785,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,38434835,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,150560308,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,37986236,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,35918241,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,722961908,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,66403123,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,79064343,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,7564230,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,82803942,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,147609779,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,55551427,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,19928412,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,44309119,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,160930170,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,24042678,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,8802617,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40560956,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4808175,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,290001088,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1311828,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1059395,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,385996933,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,320118,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10577712,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,290539891,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,5558680,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,37375485,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,,,709913623,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,138066,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,80018246,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,8287148,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,50703405,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,144892573,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,30021218,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,133462222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,43047521,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,14139509,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,82757,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,15155032,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,639927320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,813260513,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,238866136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,434479195,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,5998491,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1323737681,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,311562435,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,280927863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,55722840,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1634493718,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,6381844,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,12580467,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1855001,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,49802376,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,179141880,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1186328612,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,28639044,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,3275519,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,122538096,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,234611989,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,25217434,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,,,9104952,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,171763301,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2843872962,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,651571934,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,51942634,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,4467373,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,210129739,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,270306453,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1468315,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,39411520,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,968689284,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,387176466,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,3544758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,75445030,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2610358,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,7385999,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,177202120,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1032680,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,14132823,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,144924570,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26035509,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,120904140,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,74418815,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,33578651,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,45256505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,117931758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,425746214,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,387643,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5620785,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,352172042,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,76619266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,87104505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1576141186,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,21208755,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,465134795,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,159146,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,32121301,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,462746,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,99772684,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7226893,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,42531666,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,24201154,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,401106737,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,361260811,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3629508,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,25637972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1323765166,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,61691529,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,6006802,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,131925505,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,44855118,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,645979,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1435603534,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,174774877,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,32553645,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3668398,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,54717344,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,47103625,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,114213762,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,164627814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,33024624,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,54223136,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,260621,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,595675449,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1670131457,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,714552239,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,219080814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,168939600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,102239935,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,65062195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,407749695,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,58220122,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,12193988,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,140872065,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,37511054,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,6756864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1394725776,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,447807824,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,481381018,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,45499666,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,90486666,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2975305,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1942182831,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,115106498,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,17946226,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,223630102,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12083395,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28478512,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,247503289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,67019167,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,8699283,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,124465,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,4334530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,101924907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,390983144,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,,,694848,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,1993696,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,20137430,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,32026374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,24117670,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,117124,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,3534103,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,100548119,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,344305293,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,6440017,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,250432569,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,113597391,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,677404874,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,8515892,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,5232083,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,15485492,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,87710,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,42729,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,291489,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,76525261,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,15292098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,57717140,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,69139470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,4925341,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,10952945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,2110488,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,29503486,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,15494916,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,98449,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,46963,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,,,77713931,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,2221223,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,25573896,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1954869,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,8255110,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,30813729,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,187913788,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1244034865,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,46584047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,26469147,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18625389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,462798881,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,26415153,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9132134,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,74274438,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20659385,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,54074515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,484387904,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1119240135,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,25250071,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,214748263,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20677737,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,71532084,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,55976738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,255975679,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,9446699,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13551975,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,36539481,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,999342,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,93093881,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,11316668,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,79360285,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1390920926,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5169586,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4171632,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,801293,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,12752951,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,8532664,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,138480250,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2583533,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,114912734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,45881930,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,5480061,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,571893619,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,843139,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,108437,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,86445729,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2024197,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19024186,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,5601059,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16368869,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1106496,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,48488844,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,257635215,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,182812,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4527186,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1177325,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,58448,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3991131,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,245626638,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7076781,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,37287639,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,40663963,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,158739803,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3956317,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,9316262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,64590004,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,201581058,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,163783253,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,4141165,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,47081126,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27159376,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,174708744,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8264192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,217059133,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,226289,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,554355627,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,715634320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1589037908,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56044642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,429752221,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,63893482,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25510219,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,70562813,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,355253119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,173082354,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,92792444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,24098122,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,54472621,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3478771,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3029649293,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,423146872,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,35029675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,18849121,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,294075683,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3519076881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,165499848,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1368483887,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,302145341,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,75309118,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,15009095,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,12484478,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,458312,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,4132579,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,216485840,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,10812198,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6589853,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,26916150,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40255032,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,92417998,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,67822906,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,772214,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1164997,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,396846068,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,89923,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,28973440,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,138079188,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,143284852,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,13607880,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,49734007,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,689385007,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,64493485,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,848449086,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,629342439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,218582291,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,387017130,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,4895274,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,59030005,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1894467355,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,798676334,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,301141691,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1493036390,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1983225,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,9724809,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,8674251,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,52307580,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,168822384,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,22614785,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,11698091,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,141508198,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,1458606765,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,27870240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,36002396,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1028378,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,207006576,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,278199634,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,146392292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,181281192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,225421347,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,25591248,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,,,6917261,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,611732488,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,64192804,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,73869433,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,7482854,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,39417673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,,,600699621,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,459573,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,517376,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,753822,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,60964074,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,188091,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,74031032,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,20496231,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9206416,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,350123013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,126040954,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,25888441,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,641543191,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,45440192,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,4983809,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,114405568,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,192868824,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,239896019,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,332916156,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5117367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1225591587,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,26585062,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,463627100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,154941895,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,146325,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,333934226,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,87201511,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4307807,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,37360209,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,103643251,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,53344505,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,47808083,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1252845726,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,22696278,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,57955189,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2577017238,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,194501098,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1871976,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,77962131,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,629501221,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,25511934,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,18107059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,121249929,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,29220712,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,149614780,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,183706711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,227816643,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,9894539,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,479465605,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,30828148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,15591906,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28456175,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,23113018,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1030975033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,20088,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5971342,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,152103371,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,453502096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,122694344,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,5321833,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,63190134,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,220834601,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,80516085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,151587897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,264632808,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,142400675,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11829905,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8885659,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1156107130,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,20134078,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1470436249,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,379284330,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5411893,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,127674099,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4746885,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3751329,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,43688781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3511339,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,257983080,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,48737064,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,441159537,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,237064577,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,48574731,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,82207967,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,655338113,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4581525,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,10660439,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,34159537,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,248231864,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,279375,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,20050604,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,297311085,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,106683521,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,230073171,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,18423467,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,63183724,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,25864119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,84692543,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,457953688,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1582568724,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3816053,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2089374,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,257404163,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,34128600,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,120583158,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,923722,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5930074,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,117991579,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,91036320,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3094533,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,34963655,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,40310153,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,14404853,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,287059,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,46037434,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,141582418,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,17036133,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1180753738,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,16792851,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,30735108,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,126066455,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,87874479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26623277,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,114759990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,11802659,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,6995524,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,225942997,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4594712,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,37032622,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,57568659,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,705747305,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,482786591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,131040109,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,23201362,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1796699944,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,184950816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,201551576,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,374617,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,380316438,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,8591200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,436816345,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,108809503,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,121543769,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,452880,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1666693,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,252772,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,93641439,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,653990,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,47044103,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,59985498,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,4820079,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2431245,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2931901,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,4396285,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,28425300,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,44420420,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,683729665,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,50010478,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,920404341,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,251151410,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,260575327,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3021896,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1397603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,8534334,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,139716186,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,403210573,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,148896819,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,129724954,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,39233978,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1594851,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,2667084,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,119431656,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,950564,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,89584776,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,18803217,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,59584164,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,76221543,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1236019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,8246827,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,339286993,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,421244186,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,7617148,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,48662318,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3959901,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,51423791,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,36732727,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,186789496,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,403400736,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,131028838,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,185386717,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,64808029,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,31702536,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,170486515,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,911417,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1732362053,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,825769,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,162938135,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,30787003,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1317697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,120346202,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,9545274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28895744,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,43653883,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,572307246,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4719995,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1302371506,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,25003033,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,104180839,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4362125,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,31517172,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,60888620,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,63271862,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,407714477,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,7664019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,128540966,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,210050256,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,179897726,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,122402095,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3426758,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,620053240,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,813185951,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1546763119,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,98984584,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1025792127,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,41596737,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,369630,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,6590941,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,82590349,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,40279761,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,267466380,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1748114697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,12076155,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,143809100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20140690,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,242067274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,14813228,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,6974515,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,115552645,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,170643026,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,38702706,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,191325531,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,73184796,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,22024665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,443644964,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,535269787,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1410083786,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,8987175,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,81642870,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,361506260,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,30411546,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,510264197,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1632471287,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,209392,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,3674349,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1938426,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,55328157,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,267042207,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,291933497,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1182494449,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,33349335,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,48647673,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,1348525,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,7405901,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,75186960,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,202050368,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,449948401,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,492767676,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,157123187,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,40801900,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,25153994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,168869979,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,802035,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,72627753,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,746976,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,186924484,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,588012,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,26777146,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,121284811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,4047522,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,99234230,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,1344913750,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,39555043,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,167291599,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,609753119,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,434573462,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,73583037,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,7222083,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,2177812,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,23199690,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1162490763,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,266901711,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,154404153,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,53970054,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1550865120,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,168472853,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,44335442,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,36898359,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,61399415,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,156176916,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,109282229,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,445408414,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,125861763,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,33377347,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,53682579,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,53382643,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3541012,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1023128740,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,28734708,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,3977161,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,88757044,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,206269858,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4047526,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,475206327,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,37525275,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,28292113,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,108944620,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7714076,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1375013,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,32638643,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,148477862,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,835146,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,399400850,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,739888265,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,599980110,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,73528710,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,8051699,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,375553,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,51289646,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1119964297,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,94911138,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,148815097,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,190176168,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,114740925,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9702663,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,400146369,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56883452,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,55823700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,25017043,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8265724,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,166727524,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,39682222,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,162743969,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2626894,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,53420643,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,22134483,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1823062305,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,545446524,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,419561312,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,43096618,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,260703478,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4627466,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,232745375,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,19818036,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,117682788,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,14903472,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1982519615,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,74032913,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,299480168,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,77346238,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9365943,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,66296747,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,360437,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1566497587,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,459091841,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,25203261,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,291340041,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,7629612,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3486320,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,4091772,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,599066,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,1770468907,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,150382877,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,295026240,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1277007288,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,45846268,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,,,18559833,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,2402828,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,8611549,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,598898,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,42885089,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,185530211,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,541395562,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,210281795,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1213860,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,25800238,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,32728399,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,52,Cotton,,,,,,,,,507400779,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,4461518,,,0

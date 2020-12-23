@@ -1,0 +1,777 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,292602385,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,158923574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,15413735,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,261278941,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1041995773,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,416377404,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,176635677,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1299421866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,135544574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3264281,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1706540928,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,573818205,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,79794331,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,17274771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,209451224,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,343073072,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2626238,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,493911424,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,91648725,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,789055000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,204785469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,33719961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,51223730,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6675731734,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,261569292,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,320895308,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,25264044,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,533757253,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,15724791,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,32803866,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,852007536,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,72401881,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,85225578,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,56430009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1204397964,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,959260297,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,210112422,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1042199215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,509228202,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,16538442,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,144479380,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1348462215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1400912498,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,403933803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,193609597,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,38861675,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,90056538,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2726493362,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,138368269,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,211564637,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,139257824,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2436541,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,133375304,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,18432355,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12272299,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,42056967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4277290,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3246076,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,269686285,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,115142175,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,26585303,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,15166654,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,74354127,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2930113,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,475249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,479023562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,102313805,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,398933340,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10778975,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,308518092,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,190414329,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21443727,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,28297354,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,170741457,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,67962244,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2329550,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,71437061,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,35764891,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5540641,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,75240845,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,77682397,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,153923222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,20741020,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,2816711,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,10909012,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,394440763,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,168751167,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,127011048,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2606380381,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,236539741,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,32033989,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,229059553,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,16327752,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,953301820,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,91295935,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2288956564,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,12170367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,52539558,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7015711984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,60678948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,754724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,121241971,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,899957367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,40063411,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,458694301,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,171154387,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,74913415,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,10020784,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,621019520,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,990012917,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2382542859,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,566857686,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,104803941,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,115047048,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,927092516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,478831594,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,36666427,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,114891077,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3054217177,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,47608154,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,115529272,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,99993421,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,226271058,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,63481914,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,15490602,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,151850495,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,320774389,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,31490784,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,45726142,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,25900097,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,186406099,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,165821153,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,28125851,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,100219986,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,675494,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,484411053,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,113335564,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,35261626,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3845007,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,17354583,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,,,66054290,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,31398586,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3183565,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,56132789,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3102102202,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,234721829,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,177231674,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,14750153,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,117550032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,11571897,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,431319748,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5969038,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1201606554,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,977872196,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,348877050,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,199209282,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,101998479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,60526534,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,141845008,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15142141,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,107601896,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,283708934,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,543470166,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,201498834,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3866690,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,63037943,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,87383738,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,492563931,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,29453181,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,98356873,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2348242387,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3304093,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1221152,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,493417291,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2284150,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,309359556,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,711766945,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,88404101,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,207473165,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,353582018,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8948285,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,62994924,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,245950218,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,571534918,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1452517270,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,7148816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,201951430,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10244950,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,11128302,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,128926231,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,494735161,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,62490869,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9726156,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,521769852,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,67843691,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,453685206,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,64294113,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,67167874,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,831187604,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,163531601,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,569709179,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,32660887,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4046147,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,336253545,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,102019344,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,141356803,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,821057887,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,44321774,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,9459612,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2035791294,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,758277102,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,118438963,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,235395811,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6384318714,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1473739,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,232377303,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,31753439,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,346224652,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,72009017,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,177685226,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,430051830,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,,,92269907,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,43044350,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,244578321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,224700353,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,246086573,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,424550665,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1492481416,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1482977524,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,929351609,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,160547689,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,178788735,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,83797664,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,19003678,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,279373536,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,173201805,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,222839865,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,70831212,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,507941728,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,62049216,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,43762941,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1054323848,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,217486113,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,994619785,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,83081180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,94340739,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,781652349,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,67086665,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1109983331,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,15374178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,78958917,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,138542881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10996265,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,566275503,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,309155691,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4390340,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,599805547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1777308737,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,789690277,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,562088222,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1079590223,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,39903128,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,77327182,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,286982651,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3073672794,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2822723,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,139458148,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,24746868,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2947158,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3335620,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,188999364,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,24241342,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5368081,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,38433736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,369922,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,108107188,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,35442195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,28634320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,307292305,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1814278,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,326181459,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,93013806,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,18245244,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,424242194,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,212978662,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,15672235,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30697708,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,132871000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,168884475,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6569402,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,166017732,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,74456596,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7660686528,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,287716773,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,28286242,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2866499,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,11140335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,885347090,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1078195731,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2594179085,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,596622139,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1082419677,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,125017455,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,84172353,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,131536193,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3548931485,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,22398289,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,380074818,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,79137888,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3895836,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,539064397,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,15703970,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,148777262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,19245711,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,24394184,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,106578586,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7902109,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,362093623,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,393709236,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,201411571,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,972394778,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1163064637,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,41777680,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1963970528,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,44184461,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,392527987,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,43929705,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1215988712,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,64797743,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,11135231,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,162639676,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,66835544,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,382700352,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8024004,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,763592896,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,441611935,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2145157348,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2782640,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,767767,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,43403180,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,25619563,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,767945877,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,86826149,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,188500770,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,648288453,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,308417676,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,89819024,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,129483053,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,902287983,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,81821133,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,56258839,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1953826662,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,785832396,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,8959674,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,17746218,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,214340311,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,196866879,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5982057992,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,405744998,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3500100,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,867405933,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,611084794,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,172080311,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1055956767,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,58862793,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,836727405,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,51914121,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,42660376,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,39058811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,8247598,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,81034282,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,47333653,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11772865,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,37941168,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2426497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,166113554,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,27144671,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1692348,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,552529089,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,852284,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,110743670,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,477809112,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,418133914,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,33218119,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,96118201,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,21179584,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7906623,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,84802278,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4670283,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,59045936,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,222978863,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,393843265,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,124756803,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1434450,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,357439397,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21857313,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,195099206,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,303602522,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,86478339,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,185715813,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,9375627,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,263577042,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,20788436,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2221078,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,172485437,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,237345724,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,125093846,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,100030946,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,12545984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,491844538,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12574057,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,131473332,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,17217578,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,149975139,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,235970980,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1162888006,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1381429043,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,46118455,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,288414802,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,162401071,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3574358398,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2291031,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,36514091,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,84646178,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,92020293,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,651052293,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,291447766,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,16066647,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1896600507,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,74625878,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,222492806,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,420133458,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,102940662,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,411262792,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,937134505,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,192469568,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,29368280,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,333966925,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,3916956,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,704531005,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,114649192,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,117379846,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1979593,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4153768,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,282471757,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,200250258,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,910101250,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,39849727,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,90434047,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5032514,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,320191810,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,639985280,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,153245799,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,18758414,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16561941,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,77333973,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,85805946,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,426121370,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,600480770,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,125548981,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,269758728,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,311177148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,23703538,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2971662,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,13431454,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,642436115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,276047662,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3235738,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,29479578,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12776159,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,79691445,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,161881461,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,20172778,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4713340,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,751445438,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,28693806,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,231174904,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,939015127,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,84977735,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,93020781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,558308373,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,51615455,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,791238373,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,121474860,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,,,79508479,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,36433685,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2815466621,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,137272474,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,242779819,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,468426496,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,118772563,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,572656560,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,31363174,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,167386407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,128864438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,859683728,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,364682263,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,215976647,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5986995,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,70982064,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,594951162,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2253645,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,809741349,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,214638621,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,79732170,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,187266557,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1609406764,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,747424935,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,57812625,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,928664717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,75779115,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,723482394,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,72078037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,82860342,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,871971327,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,13439058,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,515643529,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,21922844,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,493222717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,37314829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,866409,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,110661945,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,38371209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,232817915,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,41261572,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2790281,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,178965952,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,79038214,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12761171,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,46294945,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4126045,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,26473415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,12581961,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,108135228,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,407435739,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,14461905,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,314523748,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,89370689,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,342947483,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,29379032,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,190251492,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15421650,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,75971578,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16202965,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,260723885,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,130016463,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4352476,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1715394,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,64350864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,223351004,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,261346925,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4692892,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,25541230,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,52249116,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,50944011,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3474774,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,201485735,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,13191460,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,77709764,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,296963723,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,113004533,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,155082697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,27467673,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,111359923,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,245860977,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,26119904,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1054503,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,34721485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,14793262,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,49453463,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,87838469,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5985886,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,58413951,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,67498111,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3847096,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,209946027,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,202556683,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,184825480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,84756313,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,40548804,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,621831108,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,119541450,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,57625067,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,554392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2730417,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,730882218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1843048,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,504640109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,105008779,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,356840329,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,793431675,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,3677309,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,289908244,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,215162869,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,622160877,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,190042509,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1435797125,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6614824,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,23917290,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,204953312,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,47187177,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,273985211,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,60764613,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,320215525,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,76316864,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,92874369,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,546275507,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,17929502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4165821,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,62444254,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,594705466,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1547116168,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2878030,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,16461568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,195150997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,139355753,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3955152729,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,50436326,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,4497046,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,533391229,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3322562,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,34014814,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,44044736,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,5047873,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1305943,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,16145577,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,207449557,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,656808376,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,122181150,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,33347444,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,49915310,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,176397114,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,36993596,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,235174993,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,39129018,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,243320248,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,85885548,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2886633121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1341125,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,13454490,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,25477141,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,90250040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,278881457,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,100951646,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,821262218,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,585196556,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,8831172,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,76075004,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,10445223,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,307590572,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1312249,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,905012654,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,200079822,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7998632631,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,276566833,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2445190,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,266184598,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,32011411,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2578776797,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1005223844,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,398560692,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,12174789,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,63572706,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1135677788,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,108560500,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,401280040,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,116685303,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,21180089,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,299531640,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3094688649,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,154500043,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11833990,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,494532357,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,14114636,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,140082286,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,25523766,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1239655984,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1375632060,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,58939409,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,52,Cotton,,,,,,,,,85994163,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,32885340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,160254229,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1000306911,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,231351332,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1250322218,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1251911883,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,92492146,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1002801483,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,95788833,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,16869094,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,608055497,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,86566850,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,283076005,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,131234637,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,41886553,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1360318220,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,59149595,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,79615768,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,762042759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1168890901,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2942278629,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,32908644,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,413301895,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,345126191,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,9130095033,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,110153844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,725131721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,173256693,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,51579750,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4000522892,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1353759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1001150356,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,446006768,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,303367661,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5604000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,84424679,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,199744669,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,88653181,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,64807398,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,805368277,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,30744403,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1896734159,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,95355264,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,224353526,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35707419,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,75100890,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,17742152,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,251303409,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,498279217,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1077742705,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,609701129,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,2889876,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,219305806,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,88756028,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,173648154,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3400574966,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1625444986,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1564492173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,290219684,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,556304145,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,145921368,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,172470921,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,14083932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3234496,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,584614637,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,30322070,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,172735730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,322631703,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,43337605,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4826089,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,32186866,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,389180016,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,329707446,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,106218939,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10322739,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,284682140,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,20430988,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,144633855,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15932553,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4766676,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,290986758,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2772146,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,15405878,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,951375,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,575599238,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,134640747,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,111294594,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,469540081,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,31456139,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,41977533,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3139132,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,16295157,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,194122562,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,95088168,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,63014992,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,7028110,,,0

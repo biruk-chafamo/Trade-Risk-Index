@@ -1,0 +1,394 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5981,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9166,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,282155,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,257,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,692058,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,155835,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2387,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,35240,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,759680,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,342754,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,120921,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5236018,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,217318,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,251493,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1751781,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,14150167,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3084,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,7585,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2112021,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,24634,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,450040,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,935956,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,22809,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,247,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,10,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,779,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,809659,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,305860,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,23752,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,233761,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,45463,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1742,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1084931,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,109737,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,7827,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1950,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4896,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,22,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,166991,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,497727,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,159719,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,148152,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,22580,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1062,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1181,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,205728,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,10143,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,34032,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1487310,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,514924,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,724729,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,503,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,237056,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2000,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,8576,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,184072,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4843,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,119118,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,782056,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,176955,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,11900,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,8200,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1470668,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,147394,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,42912,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,14845,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5175,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10445,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2405,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3233,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,164671,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,987129,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5818,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,164070,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,35604,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7415,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,52413,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9268,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5394,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,823507,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,685,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1184610,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,14792,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4237,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,21085,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,196413,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1972635,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,17505,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,221298,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,69912,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,408840,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,888274,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,330759,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2174,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,14558,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,501743,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,278,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125835,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2000176,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9677,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,295589,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2563027,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10000,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,489533,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,926,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,115052,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,15629669,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,306316,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3832,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,193379,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,211949,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1757300,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,8339,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,43770,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,22104,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,27557,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2539,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,25,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26313,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,708228,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,546299,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4267159,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1480,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,179639,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,160048,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1242,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,321707,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,86935,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2619603,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2122,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,47668,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,26396,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,645106,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,200376,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,174925,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,77719,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,288001,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,900,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,52007,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,306142,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6151,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5373,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1150,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1080065,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,51222,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1542,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1670,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,399586,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,289564,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,126970,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2618,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,658029,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,11510,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,49084,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,24143,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4218,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1449942,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,74144,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,382,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,14746,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,115,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,21631,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,170025,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,279465,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,243734,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,171643,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,36924,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,222,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,320,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,163753,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,77672,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,142063,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1257095,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,648625,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1033667,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,23595,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,489174,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15878,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2550,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6921,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8811,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,346412,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,1351182,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,25000,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,518890,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,60000,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,44200,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2322902,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,214887,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,3633,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,309370,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,43100,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12147,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,47535,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,125641,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,131338,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16563,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,26509,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3623,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,8004,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,3523,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1378,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,811,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,889,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,300719,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1388,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,75,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1051254,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,181506,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,71130,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,36204,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,804889,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,201674,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,112931,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4618199,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,268021,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,102094,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,3235110,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,615,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,12939900,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1069,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1924,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2850195,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,327,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1220775,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,138296,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,47009,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5037,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2064,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,636776,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,665325,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,37892,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1163148,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,102079,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,2650,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,108,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1802,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,100637,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,521599,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,122615,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,527811,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,24765,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2673,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5728,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,94160,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17653,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,57936,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2187794,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,556238,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,381864,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2188,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,462918,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,850,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4765,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13871,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,216155,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,731764,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,119185,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,610235,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,750,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1371009,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2501895,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,2417,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,161,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,678202,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,192165,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2752,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,41158,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,903544,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,448622,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,213930,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5687763,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,274614,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,144755,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2020095,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,874,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10465807,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3334,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3461,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2450682,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,100976,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,38864,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5303,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10425,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,829,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8441,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5813,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3559,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,206660,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,16287,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,166808,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,144415,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11994,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,13239,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,573153,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,511696,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,50663,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,8066,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,723353,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,421508,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,26709,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,287921,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,18069,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6078,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10000,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,190781,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4893519,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,79862,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,166280,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1436620,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,10061205,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,512,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9040,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,15706,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,12060,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,75170,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,89563,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3519,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1006,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,681151,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,502922,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,39798,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,42659,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,5990,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1809,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4000,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1636422,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,61709,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,171820,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,139063,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,33225,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,16900,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,690,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,778,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,213919,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,671984,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50000,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,279972,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,625,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,150,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1296,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,481,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1205,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,139948,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,109943,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,843441,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,373486,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,67448,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4136,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2165436,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,781622,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,784537,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,18600,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,73042,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1170234,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,493960,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,658838,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8415,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,413013,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,9238,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2528,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,111565,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,109878,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,18896,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1841,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3392,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2283,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,48,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,21628,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9310,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,24385,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,252412,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,195,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,743124,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,88677,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,64392,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,53165,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,62203,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2455322,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1789758,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6678,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,212404,,,0

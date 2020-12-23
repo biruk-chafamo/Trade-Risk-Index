@@ -1,0 +1,686 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3709853,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8633951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7028891,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7697,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1282653,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,39021,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,80684,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5824460,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,12,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2213813,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13018986,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14132,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,480,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3577144,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,29356,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9075,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1726316,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5684182,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8463142,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,65757,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,18,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3008327,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3070792,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,970544,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,412767,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3206638,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,258,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,11,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,223106,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,460343,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,427060,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,313431,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1813452,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,38,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,379269,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,976919,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9130361,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,597062,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,279910,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9495422,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2703735,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,258009,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2915285,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,26157,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,12375356,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,683934,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,306652,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,384241,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,41105611,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2123558,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,39844,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,37549046,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3513655,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,225019,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,23842,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6284438,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2426494,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,75,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,138952,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1797147,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6553889,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,21908,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,39107484,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,26472,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1462107,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2734372,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,434288,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,6680,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,412463,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,915504,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,551688,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1561026,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,633707,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,817718,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,493920,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,781175,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,8678,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,823840,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,74444,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,342954,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,889324,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,260053,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,387263,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,952389,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,548162,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,976042,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,600514,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,451069,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1266196,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,79,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1559304,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,22218,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1330,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,151157,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,86901,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,57823,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,110,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,894831,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,30283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,99968,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,992,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,540,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,43301,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2921408,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1496787,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,89150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2889732,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,204641,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,62147,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1574,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,875,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,43606,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,440,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2547246,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,195923,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,46697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1054,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,71845,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,202866,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,77531,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,60889,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,579577,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24468,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,43084,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,107323,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3392162,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,50971,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,379287,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3255,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,388996,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,47979,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3224096,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,73002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1090500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,471523,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3924696,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,334142,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4162912,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4141,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,46668,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1087819,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,51283,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,52574,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,364347,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,926405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1050055,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,36796,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2027819,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,320063,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,18019,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,531831,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1134552,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,871611,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,631751,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8889,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,109274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,228533,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1401407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,18858,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,715577,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,510139,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2478082,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1520,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,778023,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3986,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,591751,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,29055,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1939077,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,186360,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,352183,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,284266,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,207918,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,76026,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,354189,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3344,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1572567,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,20802,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,152879,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1255,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1702054,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6167,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,152850,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,103971,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,9,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,48985,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,662,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,44222,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,39670,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,79669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,69357,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,305706,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,701261,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1173917,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2168029,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2168555,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5236920,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,10161649,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,111804,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,289809,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,320631,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7817023,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,218386,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,268941,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1274188,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,847275,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,346308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,5176274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,47749,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7510,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1742908,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1180932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,628311,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1697357,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,754452,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,399678,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,1048622,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,80832,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6569628,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1093596,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,33702,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,158261,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1901709,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,346801,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,18435655,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1348132,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1568845,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6066342,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5904909,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9145343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,88718,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,506887,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,179376,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,115222,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,146644,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8666784,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,203289,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3712035,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,322831,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,60,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,30458,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,9522132,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,25831,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17159005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1443622,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3243226,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4466496,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,17354049,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,923820,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4162,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3482,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13258,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,9697914,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1116017,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,3357758,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2455967,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1630428,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7143603,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3631,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1620734,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,493613,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1260078,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,743872,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,407458,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,1932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,584200,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,10006,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2562106,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,925115,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,246284,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,10979,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,165952,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,46327,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,470461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,392719,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,807366,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,699485,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,543438,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1328934,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,8025051,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,704314,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,516223,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,266173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,351882,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1666811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,13069,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,360639,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,959977,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,239075,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3691,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,463586,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,631111,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,50135,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,163779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,444151,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,400697,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,101178,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,60644,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,306588,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1239811,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,157072,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,183283,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,1406685,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,716398,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,355420,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,23000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,398950,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,616,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,370678,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,641630,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,225411,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2232627,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,26134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,38618,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6875,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,29725427,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,12159,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,158918,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,26195,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,34095,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19667471,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,256896,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,43269092,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2988,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,14069,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,10,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,40516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,35609175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2943,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,53808,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,10456923,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7833,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,541460,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,186978,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,31417709,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,17785877,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,53132,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,188516,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,176496,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,186115,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,747562,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,577043,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,229332,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,451173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,28710,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1067048,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,492861,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1125409,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1441707,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3138880,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,71170,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,68194,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,891480,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,48628,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1063715,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,110472,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,930078,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,82730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,796119,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,443240,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,334249,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,535397,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,558410,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,125265,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,199540,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,118058,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1204017,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,541183,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,150701,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,851887,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,5769,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,9000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1629886,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,269494,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,574,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3465028,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,68393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,14447,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,412913,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,56273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1496,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,271656,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3014055,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,106642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,548847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,70436,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35754,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2335519,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,26453,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,298273,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,743,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,387060,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,66927,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,67141,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2844,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,1363816,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,23116,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,33479,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8153239,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1989895,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8877786,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2900496,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2385894,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7788,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,47613,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4333,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,3805,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7138464,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7512539,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,296966,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,187947,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,197164,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,607636,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1061,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,41156518,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6791393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,32426939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,32367127,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4531645,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,449303,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4805062,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,134164,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,262287,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4591770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,38221,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,31805195,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1845959,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,839977,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,390007,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,335926,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1175691,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,177192,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,456570,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,482893,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3467,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,930442,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,51831,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,134475,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,36029,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,60320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,597849,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1133785,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1391796,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,384568,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2370262,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,640112,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,84039,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,96108,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,8809,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,519297,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2963,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2109,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,68201,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,13,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,114979,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,79371,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,123440,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,314,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,600392,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,344673,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,88104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,992371,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,173723,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,133705,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,557241,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,489794,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,139036,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2446136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,60896,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,145757,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,212914,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,622861,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,49420,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,510441,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,457447,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1954700,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1961859,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,2689083,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1680566,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,64409,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,63216,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1487214,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2553995,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1132458,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,75515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,688224,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1858456,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,21836,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,30854,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1341169,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1265843,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2542982,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,5847772,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5288738,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,3041247,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3487536,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,1213730,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1030210,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,30,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,8400,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5012462,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1331074,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1445295,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1987895,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,343062,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,70653,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4650,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1848548,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2576510,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8523321,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1094582,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4402104,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2614053,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,221973,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,111200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,22730,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1339229,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,619911,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11774893,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,164539,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6107622,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3608013,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3058837,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,758794,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,199765,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,101197,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,39120022,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2540812,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,196776,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,57149,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,5622114,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1189976,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2626,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1135,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6390630,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,3074844,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,393,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,269484,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,288904,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1812922,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2134975,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,401185,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,247116,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1828329,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1498255,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,15056,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,96137,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,75693351,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1826295,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3249,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,152596,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,56592,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,132141,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,851647,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2895887,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,60148928,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,75828427,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3197241,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,128281,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,779795,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,67548,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,77605,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,79253195,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,118,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,343345,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,22985,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,828733,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,27320,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,70889,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,551,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,126690,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3016808,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,944364,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,22628,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1522125,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,163570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2621762,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2260766,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1910103,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,364658,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,830591,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1088368,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1770544,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1395515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5994,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,852989,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,710382,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,6236725,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5292944,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2995807,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1852197,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1466320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,63328,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1722522,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,1747598,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,101684,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,135295,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,366080,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13237433,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19221091,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3264,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,7213570,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,20781,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2305,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,89355,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,9900,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,28855,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,56265658,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,313375,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,39549938,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,207675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,485650,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,121432,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,97513,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,79147,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,178527,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,26075,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6151,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18153899,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,19259,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,29706618,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,14822668,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,56732940,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,30842,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,126154,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,130824,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15634,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,29393,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,15,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,24311,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,1196307,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1755032,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,24426,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,126554,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,115342,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2821277,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,454850,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,391504,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,39813663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,33312,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,109184,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,76679011,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2660384,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3499,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1306741,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,74114,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,663152,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,63006,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,1834081,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,198012,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7671,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3445,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10133,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,162157,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,65041676,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,138414,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,66965851,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2355551,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,200730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,257386,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,936,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,3211097,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,77742,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1279212,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,2113455,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3358612,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,2788957,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,2594112,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3739122,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,180114,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1642139,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,261381,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,1242490,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2254081,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8011,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,104561,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,52167,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,6912550,,,0

@@ -1,0 +1,338 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,299355,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2313,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,3383,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1201,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,324305,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,205,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,47089,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,16601619,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1614,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,67769,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,7386,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,60897,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,76514,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,144270,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,65445224,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4476,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2640044,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1938691,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,29,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,72223,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1777,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5118771,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2160,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,8,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,51052,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14838,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,61038987,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,67,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,14686,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,227,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,95924,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,186378,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7099243,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,425515,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,19067,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,141021,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,269,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,19,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,767,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,638,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7226622,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,238887,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1353,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1022,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,292,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,667,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,1199,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,223438,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,130706,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,144473,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,8657,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1092,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,43820,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,220,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,79924,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27220,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,589530,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,225573,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,361835,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,354665,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,352,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,435554,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,143,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,227,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,141,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,176850,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,82995,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,100,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,114507,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,47,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,93406,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,182,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,224806,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,312627,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,12287,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,180,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,25751,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,41660484,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,58186,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,19297,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13194,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10487128,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40446,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,123675,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3401311,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,320,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,244813,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,319601,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2894,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,322,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,557222,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11570,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2854,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,35661,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,56263,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,788151,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6434,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,6667510,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9935,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,10,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1664,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,388,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3549,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9492452,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,137,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3000,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,89130300,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,90455,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,957,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2583,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5345,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,47,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3208912,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6118,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1816,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,788,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1338,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,57313,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,544,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,34875008,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,32277,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,115978,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,21068,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8044941,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,40982,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6693,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,500,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,29052,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,188,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,165568,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,132,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,391979,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,267434,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4406324,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10808,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,15730,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,53520,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,381071,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,497454,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,403536,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,97184,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,166602,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3537888,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,78742,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,28849,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,166718,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10431396,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1099,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,50509,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,346011,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,31569,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4768,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,71252,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,3222,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,205632,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,1246,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,321,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7203,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,204,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,69467,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8337536,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,3790,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,341,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,160903,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2976828,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,128541,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,969,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,77203,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,378,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,24980,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,24772,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4376,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,14682,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2812,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,211,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,29,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2746,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,85368684,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,302529,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,49885,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,54520,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,149,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4172,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,52689,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,117085,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,21446074,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3056,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,151168,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,30611,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,106192,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2054,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,5028,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,122,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,427,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,102481,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7160817,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,13715,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,6331,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,297,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,133681,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,558250,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,73230,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,6601962,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,17782,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1224,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,61831,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,21197,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,644043,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,459734,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,333801,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,172607,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4961231,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,127119,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,20935,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,88380,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15830661,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1466,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8180,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,195994,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2834,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5122,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2232,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,49248,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2809,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,131168,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,78974,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,13,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2429,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,48,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3612727,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,151375,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1221,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,12,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1247,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2950,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,4543,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,1439,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,6756,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,694,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,355,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,30,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,176,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,53760904,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,388110,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57383,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,93000,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,116620,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,1713,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,16694,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,776,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,271754,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,122071,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9243326,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,120,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,748711,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,319748,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,464,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,7391,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,937,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1466,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,101033,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,10785690,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,17036,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,752679,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,154083,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9159396,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,414610,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,4907973,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,959,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,594,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2398,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,611,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,213037,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1855085,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,404294,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,23797404,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,10476,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1456,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2072,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,168333,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,93271,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,624622,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1449039,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,83054,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15244,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,489654,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,1548,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1082915,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,18732,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,414901,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2284,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,35101,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,51864,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,273367,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,273922,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,90873,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,48,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2525,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,153,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,4130070,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,19,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,138085,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1936,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,604,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2998,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,187,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,800,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7126,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10010,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6068,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,9082,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,638,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,55032,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1630,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1141,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,65633984,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,223724,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14730,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,32534,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,375,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2381493,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,238621,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,10410637,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6870,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,75838,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,19641,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,206323,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,593,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,28868,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,26,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2294,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,990,,,0

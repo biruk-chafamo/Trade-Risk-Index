@@ -1,0 +1,874 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,116880664,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,681557184,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,324773798,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2706683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,60109156,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5952986,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,763670,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,246253594,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,121255351,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,207561544,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13468650,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,30860191,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,13918451,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,27039617,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,576230,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21687336,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,59525763,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,95170321,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21178390,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,118943766,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5153745,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,33273364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1434875,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1273364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,66859389,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,248745497,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12668811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,28304970,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3993684,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,28223561,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,252386,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,52450193,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8067527,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,17158850,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,25351667,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6225837,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,414823,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14056715,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5722960,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,30064803,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,539199,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,61520025,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,35795757,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,272024792,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,259191811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5296125,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3432001,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,84226268,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,28294204,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,262915297,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2479029,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1971105,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,104625127,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1871407,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,27639517,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,42533677,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,493446,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,22259139,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1292953,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,734506,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15689476,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,559328,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4697398,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1164459866,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,20908117,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,86339139,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7247413,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3746210,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,20060127,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20249088,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5278021,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,31037,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17450942,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,316576,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,32952500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,18483516,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,88574760,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,218269675,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2368078,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5879553,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,22013620,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,328721283,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,728252507,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1060174243,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,26303013,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6137964,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,72194642,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13623570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,173159571,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13052147,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,148412923,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,70627493,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,26628212,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,224939568,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,89395724,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,56024700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,111508466,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,154264822,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,69640390,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23036158,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,334770515,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,2048310,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,950995,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,87199182,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,75028283,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,,,32905,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,1497223,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,20046458,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,254725,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,80791286,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,559828,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,25483272,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,46963809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,49430417,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,58359768,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,12750477,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,211783613,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14564327,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,16092850,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4329387,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,67822443,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,12191239,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,244723,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7182368,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,46984222,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,31663771,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2585941,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2094652,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1776900,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,209609302,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,55147349,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9784671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,45663050,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13893762,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,331547,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12149207,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5974915,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,125649921,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,197337319,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,34045655,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6481274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,103117422,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4676978,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3796616,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,42337321,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,26268549,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,283571,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,26846490,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,172935,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,16066815,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,833827,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,796584,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,93358394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,25551212,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,217559734,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,57700967,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2010559,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,875728,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2432643,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,343064,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,391026,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5146147,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16286360,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1536697427,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5661095,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,26867,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,19209981,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3487637,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,72566918,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,26120993,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,31063861,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,900796,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1942329,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8588499,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,169209921,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,88376903,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4672553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13628384,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,26143876,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1084024053,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,28142221,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,16945295,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,802280960,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,272467143,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2333035,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,95349304,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,146830402,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,65192596,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,210941865,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,150055434,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9455411,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,123459860,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13558058,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,26978389,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,18753553,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,286709539,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,131548489,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22024767,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,155613694,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,72708794,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,496253,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18298025,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,96990435,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,15598599,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,908097,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,768412,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,26471133,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19327013,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,66452997,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,49613268,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,273111,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1832042,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,34384215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,34806316,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,16725882,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18098680,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,986257,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,401393056,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2284525,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2409156,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4195047,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,185686588,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,31867444,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,30939352,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9203041,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,272183205,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,340614426,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,13234575,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50741469,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,836583,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,29679925,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,8669704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,15152028,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,225028824,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,54129908,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,31993199,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,17632350,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,114871773,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,27165684,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,187405,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,159056633,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,91249992,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,73601235,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,131251368,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1182335477,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,64388034,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,348030,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3754509,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3893656,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,233101615,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,395809,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,449653,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,249152227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,540892,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,16107097,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,55171489,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,225614203,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,15637673,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,16487347,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2484669,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3988885,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,30028231,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,407249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3409322,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,27833184,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17886345,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,371455751,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,275677275,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,211116986,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4772235,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5760767,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,18348073,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,87435812,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1457252,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,44490554,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24820766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,19807963,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,53730168,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,24803344,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,74595770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,116715236,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,22727009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,77173134,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,32151621,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,93978801,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,24170215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20852678,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,178708961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6981282,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1789709494,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,63096,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,115105616,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,222234889,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,31560055,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,12014465,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15895233,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,19818807,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,16395246,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,83724937,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,29082349,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,107178621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21275673,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,409442,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,56463267,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,51481095,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,247055823,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1385984,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1156717,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1639633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,31856991,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,46482348,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,14557543,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,22400269,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4454740,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,62906754,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,420703,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4852596,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,33732945,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5832508,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13505246,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,388174,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,13918374,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4495139,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,161904478,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,39472781,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,54213245,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3059570,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,423899,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,26478727,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1936991,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,17435431,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,50516481,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,213076,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,25144968,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,928895,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,115339353,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,84984701,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,240282281,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,29979178,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1340679,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3604111,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,16040662,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21320380,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3918196,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,16184610,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3559616,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,18946988,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,92534556,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7065593,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4449460,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,436581,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,129097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,606517,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1693736,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14818814,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1682115929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,14574450,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,26382973,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,198108100,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,25055188,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,791810975,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1104276216,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5647679,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,349999000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,46455459,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,72386939,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,185637605,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4301065,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,65456514,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,24730761,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,245687061,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,14622051,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,161226541,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,17403770,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,213751465,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,61787865,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,128630185,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,104175359,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,119243923,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,28123520,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,176365915,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,225259247,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,339289453,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,14409357,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15513110,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24830182,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,28122988,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,103231748,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18028155,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,65223622,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,22427262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,54064254,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,653679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,48227193,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,54041996,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,25445400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8078297,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6454438,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,37886614,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,646035,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1339320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,13209109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,25581363,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,401928,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3151754,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,80672103,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6018677,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14452587,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,368989,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,16578581,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,3028591,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,9710064,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,216861288,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,141803881,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,159365156,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5393021,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,29604418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,227876045,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,27049636,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,570698,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3499827,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,69917675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,337137,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31884495,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1323995,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18053623,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,31801728,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,63094027,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,105440616,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,899191,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3172570,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1642835,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,28386834,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,262130023,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,93625361,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,85265547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,20023147,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,17590889,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,25483,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1653926975,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3336906,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12890180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5384736,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,82251231,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15496464,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4857677,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,417745,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2458515,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,778847,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2284270,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,593111,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17715047,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5406701,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,30198849,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,15512178,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,175237845,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1110225286,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,329455177,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,558079695,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,116891526,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,111988185,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4609472,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,21818406,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,254806222,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,13485935,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4499838,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,153097509,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50103458,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,210689425,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,253967749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,170873036,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,66206684,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,311864,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,245630227,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,22319126,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,57544789,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,349555165,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,208516218,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,64171694,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4367326,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3307657,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2516780,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1400362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1117062,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,33057395,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43890517,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,263357,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20681974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,291200,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7897793,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,15595169,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,363476,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,15062407,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,213243449,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1825161,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6811283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,117680453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,185351137,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,33229043,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,374967,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2675246,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,25399189,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20816220,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,23163563,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,16788803,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21256947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,27522951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,63766036,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,245034337,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,60238882,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8797693,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,31413148,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1335938,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,618885,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,54949121,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3854472,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,12297432,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2797720,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,346612,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,21461962,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,24282067,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,18966580,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,53567,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,901183,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,255679,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5366171,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6129972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1815838143,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,662940,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,107170691,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5216059,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2411932,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,32977199,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,458246,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,57861947,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,93127405,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,225188615,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,50795433,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,7011520,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,108350107,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,74856490,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,35215754,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,73439263,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1275008260,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3165133,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,75832690,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,26086763,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4533133,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,119408405,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,66046805,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,77163837,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,713283,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,117604361,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,236459605,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,18044589,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,90376570,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,202262000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,183679771,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,32507009,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,16219190,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,92207145,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15644304,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2335440,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2273023,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3461761,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,17595471,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,29161096,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,236777995,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20989724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,375558965,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,166009161,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,364368365,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,615488057,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,261180055,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,33008789,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,124936547,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,19378400,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,223040442,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,19891529,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,,,4322419,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,100776027,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3674321,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,569217,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,86263327,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,120956062,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19180267,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,27942705,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,451094,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,53493200,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,301917116,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,218595800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,16349113,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,24818345,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21711703,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,64495190,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,299772,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8453029,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,50191155,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16641363,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,37556993,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,34687800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,28330550,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,106702530,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,958954,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,142910442,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,92995300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,6347139,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2228570,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,314643,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15363713,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4648754,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,92576184,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,19118365,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4565892,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21033028,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,31645,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,16808536,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1265756,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2234567,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4932541,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,6452294,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,6824464,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14966076,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,412604,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12078140,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,31514087,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,446498,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,35142982,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3506079,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,106732425,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,5113591,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,46565092,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,154897222,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,258534022,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,73704775,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1338129,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,40227606,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,338687,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1581193,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20782280,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,55639127,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,4665050,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1457821,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1769993,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,28538420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,100368362,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,36885191,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,201096042,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13987611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,54533304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,97168927,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,210221259,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,15737911,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,38109405,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11660320,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,225542601,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1611350765,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,350525,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,36257017,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,11044736,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,208276912,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,66748490,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4279320,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1225062837,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,332506818,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,9235112,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,892496032,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2877185,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,28328789,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,263191578,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,239015775,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,142390477,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5001415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,17075443,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,129483238,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,31678037,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3013736,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,15546966,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,13931888,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1970466,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,72551338,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,95694836,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,14008273,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9571341,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,38120921,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16726514,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,20852236,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,313439998,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,165161745,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,143629567,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,5766136,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,92847809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1388934595,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4478456,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5272268,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,288128,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,1612432,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,571862,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,13950050,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,20598628,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3057565,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,70840353,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,18607997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,658664,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,19243058,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3441037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4400926,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,11432583,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,326264,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,14835848,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,20882398,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,179970,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2269343,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,20887117,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,4866732,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,98177345,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,26117526,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,235022,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,455155,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14615539,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,41373149,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,27674799,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,998662,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,27333160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,196261791,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,61796641,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3022505,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1186935,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,19034500,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,17355123,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,28171133,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40075392,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,686285,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,71966772,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18991568,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,98206684,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,164544720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,53443554,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1103987,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,28852909,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1493873,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,972778,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,6259037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,53013476,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,5199082,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,68035888,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2982927,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,629183,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,58929982,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,197598379,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,86595061,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1021109793,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,26387978,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,258665827,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,666466843,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,9952515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,3341763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,67765624,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21648041,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,175000486,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,55042002,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,358907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,54471300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,163271014,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,25046949,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,9270114,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,177224186,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,134525043,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,200854698,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1640521,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,24346509,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6706484,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,191104213,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,13286,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14676418,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,724995,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,2992733,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,865293,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,5059811,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1862931902,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,21001886,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,97534005,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,7123477,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4826007,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,5728505,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,21857587,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,105771200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,24899039,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,538536,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2605537,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2490080,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,28374327,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,1083893,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1465215,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,85620146,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,23136954,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,166139621,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7477622,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,337887,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,21286462,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1045753,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,69418829,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,64735614,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,96969979,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,132552481,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,21012574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,20569876,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,27152953,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,89545627,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,389091130,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,35599329,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14879748,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,16658113,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,7316496,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,16490213,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,8041186,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,127519833,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,123014867,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,297629222,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4363844,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,6757846,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,266888429,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,35678984,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,54598772,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,6182200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,725397,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,35005458,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,5730543,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,36708362,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,367682,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1432415,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,24712234,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,128668589,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1724034,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,29006972,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,28448684,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2015194,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,2836241,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,76444891,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,24876735,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,318466302,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,640351,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,16254762,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,87537348,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,218155678,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,176785685,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,88331550,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,125332859,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,28574327,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,33199646,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4773303,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,92551225,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,56790999,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,221198609,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,12523020,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,26418483,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11694010,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,239192815,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,36042479,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,50,Silk,,,,,,,0,,48960,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,20799755,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,21694438,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,226907061,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,17547394,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,303902304,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,113747820,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,311270507,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,367449458,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,25812659,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,672519138,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1313824292,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,715775,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2386296,,,0

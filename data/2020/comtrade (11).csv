@@ -1,0 +1,776 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,6855741,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,14154639,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1043847,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,5564,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,15117474,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7354033,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,46053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20577376,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,10701607,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5243,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4361783,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5265540,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1184964,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,16288,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,437554,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,18737,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,8360205,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17901993,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,32254221,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15059343,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15980119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,49715182,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,18660280,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,72924881,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,443484,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,177608,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,8618398,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5200849,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,18629197,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,55574,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,20658017,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,69191484,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,647794,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5456762,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7854802,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7305128,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,9176004,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,399426,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6049870,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,8158,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,50460445,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,16409031,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12764245,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,144342,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11931968,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6707001,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14179467,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19652809,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2139979,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,202420,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3313832,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14844103,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14713713,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2362505,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,225907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,1936929,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,132952,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7209270,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,681177,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2023721,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,243500,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2765088,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,676894,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23692009,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16502320,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,15814457,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21208961,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,155517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,117665,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,628525,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,516,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3290937,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1363548,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,47352754,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,834457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9011956,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,553381,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,984289,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,41510031,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8553526,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12571016,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13196589,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,991932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1060567,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,50652613,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5089,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3373334,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1080717,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,36218560,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15897608,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2969160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,26152250,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,835836,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,538518,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13729232,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,10766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1092301,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,18302149,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1152,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,41402205,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,456366,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,9581854,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4543526,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3662173,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,15333441,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,7822228,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7719695,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,59496,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2352365,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,223674,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,173728,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5904023,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11034018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4352535,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5620844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,7800431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,45799,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4043352,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1203730,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1643765,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,7088262,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,234194,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2116395,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2421642,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7659016,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6936210,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,111482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3036863,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,232051,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,923908,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2595013,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10694155,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,889624,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,44337,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23230871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15597907,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2202110,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7417349,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1287226,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2109315,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2069198,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3833185,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2335773,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,17595445,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7033159,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,66335,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2608909,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2168292,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2719429,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,21694771,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24854285,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2336812,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19783164,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6307438,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5139311,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,585279,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14156997,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1350361,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,20753881,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,116643452,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9533697,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,11795563,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,21171154,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,195543,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,28260701,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,681747,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,20898686,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2551872,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,130087415,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,113476253,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,79852,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1486557,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,116147,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14171204,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,24770962,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3901464,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,27301765,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,115855576,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,968692,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2463162,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,2970611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,17603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,126703351,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,611653,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,464063,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2220656,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3352503,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1123665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,9585657,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,124160184,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,40510,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1638607,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3852362,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,7715799,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1466438,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2453041,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2740454,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2324894,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,752356,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,117716213,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,10097105,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,10300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4783932,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,87107320,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4516147,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4278077,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1102960,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9437712,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10114,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,6198951,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9649634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,23278,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16318,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5532770,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1147945,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1142722,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18171139,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3883771,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,869625,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1317382,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,19686016,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3098,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,795782,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4504919,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4006,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4573098,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36877248,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,92128729,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2667393,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,66838446,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,71105944,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,67140845,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,47611130,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3697752,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,479347,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2932161,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,110814339,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,47039910,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,81474225,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,44853285,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3878189,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,5056030,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,47347632,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,141749868,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,27382085,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6175667,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,32673707,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2782754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,43809419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1653783,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43554942,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2498346,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2832893,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,26120061,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,714333,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,47552614,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2962978,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,72716,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5013,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,3121,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2170473,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3899343,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,692,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3405269,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,161620,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4337,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3145347,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,233056,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,1988,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,52493,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,2530809,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,855,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1745537,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5305672,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1743937,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1813928,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5338600,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,13903,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8379629,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,6894,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1091356,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,103233,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,227376,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,2,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7033410,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1238566,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,14016520,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6308977,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,74161853,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8817500,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,52128401,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5802706,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4432971,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,489392,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5403331,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,5337573,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,13986714,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,8696447,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5837468,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,13697489,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,331149,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,585689,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,12416676,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,7970130,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,822,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5519063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,349622,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,19154969,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,11675593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2094830,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1196135,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7306910,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12936,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4103666,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,17947165,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1453652,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2493079,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3174472,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26567112,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,14539,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,7304569,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24385564,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,12627089,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12945516,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2063005,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,18591,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,25061525,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2356171,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15918230,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,881998,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15766809,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2032374,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,155652,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18244460,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,185665,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3213389,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,604258,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9528033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21347940,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3302281,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12865725,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,2933568,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13642199,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7961885,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,544033,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2586904,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9905306,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,195488,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12293578,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6036692,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20613980,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,546393,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2431054,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,146166,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12549892,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2225002,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5334186,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,23241423,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7083684,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2412453,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6140352,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6012793,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7064702,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4171589,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,61630,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,47931,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1363093,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,45378485,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,6291494,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1299934,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1989504,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,23313806,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7307150,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5015245,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,24843347,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8109321,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1416650,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8468730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,150460,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1409692,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,45913280,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15489897,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1494024,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,21963056,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,13728952,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2701734,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1414804,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,639167,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,610213,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44468563,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,172,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,15741530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4893165,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,11386226,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13486954,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,566326,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,572658,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,909119,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,7350082,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15342389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,35869422,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7705884,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,18657450,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1323749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,15279474,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,13847000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2042704,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,6760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,280857,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,9386,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2487259,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6656752,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,11764,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,237364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,215279,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2661734,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,15304,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,504,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,5308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4338956,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,1357506,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,88296,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,150137,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,5444114,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5036609,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,906457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,828076,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,42509,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,19694,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1093335,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,930581,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4976811,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7613476,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,55096,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11651,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3488187,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,30276,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1036101,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,586006,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5045676,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,37249,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3971464,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,15085931,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7757280,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17054478,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3079134,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1816334,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5026910,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,151930,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,111534,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,75249,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,4708911,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,727902,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2458169,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2393866,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5467366,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2083402,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,191670,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,190290,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3492913,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3418689,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7636755,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6948868,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1529406,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,742622,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5031893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,106866,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,122560,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,4347869,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,6522602,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,228803,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,247623,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,98172,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4083699,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,170407,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2899716,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,560063,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4365753,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1137182,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,29774455,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4673097,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,19055674,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,21863995,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,19990586,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1139784,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,27990410,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,502388,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4362591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13690616,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3793749,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,12636541,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,9170629,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,13178328,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4699716,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13524132,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1152415,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,17172809,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,20705127,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,908928,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,11002453,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11581177,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6676520,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,9524117,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,17670629,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,344460,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17860837,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6582865,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5898431,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1298466,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11097830,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,15143297,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,724780,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,901898,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,76792195,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6889235,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7951,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9969336,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4981,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4078652,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1187665,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2148406,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,645188,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,9245316,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,4614451,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3314386,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,93558071,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,21833,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,92979326,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,921481,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2442418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1329324,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,109779401,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,11340433,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,5174745,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,2491959,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,16754,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,10568,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,9082423,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1839044,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,524549,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2629939,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,3891062,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,9692541,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,98197478,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8181642,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,105927,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6746320,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,122928,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,14925158,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6203936,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,5161401,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,9971726,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7679698,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3038362,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,167209,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,457973,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,16695843,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14862857,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,15674461,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,588565,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,2524235,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6912462,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,160757,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,20857115,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18622428,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15874403,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,104893,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,334034,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4078954,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1484136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,238495,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,24651397,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2588776,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,24433,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1423088,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,16243146,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8459268,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,11501341,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,500574,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,14077723,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,102377879,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,498401,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2726074,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,10557152,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9242210,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,27012354,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,22619304,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,144029,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3249300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1079333,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,133421513,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,18249206,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,103718635,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,21193125,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,258100,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,906937,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,10058465,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,72954,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2555217,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,4048,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2062200,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13626670,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1101,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,26164005,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,658447,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44916658,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,17410120,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,30588825,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2873393,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,40479497,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,902531,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,12706338,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,17283245,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,557266,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,16143125,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13085584,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,373137,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,10835179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2904110,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,246376,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,23455691,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1937,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3041167,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2912427,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6182480,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4294089,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,15561021,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2727033,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2403662,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4925852,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,40619,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1600753,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24395925,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,25562,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,55289,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,20431997,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5470138,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2764438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24324767,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,122417561,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1956314,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,418102,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,282874,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3091802,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1501970,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2082975,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,25979340,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8160804,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7419674,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,32431860,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5226436,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,16358878,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,1962021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6141493,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4779775,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,27424,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,36359983,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1517323,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31538777,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6087738,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2582704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7806773,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1730456,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,133891,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,19793914,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,12159428,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2922041,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,127814796,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1237229,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,274461,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,18581067,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1285181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4127508,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3431698,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,916422,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,4458470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,11604783,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7580161,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10812662,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,614828,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16909785,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1051419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,16347949,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,19727180,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1141380,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,10483947,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,26667216,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4736810,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,823498,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1020614,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,30084362,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13273808,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,19607002,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,16020485,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3227488,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,891086,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,102201371,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,72112606,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,119661381,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,45056999,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,147980039,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,66354271,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,59939610,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,14926476,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3312031,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,68522535,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,41492572,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,98868781,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2574616,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35681155,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,39357238,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,40156203,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,1733561,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43506718,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,59762643,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3422994,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,76713999,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,41791642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,99337028,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,54610318,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3138299,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,125807153,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,5928128,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,43804445,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,96621732,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,16325376,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11866923,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4876072,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,931335,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9032416,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1079027,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,992028,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4056704,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,75905829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,43168589,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,109288279,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,42390844,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,298013,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,40697146,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1335030,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1450863,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,76793210,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3304797,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,235248,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35865323,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19580911,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,60611,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,924858,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19132398,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,31046486,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6062085,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,18359273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,5191930,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8570078,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1342349,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2226401,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,31199,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3397177,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1410692,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19346360,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,40053,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,23751577,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,7795400,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2572939,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7409756,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1498381,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1202835,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2845414,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1610274,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8607462,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6934944,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3056679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,43036048,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7104388,,,0

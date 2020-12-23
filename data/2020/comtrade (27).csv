@@ -1,0 +1,870 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,3272624,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,246875,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3656374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12813577,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36515993,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,34254750,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,33385592,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,218317,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6649786,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17555519,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1380343,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,379335,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,42721376,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,38511666,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,13845,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3328127,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7688525,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2333244,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,228704,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4300577,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,39370110,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,18307,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3769221,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1684729,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,400671,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,218325355,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2844465,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,296000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,34201314,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,56120660,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,55533002,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,63639895,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,183525418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,32700581,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,257080854,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15442392,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1411328,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1502851,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2134808,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,307258,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15681675,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1101553,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,28947234,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,68968533,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,63443944,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,316382679,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12291800,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,15617023,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1654790,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,316454,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,45653019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,51842203,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,314189691,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,,,6434,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7564644,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11963985,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8841815,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4536066,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,19647802,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4339942,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8995461,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,280059,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2498927,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,20207226,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,16310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,728864,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,84327,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1150194,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9312446,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1723252,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1025156,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,9229278,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,8969146,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,39698,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,7961497,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,,,26140,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,820162,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,10004042,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15721436,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,460976,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,446719,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,671081,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3340474,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26357005,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,101443495,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6566001,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1590198,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,42446805,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1110278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3947598,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,11494353,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4369320,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4103133,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3594094,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,952587,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,30236234,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8946424,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,7637134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4270818,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,180579243,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1931938,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4128920,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,31608607,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10926260,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8662292,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,3729891,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,128728955,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2928336,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2787047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,79689942,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3566743,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9340153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,19999880,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,16247997,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3211394,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3320262,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,103139314,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17078494,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8045022,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,13222426,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8390897,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1845728,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2693653,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,9564880,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,5415936,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3129312,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,171389543,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,47163045,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17643934,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8717586,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14325753,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,12819994,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2809627,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,160446355,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,41301492,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1550883,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3386291,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3302543,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5827848,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,21268239,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,683410,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5613264,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1880456,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,22415741,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4887130,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3340724,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,537616,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1244663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,3512581905,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6759975,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,20473031,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2556801013,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4354117,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4511019,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4010997,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,841492,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,21407274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,17403640,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8759068,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,4559463655,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,17726934,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,17643888,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,334288,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,257768,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,10161,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7941627,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,113012,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9759803,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5676927071,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,33297675,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,20141481,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,121695,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,24809,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,20204,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,8522691,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,187276,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,30655888,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,21426395,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12762237,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5146380942,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,287039,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9627123,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,44999899,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5935632,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,3791466,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,39721601,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,15386,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12102837,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,33265627,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2287503,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,294223,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15280034,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36463994,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,17703,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1021855,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,339508,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,35570180,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6046164,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,39481776,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,37164952,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5672238,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,5139,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,275222,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,45768774,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,41466289,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,946586,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,3958926,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4953704,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15849948,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1029087,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2052056,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,177800991,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,40395424,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,337438415,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,18285059,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3779877,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,167915,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,23969184,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3506741,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,334825,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1066486,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,59823321,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,52379236,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,276775406,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15135353,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,14688260,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,290342,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,16182925,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,39953023,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,49446590,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,317961980,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16727336,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1771868,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,20876876,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4081342,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,611747,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8526678,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,754462,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,13034308,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1461328,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12216174,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,,,22800,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1898752,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,,,24574,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,873474,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7699240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,7832152,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14715939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,16243428,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1158173,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,8623409,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,14870140,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9213414,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,17911791,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,676713,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1101588,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11381438,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,11855008,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1920793,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,285225,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,7653537,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,11366,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,966090,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,305519,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5453511,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,12481110,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8763528,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5763584,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,76188625,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,5321628,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,30149272,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10970966,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9451471,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,669828172,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1596745,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3052617,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,835593,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9619004,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,525728700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26202004,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9700970,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4266808,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6845860,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3901224,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,28150515,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2809202,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10324510,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,554539466,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,28820689,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10741170,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15167181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,15534,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2815807,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1957027,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4128153,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12366,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2637846,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6297,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,2910820,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1198476,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,28637671,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11781108,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6782395,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12164951,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36555763,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,13646,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4635422,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1271949,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,360574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,37576789,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,8047477,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,41409577,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,21698553,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11777208,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3659283,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3493879,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3598118,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,144061634,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11526866,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2802328,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,43890475,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,17514371,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7940710,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12229535,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,35411441,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2474005,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,40937745,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,15703564,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,19493218,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7647986,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,15282456,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,13515680,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3770879,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,110136247,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,40335814,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,79469915,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,18182562,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,26019246,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,14780890,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,6761930,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,23215,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1162242,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1022910,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,3587703,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,12483964,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,110053,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,36743,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2274894,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,,,27042,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,858872,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,636342,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1827378,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,9146418,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,18755786,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,11119,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,749641,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1716574,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17195386,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,15181835,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2248571,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,250253,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8084813,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,319030,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25631096,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,13719057,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,145772,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5653047412,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,28855387,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,18984,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10896324,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,235227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,39576347,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,5313377447,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5928,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9498912,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,5731,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,29767503,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,20765604,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12285334,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6024818307,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,147800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,7799868,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7838799,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3573713855,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,39373916,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,27649278,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,12519490,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6726762861,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,12701,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,1048042,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,1089099,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,18960720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,5691191,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,44041156,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4600317,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19983050,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,59663012,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,59754969,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,260381341,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,990605,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,242245,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,56313083,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14238379,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,348178,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1185586,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,9451343,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,12629516,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,677308768,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,775658605,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,18389124,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,70927012,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1332159,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,8907555,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,22095657,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1253563,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,96992580,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,26090642,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,781761834,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1886768,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,22378,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,15966405,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1314293,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,8861086,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8980894,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5458313,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1673378,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,26905,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,21752567,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10431711,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,863624609,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,58834516,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,942288254,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,31639474,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,971385954,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14254989,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,271116734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,368777425,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,77758,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15706164,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6656968,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,54466302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,736050687,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,943257664,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,584216334,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,316115222,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,804241658,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,328876046,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17063459,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,67649,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5708339,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6300797,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3806277,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,5296996,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1171464,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2586422,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4076119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3595291,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,495005892,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,4654076,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,1737062,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,97212850,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,34290140,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,14648924,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10948438,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3285625,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,28082735,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,9208543,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2513263,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2478932,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,9359927,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3508047,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3197227,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,182592437,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23088639,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10034041,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14541407,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,16151444,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2292440,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,60921746,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,508293,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,297785,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5884,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,10309769,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,401177,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5477,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,81437,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7893431,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,35541274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,70522,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,50,Silk,,,,,,,0,,4686,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,11452365,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,83013,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,21897123,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,6384875954,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,445702,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,39139174,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,601397,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,13344719,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,11659275,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1486177,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3703605633,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7430394,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,17164183,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4139814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,3241565475,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,761311,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3625958673,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6264452,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2904784,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4676316,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,679548,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1149537,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3424708,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4451814,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,812636,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1204728,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3231948244,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5833000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,17063416,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,2683267324,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,518836,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,807252879,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2135085,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1529792,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,13224759,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,9715398,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1042602,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,79822,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1266989,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1256067,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,16227647,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,811816749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,44620,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1596545,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,84065151,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1487880,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,17774,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,920858,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,107130575,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8737792,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,44732892,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,699438592,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1430947,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,3459,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,36092,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,10245,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3934993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,198093,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2574384,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,75472,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,24625,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,56436,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,181632,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1606171,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,371,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4821814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1951610,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,22435,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7001632,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,75050,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,63250,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,20819,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3728926,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,54018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14063302,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2436774,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,18482,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7012360,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,239410811,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,545480,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,64043051,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4163897,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,234505189,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,259652,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,92650,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9462822,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,83586582,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,16754374,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3327405,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,208713811,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2856687,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5215673,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,707614,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,303083815,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,12325823,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,56128644,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,16182268,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,20572954,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,5274317,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,31347810,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3369419,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6343399,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,298823120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,215002723,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,13274176,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,987016609,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1195570963,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,63459179,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,11392187,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,186466716,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15228967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6509886,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1187479572,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,471,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,105570,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6937338,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,675235364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,991250005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,273300869,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17231302,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,52769957,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4449858,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,72189,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5786648,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,27581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,898821533,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1272996760,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2693903,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1003638696,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1824666,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1198327,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,33288341,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,119828389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,81201334,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4484835,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,99649228,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,67010829,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6515849,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1396278,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5581,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,55315913,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3187740,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,2167380,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,23170,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,69450007,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,59528691,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,993608248,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1653691,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1080590697,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,135763748,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,893266,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2576021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,20492,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,21546,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,6198,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,130297,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3905148,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,13697,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,12559,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2830842,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,4175,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,77655,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9308419,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3829615,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1914,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1315834,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,26645,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,6341500,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,8493333,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,14419,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,58421,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,481,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,14032,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2604362,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,408458,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,1781005,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,852389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,48646,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7852612,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,80341595,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1568168,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15728,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,68648255,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,985042,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,101714791,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,17298665,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,868474814,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,35300,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1478521,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,8876588,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,19091406,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1456069,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1726359,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,78313005,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4435840,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,19929,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1025007,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,34731922,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13439382,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1185830,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2958435,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,75117864,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5431070,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,210046,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1056783791,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,43723865,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,55220299,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,135003828,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1708125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,76366562,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,30129563,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,56951134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,132932777,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,147786523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1161229250,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2942364,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,64090749,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3201415,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,15073,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1616877,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,69467963,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5029983,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2790,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1027605412,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,42845367,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,69662163,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,122862507,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1574939,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2389609,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,44329173,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,42483300,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1056702418,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,87844285,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1077921456,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,50137163,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,64480992,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,164574697,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2343890,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3025651,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5275573,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,85969,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,905596,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,59363101,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,92319,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,59324939,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,157254,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,38402990,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2168316,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5856436,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,6664871,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,2985731,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5082184357,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19296422,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4839590,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,446162,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1920065,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13081119,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,3314667,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1460780,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5553466,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5088155,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,4012152,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5344288,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,732265,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1685852,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3557226051,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6461087,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18450595,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13042471,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2144,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1152294042,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,81903714,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,68805544,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,146615663,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2443642,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2401345,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,68828192,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,7305,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,238,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5308886,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,561326,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,62510,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,2334165,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2823616,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,71114,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,53234,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,6604,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,107664,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3323508,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,584,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,55240,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7817029,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3557526,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,34575,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,567642593,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,14636628,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,113571039,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1118917,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,29583600,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,651003305,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,1739043,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,104797,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1226400,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,11159033,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,13386929,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1721309,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,249398966,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15314045,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6090315,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,39176622,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,35125,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4383188,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,66986,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,47571483,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,165663514,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,555787442,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,231160,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,17248043,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,719354071,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1197796856,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,314208457,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16048104,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,59325073,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1225866770,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,49530215,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,86691417,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,19450548,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1345207,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,293423916,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,218249579,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,497365,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9391849,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1726327,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3878717,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,6674685,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2826871,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4932000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,70457976,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,415128,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,283285523,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,167498700,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,19930646,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,18400110,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,512071,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2843913,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2830537,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,259018394,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,213148650,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,938392,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10595442,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1671520,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3475172,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5011274,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1443889,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9046470,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,59226902,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,886355,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,318567467,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,268204906,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10334253,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,19847513,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,237932542,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4561328,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5354122,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,25549330,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,4649995,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,16159340,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,201095511,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2224034,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,5442741,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2031670,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,341255567,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,27248672,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,57020174,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,19485051,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1356859,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,13257334,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1725556,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,199188294,,,0

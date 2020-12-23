@@ -1,0 +1,828 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,7289000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,114000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,1956000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,50,Silk,,,,,,,,,1000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4536000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3284000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11555000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2920000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,52184000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,477200000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,,,101000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,7519000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,13551000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,50,Silk,,,,,,,,,7000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3811000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,111310000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,645579000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,754929000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,54811000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,637189000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,63006000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,,,234000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,55820000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,3884000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,641245000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1200000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,3460000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,411664000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,20705000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,804000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,668000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,27003000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,373655000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1285000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,21000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,25201000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,304000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,11000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,1000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,28272000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,877000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,436602000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,4441000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,507048000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,15755000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,19126000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,436496000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3583000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,5149000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4981000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1306000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6335000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,6356000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,18832000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8260000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,40667000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,2706000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,22993000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,5758000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16433000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,44083000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,3146000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1413000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,4483000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,887000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,7743000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,44464000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1995000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,26052000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,4682000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,15625000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3501000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4447000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,42761000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17985000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,13274000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,74632000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,40076000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,7488000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1391000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,9001000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,625720000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2036000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5977000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,76562000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,410164000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,331426000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,80434000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,12081000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1713000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,2149000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,1219000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,7320000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,11519000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,832123000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,8720000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7156000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,6018000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1516000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,24855000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,22765000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,12597000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,23682000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,27420000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10844000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,30283000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,12402000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,2457000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19258000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,42962000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,188000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,17472000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,83191000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,14801000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,344000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,343312000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,10440000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,10000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,31948000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,628000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,30996000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11175000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1787000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,4720000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,55288000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9790000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,7540000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,377692000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6991000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11712000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,6613000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,517964000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,167173000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,10685000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,5202000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1892000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1075000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,7027000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,88079000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4948000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1518000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,94245000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,8352000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,4176000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,300000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,41780000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11375000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3132000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,660068000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,22000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,4005000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,,,100000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,4199000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,10372000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,921000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,,,44000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10995000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,2591000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,50,Silk,,,,,,,0,,27000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,79231000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,802476000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10694000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10120000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,681716000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,12535000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,50,Silk,,,,,,,,,3000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,,,20000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,5065000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,10464000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,3357000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,73021000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,40708000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1652000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,93000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1921000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3482000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,42000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,10029000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4461000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,185971000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,116994000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,34000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1392000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,68000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2387000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,195092000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1393000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,12273000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2132000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1664000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,9000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,10421000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,157000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,7243000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,41000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,5324000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,132142000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2545000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,26000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1854000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,2318000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4577000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,2530000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2922000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1298000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,12903000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2198000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,34000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,3592000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8759000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,1681000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,4811000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,1239000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,15000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2169000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11904000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2241000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,15501000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4142000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2392000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,14396000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1180000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1791000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4906000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,1635000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4398000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,34000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,2454000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,717000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,525000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,202000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,22554000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,17360000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,114000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2192000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,27125000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,24829000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,90000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,25424000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,9000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,1632000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17221000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,26898000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,122000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,29924000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,7000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,79000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,497203000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,30624000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,391000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,,,1000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,2731000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,151000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20263000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,204000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,705000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,303000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3495000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2662000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1298000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1212000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13006000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,403000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1071000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,17264000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,224000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1361000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,368000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20763000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,534000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,18943000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,18031000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,629000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1488000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,14939000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,171000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,45608000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1370000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,4036000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2549000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17067000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,5637000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,5645000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,3092000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,27678000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1077000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,20330000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,2231000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,2907000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,2870000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,39179000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1633000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,3565000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,6394000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1338000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,3061000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3719000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,1799000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,10076000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,44411000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,2586000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,22659000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,3623000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,12394000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,3838000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,,,39486000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,13411000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,7784000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,959000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,416000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,278000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,13317000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1084000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,325487000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,345000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,845000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,786000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,381000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,219000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,12539000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,90400000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3359000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,733000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,,,2415000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,5820000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,399406000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,717000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3490000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1399000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3443000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,1022000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,336143000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,177000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,466000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,103614000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,5181000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6004000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,15783000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,44000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,4384000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,83902000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,5112000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,11067000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,414000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,385000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,103000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,18624000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,308644000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,67383000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,131000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,956000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,762000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,105000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6649000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,113000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,146000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,5340000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,100000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,97549000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,24402000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,87398000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,,,2930000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,,,10386000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,10479000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,25387000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,20381000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,210000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,,,7000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,,,23397000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,1035000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,404117000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,3352000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,154000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,5264000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,208000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,443000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,490840000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,,,21149000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,,,158000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,6000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,4000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,330000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,6919000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,4567000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,58000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7358000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,265000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,600000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1185000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,4637000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,399000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1224000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,13965000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,257423000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,6000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,29000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,13629000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,235000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,239000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,693000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,1000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,8712000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,173000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,626199000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,81000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1040000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,2014000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,32000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,674161000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,56015000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,,,2422000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,61623000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,9880000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1910000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9263000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1692000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,,,31000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,205647000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1615000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,13359000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10256000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,15101000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1058000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,,,1764000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,,,10757000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,774346000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,9236000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9556000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,7260000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1408000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,8651000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,195160000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1848000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,11773000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1959000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1596000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,292000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,25217000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,433000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,29018000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,25551000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,226000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,25485000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,465000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,14771000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,15795000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,287000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1094000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7085000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2866000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,20421000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24375000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,230151000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,7516000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,8379000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,215311000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,557000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,30000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,1567000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,6296000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,209635000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,82000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,7890000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,865000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,2000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9807000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,61000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,5912000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1155000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,209046000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,15000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,841000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,,,2000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,6895000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,89762000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,114262000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,600000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,6196000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,12000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,153000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,480077000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,75000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,21104000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,301417000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,106346000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,105000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,443000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,24000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,2293000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,125000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,86255000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,94000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,376000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,18091000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,61000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,103769000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,551000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,12000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,94000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,197000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,806000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,96641000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1712000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1294000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,9728000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1396000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,31000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,180140000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1671000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1525000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,,,3000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2071000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,92989000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1030000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,126981000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2674000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,75595000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,5000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1469000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,105059000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1187000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,24000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,8965000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,78000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,137691000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,,,1339000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11021000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3853000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,957000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,3343000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,527000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,18000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,13611000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1390000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,10930000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,6000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,12917000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4138000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2090000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2830000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1468000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1948000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,66000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4964000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,15856000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,10977000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,5908000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,2709000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,,,3414000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,,,966000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,86000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11262000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2857000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,16426000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,12000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4004000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,,,10000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,4982000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12137000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,356608000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,10963000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1051000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3888000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,88789000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,332000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,608000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,495000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,119000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,13443000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,69543000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,436000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,,,720000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,2498000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,301000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,238000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,1648000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,962000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,533000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,539000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,10638000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,72859000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,871000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,549000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,96406000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,612000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,359000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,882000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,1000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,198566000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,76375000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,21291000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,146000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,212694000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10455000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,17193000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,35093000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,29090000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,425000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,42966000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,44025000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,17249000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,4448000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,232401000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,9765000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,15087000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,627000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,31549000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19040000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,11617000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,8642000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,170826000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,25434000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,5249000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,192723000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,379000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,40000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,96000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,7866000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,11528000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,221437000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,16189000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,223621000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,,,33000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,,,10720000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,993000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,821000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,,,66000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,228563000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,970000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,,,245140000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,,,1742000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9116000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1778000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,349000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,762000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,97000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,12670000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1742000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,268000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24956000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,394000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,14211000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,538000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,,,453000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,18546000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,,,19911000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,,,404000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,1758000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,13179000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,110000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,1651000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,,,2574000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,,,21085000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,315000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3047000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,583000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,15590000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,24133000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,,,13453000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1716000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,122000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,2965000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,,,1732000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,11074000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3691000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,10743000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2196000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,9616000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3957000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2903000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,91057000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1209000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,10132000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2237000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,12902000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,43637000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,93000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,61000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,94368000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1748000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,2990000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,155000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,,,8815000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,,,1828000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,135694000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,57233000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,69,Ceramic products,,,,,,,,,993000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7440000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,234000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,9703000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,108228000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,,,1649000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,983000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,1140000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,725000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,,,143000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,12715000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,92771000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,584000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,52,Cotton,,,,,,,,,3966000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,,,4107000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,376904000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,11730000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1268000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,811000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,127862000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,288000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,80305000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,645000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3185000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,196000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,217000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,342873000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,22734000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,12141000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,7513000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,204756000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,98197000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,28854000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,9221000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,,,94983000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,,,12869000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,1825000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,,,299573000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,,,12079000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,,,4000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,,,27397000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,670000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,24910000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,162445000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,168000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9937000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,5858000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,,,37086000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20104000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,334196000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,370648000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,600000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,,,371595000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,696000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,51000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,902000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,233000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,74000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,564183000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,454000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,90000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,39000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,13995000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,786133000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,91441000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,718000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,,,1081000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,,,77000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,,,8199000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,209000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,31,Fertilizers,,,,,,,,,130080000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,,,24000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,10719000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,272000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,188000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,96820000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,,,15672000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,213000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,13964000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,188382000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,25679000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,13406000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,164932000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,2608000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,205959000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7438000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,10013000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,5730000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,126220000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,28730000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,6383000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,180407000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,7778000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,5120000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,7138000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,276266000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,6254000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,6820000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,38654000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,,,11000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7760000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,7333000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,8000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,7430000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4918000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,49018000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,7009000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,5819000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,22000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,7544000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,11957000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,,,11000,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,14395000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,194052000,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,10119000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,,,37662000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,9468000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,,,7634000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,5935000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,162507000,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,22932000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16576000,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,6069000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,231630000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,10839000,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,3673000,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3973000,,,0

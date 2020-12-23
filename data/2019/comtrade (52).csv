@@ -1,0 +1,983 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,85565,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11390872,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,343468,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,527906,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,74439,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2556,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,7145,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,25669,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1055019,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,9886,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,575508,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1503346,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4398,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,41986,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,308,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,136812,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,571056,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,499652,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3038695,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,623912,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11417904,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,338532,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,464240,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1377706,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,464027,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,560685,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,247003,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,433,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,57758,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,28862,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,392671,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15386,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,136227,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,7160,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,228714,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,13108264,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6721,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1573,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,728115,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,278941,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,645,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3223,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,283486,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,80742,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3978476,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,692212,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,164505,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2430522,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2527,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,866,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3239,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,191911,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,17511,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,478370,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,544903,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,94560,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2078190,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,30286,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,652359,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,39765,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,389962,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,122948,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15757,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2322,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,37105,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2429023,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2750,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8018930,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1063868,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,255185,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,10048,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,195697,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,63981,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14246,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,5698,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,9049,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,13574,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,315875,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,220533,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1856244,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,369768,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,17186,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,315,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6451,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,214397,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,112914,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,403,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8011149,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,302673,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,51960,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,3730,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,533922,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6229,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,117796,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,442723,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,19991,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,50208,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15095,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,841175,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1304805,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1147109,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,102445,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,950,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,14740,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,14037,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,35515,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,591133,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17913,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,96858,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,65553,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1119,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,8111,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,137489,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3841,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,4741,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,207274,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,275,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,54214,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,24172,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3733,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,283209,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,119487,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,18637,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,291269,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,70005,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1497,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,30555,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8291,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,21855,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,221325,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,679085,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4432,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,111468,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,28867,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,462275,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,103818,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2028808,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,49147,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,16664,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11139277,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1829769,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3809536,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,172866,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2890946,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,40595,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,531947,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,44687,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,455483,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,436697,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,741746,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,373802,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,462963,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,926626,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,4422299,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1770399,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10565217,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,10368596,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1712102,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,64708,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,,,321909,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,106736,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,221705,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,35,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,167147,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,27137,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,137823,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,381277,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,581551,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,16101,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,38204,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,9072468,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11813250,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,40277,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,2306799,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,38912,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,532484,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,6823338,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1855808,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,12202,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,16,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,165835,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,27776,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,48370,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,50766,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,312427,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1125,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2378701,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,545624,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,15065,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,110636,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,274418,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1454411,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,451198,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,179,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,2978,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,489,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,25852,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,172321,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,82239,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8092263,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,978644,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,128772,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,19556,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,256410,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,162261,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,19163,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,33780,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,27582,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,620107,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,504982,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,237080,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,335077,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,244746,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,571310,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,428870,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11169833,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2117159,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3069656,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,904,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,292056,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3228537,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,207490,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1549900,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,8886,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,989777,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,80309,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1325263,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,175,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,20566,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,17670,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,104301,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,15564,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,17767,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2555,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1792,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4418,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,150378,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,40824,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,17505,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1232,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,96962,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11915,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,39340,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1560037,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,105989,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,8525,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,21821,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1673,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,489528,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1937596,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,64880,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15488,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,365399,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,243063,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1089970,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,369233,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,341,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1394,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8764,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,72295,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,117051,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,17472376,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1026403,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,546513,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4709,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,83565,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,367,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,34401,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10630,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5851,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,10327,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,94680,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,101889,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,1827,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2614,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,216264,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,,,6818,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3417,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3874,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,77265,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,341,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,27214,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,233954,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,497262,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,376808,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,776,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,843738,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,5144,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,71897,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,9908373,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,20063618,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1288,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,16576,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,89179,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,37320,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,167634,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1853757,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,498865,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2185032,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,16841,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1643549,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,48307,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1587197,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3228211,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13126,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1619028,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,66477,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,12422137,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2839275,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3324685,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,19309,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,633888,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,31967,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,487238,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,263102,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,425393,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,,,160420,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,119959,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3957591,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,74071,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2004,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,31614,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,538693,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,22853,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,105972,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,37491,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,207918,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1693488,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1414256,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1576221,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,118337,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11379,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,260425,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,612346,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,658,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,20692,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,578,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,22348,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,9543,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,4328,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1098,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,383,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3701,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,21678,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2975,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,73162,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,10077,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,3177657,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,549160,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,14087,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1622939,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11797067,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,15181963,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,401,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,170,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,9806,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,58300,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,149704,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,734895,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,20286,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,9454,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,131606,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,61,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,241673,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,41128,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,403364,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,163490,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,2686,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,3364,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,7698,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,473633,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,202819,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4368633,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3539,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,896762,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3664158,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25930,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,317342,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,69499,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1848407,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,11597431,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2739370,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6212579,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,230971,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,380560,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,534097,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,486432,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,320393,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,400753,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3003884,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,55228,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,254354,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,328555,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,129383,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35735,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,120927,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,173730,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8024084,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,648503,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,96105,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,113024,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2634894,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3570870,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9891858,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,195035,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,4161809,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,31755,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,185580,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,378338,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,31093,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,355889,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,341877,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,760072,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,10496,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,36886,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,89,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2431,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,3161,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,20914,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,67578,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1854901,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4956243,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,14092183,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,5321892,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,20476,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1081039,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1590735,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,59524,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2772847,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,151376,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2196810,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,26731,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1116780,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,236424,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,924491,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,129778,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,799,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,17147,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,330,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,7086,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5859,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1846182,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1285132,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,25,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,237242,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,1311267,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,26806,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,121,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,2120,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,80928,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,519713,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,50188,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,15416,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2513,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,519085,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,159941,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,29909,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,21422,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,29456,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,16362,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,680,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,16267,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10369,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1976220,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,266740,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,377280,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,14166,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,11398,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6524,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,12619,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,506867,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,131978,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,695147,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,442267,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,237812,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18007,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,896,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,13728,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,310,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,105051,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8103128,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,830430,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,156277,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,226872,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,13687,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,69188,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,21613,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,6746,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4782,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,586522,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,34322,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,118438,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,441627,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20321,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,807951,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31501,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1492265,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,588306,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6977,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,105705,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,140072,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,219180,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,21109,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,40233,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,121,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,759,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10562,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1150627,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1887417,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,207573,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,5506,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,21168,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,53644,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,291544,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6736,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1156,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,153254,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10285,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,185094,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,57219,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,83437,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,558104,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,,,58188,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,206358,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,214257,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,521210,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,2554,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,4114,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,272,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,22816,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,251754,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,35301028,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,719471,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,17920,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,23274,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,33888,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,60908,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1005463,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6002470,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11402431,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,2345663,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,975,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,191673,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2142762,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,351464,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,178959,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1169158,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21331,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,744862,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,101890,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,818688,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,294748,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,15608986,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2266394,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2976459,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,318,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,166697,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3047833,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,505899,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,618729,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,82752,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,188949,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,20047,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,9654,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,40427,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,331633,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1749544,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11284,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,230395,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,7518,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,771,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,296749,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1046,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,13272,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,82,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,1891,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,71337,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,53677,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,43472,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,29689,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,4319,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,10231,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,181380,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2480,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,8480,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,9486,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,281201,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,16017,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6682,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,13595,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,13984,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,185919,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,926218,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,131,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,69997,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,330,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1525768,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,92739,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,63684,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,99915,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,649597,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,11977,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,579,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,66129,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,67837,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,2722942,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,70509,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,43950767,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,634084,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,188744,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,564384,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,20,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,99625,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,71706,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,259716,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6015,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,248244,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,522320,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,747,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,662959,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,70073,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,315712,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,2435,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6778,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,224569,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,336656,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,574231,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,271488,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4938,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,9246,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1068762,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2860972,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2810481,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14425400,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2665126,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,8424,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,239248,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,864108,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,7395038,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,13180368,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,170883,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,79346,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,468146,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,14949,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,708975,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,27537,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1411305,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,412452,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,214712,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,29905,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,576452,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,322091,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,206928,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,31337613,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,91487,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1274,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,821054,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6171190,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,11806592,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,11771,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,149863,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1037598,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,36525,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,1941,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,796592,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2871175,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2925194,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3414213,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,27612,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,93877,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,466145,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,277,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,82195,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,291427,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125683,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,457112,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,39838387,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,926998,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,150188,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,30,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8931,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,665,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7904,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,141115,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,1370097,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,115842,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,411,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1298,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,540522,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,42414,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,121684,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,38448,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1005674,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,53860,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,311357,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,781314,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1951,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,125370,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,48984,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,305036,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,97073,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,7090,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,378577,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,5039,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,248713,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,68841,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,99,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3742,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,66,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,8598,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1948,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,39524,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,7343,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5392,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,144,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,328224,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,484540,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,597286,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,17279102,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,529636,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,,,471225,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,353604,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,461851,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,140035,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,645603,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1576439,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,10950,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,13850,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,548959,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,9032,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,123,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,88408,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,75414,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1145,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,669617,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,11937,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,,,42051,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,123020,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,51,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,777466,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,17592,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,513,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1628989,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,930025,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,452601,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,328,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,872632,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,95036,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,19166470,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3393747,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,485327,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,448246,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,196233,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3406870,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3300,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,416974,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2734043,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,177602,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1934080,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,39431,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,645729,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,78722,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1704284,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,411341,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,302992,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,218,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,170018,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,487074,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,89572,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,417267,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,31681,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,80271,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1413390,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,534622,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,429,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,3175,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,56,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18391,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,143693,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,125310,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,42031024,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,727092,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,7972917,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,12312922,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,138598,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,25384,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,234597,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,110,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1278344,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,41530,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,55998,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,322404,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,894858,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4052,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,63983,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,20,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,15505,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,226488,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,822,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,10441,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,391528,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2389,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,171669,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,48786,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,281858,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,6645,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3094,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3022,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,3429,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2286,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,6927,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,10067,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,14433,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,198161,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2503171,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,2861628,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,368,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1046509,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2449414,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,247417,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,426106,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,156331,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,13567922,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,490939,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,814,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,906400,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,188277,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,944943,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,135002,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,11573,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,6230,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,904,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,442793,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,22568,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,212426,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,37157,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1417336,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,741917,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,184169,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,377353,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,415330,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,88,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,46055,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,43958,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,1123,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9228,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,222618,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,429186,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,3073,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,24414,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1575164,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,114770,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,45579048,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33099,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,421031,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,216867,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,280876,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,173658,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,844084,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,4999,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,116174,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,,,232,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6062,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9705687,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,18814,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,43380,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,161725,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,34,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,65094,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15475,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,732840,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8454617,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,392873,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,666059,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,547877,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,21268,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,227145,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,32641,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,32885,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8723,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,6524,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,23113,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,14391,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,3292,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,8976,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,114707,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,42456,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,499930,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,3096,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,8401,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6092,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,172523,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,154712,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1673411,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,282770,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1201997,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,28124,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,2265582,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,24758,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3439182,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,95774,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1199854,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,14750170,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3772623,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3074501,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,754,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,224585,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,437467,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,416508,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,777274,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,226789,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,584702,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,16074,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,448001,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,73340,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,23995,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6617,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,437101,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,415716,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,299,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,123001,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,203174,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,375320,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,168496,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6695658,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,9340879,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,78465,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,18922,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,945281,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,82327,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,1508932,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,484008,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,278154,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,22523,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,44543,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,8646,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,9821,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2673,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,738509,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,449614,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,6467,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,71953,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,16670,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,55163,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,4886,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,390817,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,122,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,82884,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,54461,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,679284,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,299150,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,443783,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,13130,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,22294,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,1849,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1275448,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,187416,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,109,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1588484,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,5773,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,3538,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,7418,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,1362,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,50,Silk,,,,,,,0,,27363,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,10387,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,43,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,48350582,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,649822,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,111293,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,492352,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,7116,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,18462,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,427737,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,12015,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,8773,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,97331,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,9424,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,9424,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14236,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,255,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,235299,,,0
+HS,2019,201912,December 2019,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1273614,,,0

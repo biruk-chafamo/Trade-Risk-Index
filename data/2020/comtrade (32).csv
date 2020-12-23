@@ -1,0 +1,868 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1635822,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1968359,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8039384,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6308163,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1410298,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12925035,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5541176,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7906913,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,6025808,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1221070,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1135094,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8613180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1219195,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1114267,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1392452,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1620961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,12825174,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2562377,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5881928,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7434609,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9600569,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3014900,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4782973,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4034052,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,3750105,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,5631716,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11311390,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5524,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1296398,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2396990,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,242817,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,59488404,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,223693,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1084339,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,56224007,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,17295014,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4755509,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,7120026,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,11670214,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4333892,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4199555,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,28611807,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4930976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16733888,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,10243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4582311,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,35594945,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1367786,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9925177,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,68902,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1245640,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,131173,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,48760644,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19659,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1965752,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1670609,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12504538,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,143367,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,68294,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,165791,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1583400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,385187,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2320621,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,22355,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,73943,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,29680690,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1627495,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1276592,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2820387,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,5795851,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,15897,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1551887,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,11841845,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1437206,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1671750,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,37770072,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,46468993,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5425644,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,2145152,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,6512279,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2075144,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,759887,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5155610,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,13500627,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1965532,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4864838,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,892623,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5427795,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,688092,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,307879,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1494285,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1657086,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,51569067,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,46613845,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1749745,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,42967593,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8858326,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3623922,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11851189,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5558083,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8750812,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8656814,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,216089,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,623871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7644556,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,47750,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13326740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1137,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,66480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,208755,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,,,2372,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12699866,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,433644,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,303063,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6600405,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,74085,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,874955,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4093861,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6736194,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9253016,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,205970,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13986260,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1492,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,287625,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4620765,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6107,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,518240,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,29033456,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1009624,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4320876,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,367707,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1943971,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31543962,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,403106,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31174552,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,418885,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,43683018,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,153114,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,49738161,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4532110,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,539886,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1683798,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,32533708,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,77880,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,54191321,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,2041158,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,193925,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,35658400,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,35056631,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,163243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1329687,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36884786,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,222350,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,,,537054,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1771032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3201212,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1323329,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,57099469,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,740574,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8120531,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,42547959,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1185907,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,93832,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,60153,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2536781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,68867265,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,40727993,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9469040,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,52087984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1332953,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,30278,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2385690,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,56790,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,1097004,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,282102,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,74305659,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,53311,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7320601,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,386310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,36969245,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,6562492,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1622237,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,8600278,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,181181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,126401,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,96362,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,2948987,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,66435,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,73259,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7428436,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2459663,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,5771107,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,264877,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,177722,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,95616,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,33724,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,20427318,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,205166,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,95284,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,2786475,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,45120,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,48411,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1379458,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,61123,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4445280,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,9124284,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,277098,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1643768,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1414257,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,1755569,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5583956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,10794200,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9100947,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1830427,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,15409982,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,5864242,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5533931,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,7943053,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2036734,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1272439,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3861927,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5292997,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1610577,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4831729,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,14233903,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5678699,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1280060,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,1682592,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,16308904,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,4236995,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,11344750,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,10578089,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,93683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,44076,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1892244,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4215628,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,19960,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,123255,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,32273620,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1684727,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,11033813,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,46951,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,176965,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,,,1084362,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,109261,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,13199676,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,215880,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,37625,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47320165,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2432022,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,469910,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,517320,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,26224169,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12508818,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,30146,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,40403619,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1924436,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,10034376,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13715026,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5216394,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,10109918,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,7621278,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,9352178,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,129505867,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,86704,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,127567002,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,16470928,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5807892,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,12452322,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2629984,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,14601629,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,46700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9383,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,9852299,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,16082316,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,147637458,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,55970,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,39145,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11627153,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,367957,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,380931,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18065833,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,9773559,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4430114,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,21386422,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,20114800,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4642901,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6963869,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16055450,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5910,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,209969,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3530991,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,22995099,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4016435,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,145036105,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1624399,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,93526,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4661542,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8159218,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16046665,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,13549,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,298699,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5614327,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1805063,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,2084203,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2333371,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,32457252,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8960212,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,3147435,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1354591,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,38692227,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,179523,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,178434,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7543149,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,50530236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1133183,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,586085,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,118924,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,72351034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,102689,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,127268,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,10853103,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,43088957,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2363756,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1463650,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,107368,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,549415,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6640042,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,11802837,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1265633,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,46964595,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1460806,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,2040275,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1538719,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5589276,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,954566,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6757658,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4221274,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8444853,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,41043334,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1610986,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,12195655,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,5717546,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9076311,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,4380928,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,8587107,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7632826,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,833431,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1621755,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,817547,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6015345,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,39310545,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5443164,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2240983,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,188231925,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2823581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5838800,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3893634,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,200880164,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,437704,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8552643,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,13507504,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44664981,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4076013,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8855602,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,210489183,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2318506,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2362253,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2072796,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,38304320,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5747125,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,11824111,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6049734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5584020,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3110594,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,181665523,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,324302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6758747,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,8564698,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,39337011,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,38997015,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,196277161,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2114082,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,9772461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4932918,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,1590599,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8501591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2725358,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,8251619,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,9962483,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,3590515,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,89819,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4150935,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1193853,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4129918,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,116572,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1217298,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33883136,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,54720100,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,40224332,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,228018,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,,,145968,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,75371,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,70565470,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,1476255,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,657224,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4860186,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1157103,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36656135,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,311389,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,56864855,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1890498,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4724017,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1512669,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,98378,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3643797,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1308145,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,47631859,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,62368005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31661666,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,259966,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1668816,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2299672,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,12061297,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,21350,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,28680378,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,1671438,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9751478,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,93798,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,46748135,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,102321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1107820,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,3626430,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,844191,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,177320,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,64109,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,27733,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,87216,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,361082,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,2852826,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,56186,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,9824045,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5392427,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,7829000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3034636,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14928150,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,4540600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5332122,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,11171243,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2763938,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,12215534,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,144627459,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,923984,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,15795090,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,11035182,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8872661,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,14870788,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3123938,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,16457996,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,190703018,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,18377,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,169306990,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,23224776,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,21561753,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,5228885,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8621820,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16258173,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7283056,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,3041784,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18795747,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,17859310,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,8153875,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,125737,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,17437,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4654610,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5274028,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,18147226,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,4267118,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4973203,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,16261597,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,9273,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3492206,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,17047,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,31411850,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,6691599,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2060481,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4219914,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,14321318,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7881766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3634504,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10832919,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9667356,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6039644,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9950604,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9302679,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,310430,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,58603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,182955,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7156071,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,202752,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,357999,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,401,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10143158,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10712261,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,250501,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14473984,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,710,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5755907,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,663290,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,33993,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,360823,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5342160,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,266934,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10972905,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9971329,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,245828,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,3546962,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,93320,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,3625711,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,264418,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3616,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,280026,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,120685,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,195586,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,50061470,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4731278,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,144229,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,478516,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,7165132,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1537730,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,314606,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1813822,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,113581,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,271770,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,48328,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,47216278,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,3201408,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,1352453,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,4736497,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,181359,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,524053,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6251609,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,278204,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,765016,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,9283760,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,5420331,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,1808553,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1560376,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3933593,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7515396,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,41194583,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,1086097,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,33114806,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,248091,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6981043,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,8501112,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,544838,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,34901,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,275830,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,431141,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,3682207,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10420205,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,29690,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3461172,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,16147,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,47721,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,42641,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7911887,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,292016,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9173917,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,4199787,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,31253,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5823212,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,120976,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3088234,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,24417,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,151570,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6813094,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10496605,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,32135,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2921336,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,37690,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,14484458,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,7065540,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6479348,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,13673589,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4921738,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,156043956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2252977,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,14850139,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2484790,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8155690,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13367745,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,13542963,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,139055899,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,12601790,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10589530,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,4889680,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,12168063,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2617407,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,63677373,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,4227236,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,101853,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1267735,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31714364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,872679,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33514338,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,113618,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,47774142,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,56215,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,302611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,130181,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,198808,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,107536,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,58276354,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1327696,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,255174,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,30398460,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,45546847,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17893890,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4291754,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,380677,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,10893732,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14901267,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,44753911,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3126410,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,189937209,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2896779,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,5755613,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3415238,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,14766043,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,43799889,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2571608,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3198989,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,12798005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,41581987,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9502749,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,2904138,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,529635,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,7729800,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,199453128,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,198792263,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2076609,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,12838303,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3371865,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,488797,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,8181712,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,12336274,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,42183075,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,211266942,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,466136,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4749940,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,96759315,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,,,35289606,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,43779460,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2061278,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,82301218,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,38500440,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,36813621,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,100739,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4764538,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9932688,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,41726036,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2270739,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,78319045,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,35273743,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1580682,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,74632,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30910020,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,2398378,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,68830235,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1948105,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,4439178,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,8656,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,208561,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,27421544,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,636426,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,16165100,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5063962,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,22777866,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1889918,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,8818469,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,1885,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,9612776,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2564574,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,22500338,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4851872,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1196492,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2309763,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2952862,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26763240,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7693964,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,365447,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6312745,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,43490,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,130,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6367668,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7639032,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,355482,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6449,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,326604,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,21386,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,7651533,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,,,621059,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,273918,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15430844,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,587844,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,5606965,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13594068,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7470238,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10430225,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,254677,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9164864,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3274009,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6803538,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,513509,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,336564,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14340805,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,179831,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,287614,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,5663115,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,537854,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,28909,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6852556,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,4674,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,347325,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,301779,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,7573711,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,672235,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,6039,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,7542535,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,2626,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,232448,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,49754,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,19748,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,130461,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7519,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,386875,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,102065,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6926108,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,176076,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,8341467,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,178823,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,14321505,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,14740880,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3005248,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,13623138,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,,,56308,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,5647,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,12226097,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,5976532,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,10593597,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,4713406,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,111004545,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2406362,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1528,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7821793,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3626718,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,9050023,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,,,541375,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,3554034,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,342047,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1797000,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,278879,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,6139005,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,10113397,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,68479139,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,37128903,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,113385,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9467323,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,35559799,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1295262,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,4082724,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1460866,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,60669795,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,173377,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,139241,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11709717,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,,,3427740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,62344,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,633067,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,69816074,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,34205167,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,316295,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,108716,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,22832,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,35578,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7371171,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,220756,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,12756693,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,268190,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3150197,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,24130,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9276827,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,6999272,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,18125,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,10482194,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,20241,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,50965,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6720071,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2160941,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,11615523,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,70747,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,27492,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,5043187,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,9947830,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,642152,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3141435,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,21399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,907719,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1978884,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,27819923,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5261047,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7441615,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26456134,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7846681,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,268679,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2631562,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,5728987,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,7396021,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,14269668,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6717381,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,29259898,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,665823,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4923091,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,441607,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2801684,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7277553,,,0
+HS,2020,202009,September 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,80665,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2910664,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,6786,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,28891820,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,401579,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6640452,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4918663,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,38971,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2910085,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,100921,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,11350,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,44935,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,388212,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2711,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,217591,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2039614,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,,,7040,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2613750,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3296360,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,28817106,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4851187,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,526915,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,7023740,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,442948,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,45976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2351912,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26521367,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1246825,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6471418,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,313031,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9423089,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,450420,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,6324598,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,4778177,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,34348,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,10949204,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,3171119,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,245353,,,0

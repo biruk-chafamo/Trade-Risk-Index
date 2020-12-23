@@ -1,0 +1,971 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,8212813,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,677050428,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1431507,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,113916,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1881206,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,594825,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,677215748,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,13199526,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,970272,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,98436,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2971568,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,11054221,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,689201,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,877221636,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1004956,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,6387822,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,839808770,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,,,9335372,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,940790,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,66040,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,37250,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,325264,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1294569,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,587776,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1556600,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1450725,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,185413,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,37320,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,398796,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1117235,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,440555,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1264140,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,33690024,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,749819,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1270413,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,51866362,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,221131,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1307682,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,261935895,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3720398,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,8401,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,320253754,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,820094,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8508305,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,8155,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,103849,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,1610451,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,39954,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2404145,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,772895,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,839953,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8026923,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,75143,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,20625,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,306289102,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,468883,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,1803090,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,754702,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,4505960,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,2305,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,316633224,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,970010,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15203519,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,283056687,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,568280,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10967445,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,147993,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,670449,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,273764,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1700788,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,989801,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,528468,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,9851,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11596,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,69572,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,10278,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,334891,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,984183,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,697746,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,758564,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,23836,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,99091,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,35767,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1036453,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,179290,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4000,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,2851,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,51353,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1070023,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,572972,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,954563,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,71094850,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2991319,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,2905,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3809413,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,47991202,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,421514,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3449585,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,63120,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2136,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5865,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17287858,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4150942,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,5893968,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,49789734,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,573828,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4830637,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,20910,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,1882,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10406621,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,13990351,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6239,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4006646,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,6145,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,,,9452,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2829872,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,20108440,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,9529763,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,342012,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1504760,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6176,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,414523,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,54332,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1774128,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3262810,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,212809,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13389066,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1263313,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,26913,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,274522,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,4880,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1910294,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,4191950,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,193978,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,12844095,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,,,1185350,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,9755,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,179728,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2754434,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,39164,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,625722152,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1198609,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,99716,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2628546,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1394441,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,118253,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2174230,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,723454,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,564923,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,2076995,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,62080,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2754404,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1078398,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,11538559,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,674186510,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,12069539,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,807877485,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1478756,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,329073643,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8474236,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4693583,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15927219,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,104030130,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1896566,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5897313,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,6604878,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,4712942,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6835522,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,14976181,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,93097609,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2557786,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5740236,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,3939663,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5455096,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6441261,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,353826042,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,6301816,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,378950675,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,416195101,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5906876,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,23117234,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,674404,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,58224,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,110267,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,45000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,30902197,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,303024,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1374545,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,681407,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1118760,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,218016,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1314451,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,57404,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,100132,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,424999,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1259807,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,701093,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,33319887,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,824301,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28000009,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,,,1416196,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,62941,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2720870,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,144860,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,179662,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1371893,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,47021,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1084,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1061735,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2307890,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2432199,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,357027,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,296320,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1611654,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,117483,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1377,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1672280,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2308874,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2217419,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,,,2590281,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,37062,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,320435,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1280255,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,33685,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,431,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1848048,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2496000,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,484922,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,317406,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2166615,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,12476,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1796491,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2037771,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2463205,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10794093,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,4799884,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,554672,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6475568,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8694,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,77246,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,12022,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,9956906,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10962718,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,744,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1265259,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,711299,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6240272,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,34791,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,6789,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10202916,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10857242,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,140,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,593452,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,473788,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8468283,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,50395,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,10092,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,4395,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,2676830,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,646263,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6560367,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,50,Silk,,,,,,,0,,1,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,3291,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11362223,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8148,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,11985,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1289958,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1223882,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,374234,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,21700,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,137,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,64067,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,50334,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,71226,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1002022,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,498800,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,244387,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,16506,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,116,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,35478,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,236675,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,790481,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,952273,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,662421,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,7943,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,13945,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,104498,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,146286,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1325710,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,965900,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,94100350,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9609112,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,143043,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,38641,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8635564,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,45814603,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,525227,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4177082,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,201133,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,7562,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,7265347,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,419523,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,3601160,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2854293,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,17614303,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,213942,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4489678,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8571,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,55615,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,40969122,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5477104,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,321,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,9456479,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,4127165,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2175,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,118343,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,141816,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,108843,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2198037,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,391486,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2150606,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,3,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,128310,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,121196,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,93980,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2466885,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,346445,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2654416,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1065290,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,142248,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,138441,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,164051,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2400745,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1954,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,194028,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,113106,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,464583,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,100875,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2852413,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,11,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,223905,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2769865,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,225,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,18161,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,110786,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,373362,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3781423,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,275963217,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,7334737,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,114665,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,16416,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,1894947,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,802346,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,,,625454,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2547791,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,771417,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,11140495,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,149222,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,479183,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,27956,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,308854672,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1001070,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,6151236,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,48293,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,18712,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,242474496,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,2425104,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3309012,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,652369,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,4328972,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,728319,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,155966,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1284080,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,861506,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,82557059,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18621806,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1718733,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,50,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,97,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17996953,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1485809,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,70527307,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1814216,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,984989,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9028,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,64196706,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19812286,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1088059,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,81575226,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,19134040,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,960816,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9146,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1897670,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,75492280,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18301446,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,39283,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1933077,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1088669,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,58531,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2121906,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,725203,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,600,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,15881237,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,830770,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,850782679,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,24025559,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,645022384,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,62110,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,605775,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,11,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2486288,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,631881254,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1019809,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,110708,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1317890,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,2287,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,232942,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,109290,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1470143,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2575006,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,117623,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,16801166,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,3078262,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,504320,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,874141,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,8366,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,629987,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1215011,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,1947278,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,165753,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10237406,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,12268196,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1243713,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,41275,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1027025,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,5895,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1439378,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2724293,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,153387,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,33728004,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,468695,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1280128,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,461052,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1183164,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,42188,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,141425,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28318518,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,324986,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1209400,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,329740,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,703355,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,46439430,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2039791,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,448919,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,668755,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,118122,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,37250,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,45487,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,262873,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,111614,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,926421,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,814773,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,5768612,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,77447,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,6340,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10766810,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3600,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1426459,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,480104,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,7002871,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,41398,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4934,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,9224544,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,3037,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,582147,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,481030,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,2996283,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,86818,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,621,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,8015021,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,12888,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,6198681,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4278,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,36316,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,555888,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,379612,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1875,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,583529,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,559046,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,8291808,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2758363,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1188679,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,1591623,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,1442612,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,799667,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,58011,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,2320013,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,643583,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,19999018,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,39412,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,789624,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,14111606,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,760907081,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,85134692,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2300727,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16904828,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,115610846,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1784054,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3894518,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5330246,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2115606,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4346784,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,9450119,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,4256188,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,16885063,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,103791260,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2012256,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4420826,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,3852475,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1616569,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7593465,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,388254146,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1347466,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,358450562,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17052876,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,114004743,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1459386,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,253939,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15197048,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,3842485,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,63559457,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,12448341,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,796129,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,63265,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5491850,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,7326,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,56187699,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,302008,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,2806564,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,80326,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,3637597,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6606,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4187019,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,,,3644,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,8208291,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8370281,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,336466,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4455968,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2469166,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,573,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,4763,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,413,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,66838107,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11212376,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,37375,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,44982365,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,374759,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1504782,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,573173,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,1804913,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,176026,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,167066,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,45000,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,27865194,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,240512,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1063878,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,571093,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,1499923,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,125004,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,45000,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,46026003,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,400818,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,1202747,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,850548,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,735911,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,268666,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2188782,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,64025,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,1124261,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,52401,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1585580,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2861297,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,163702,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,19841885,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,15449664,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3083988,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,19726769,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1402601,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,750385,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,128701,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2764891,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,55828,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,49109,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2443234,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6496,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,486922,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,115057,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1157319,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3459132,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,4812,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,256182173,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,1006306,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,10711767,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,134172,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,461330,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,7267,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,284518889,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,908020,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,8343058,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,4832,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,75250,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,29162,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,861233,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,5485838,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,5950,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,73648,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,567945,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3418932,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,388112,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,277197160,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,3400117,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,440618,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,19893,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,5203,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,76495,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,340507,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,58981,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,15700,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,4363,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,669097,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,321710,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,701633,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,704272,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,8806,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,547,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,35144,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,133685,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,1148897,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,611002,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,611547,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,23007,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,35,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,78944,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,32317,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,1166376,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,554066,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,43045,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,2207,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,200,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,1587262,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,446466,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,4802250,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,4424,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,11232195,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6242,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,463387,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,722641,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,9096610,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,68489,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,7383,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,10106163,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,372193,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,325456,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,2578123,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,113976,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,100,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1373664,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2501813,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2179435,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,443174,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1502235,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,89753,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,31739,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1676928,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2281721,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2157904,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,82378,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,517244,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,111797,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,29452,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1770136,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1598207,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,1607223,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3671219,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1181016,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,1183571,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,265763,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,32461,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,2112040,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2861515,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2452087,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,737,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1020183,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,236351,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,1770989,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5623,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,208695,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,29,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1754015,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2093802,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,268833,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,2872306,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,86999,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,599674,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,55118,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1301221,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,10054071,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,26577922,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,24714,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,153049,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,,,860158,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1480150,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,2192721,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1220821,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,63507321,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,17126133,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1429572,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,69087054,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,15633544,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1334771,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,11,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,152,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,11800,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,657362,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,1108972,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1615324,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,16,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16186746,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,65677732,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,678595,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,7506,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,62302074,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1233893,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1244406,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,4779192,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,63291558,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,10402893,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,425309,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5346746,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,17223,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,2829149,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,64,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,6671,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2754356,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,53223493,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,291677,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4284362,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1467,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,5737865,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,5557,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,2952094,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,11452549,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,590087,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,4145534,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,48425,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,8503364,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,109598,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,214571,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,85012,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1752519,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,240277,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2527666,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,145047,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,138400,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,103375,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2065583,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,316373,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2619814,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,500,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,130576,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,155284,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,92523,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1552424,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,264013,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2240,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2081528,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,304892,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,133496,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,51290,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,315871,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,1208224,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1512028,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,99347,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,144375,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,158445,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,26397,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,515772,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,9927679,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,87341,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,380841,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1665496,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,551003,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4361538,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,83637,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,837303,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4289170,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,81981,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,178299,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1566545,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,966656,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4137784,,,0
+HS,2019,201904,April 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,8346978,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4131614,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5020350,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20557,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,409293,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,8968192,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,25587,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1323994,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20950,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,709,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,117118501,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,16711576,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1384088,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,62812145,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18276097,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,9492,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,18944471,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,,,1000636,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,87757900,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1230059,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4581586,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5380745,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2631065,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,406110142,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4428706,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,4981930,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,7078799,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5172964,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,265202750,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,17037418,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1382097,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5569028,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,344961542,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3682209,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,92509564,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,8197453,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,19244710,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,105623071,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,,,289199676,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2143446,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3708554,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5171815,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,1366965,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,15312571,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2128437,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4573623,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5566671,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,5789789,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,2511284,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,20336610,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,110561027,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,1971118,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4257276,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,5274729,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,97604469,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,398415027,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,8394213,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2017782,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,287454,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,250,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,106691,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,108290,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,106823,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,240886,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3151430,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,19906,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,124875,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,78304,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,87418,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2172874,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,402245,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2170482,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,2063691,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2710965,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,3024496,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,151390,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1318867,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,29655,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1928299,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2042970,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2733450,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,499401,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,371410,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1000941,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1652281,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2408401,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,2231285,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,256979,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,357577,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,1263513,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,45358,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,25387,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1193258,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2521095,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,54334,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,343804,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,6835907,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,9994617,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,62216,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,294636,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1744938,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2013910,,,0
+HS,2019,201905,May 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5119070,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,11152500,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,361562,,,0
+HS,2019,201911,November 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,466934,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,21268,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,424508,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,3369576,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10753952,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,34495,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,181602,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1316592,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,767833,,,0
+HS,2019,201906,June 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,5133941,,,0
+HS,2019,201903,March 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10870793,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,54629,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,490414,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4282698,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10757319,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,36151,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,262433,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1572335,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,491705,,,0
+HS,2019,201907,July 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4878877,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,17884,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,185007,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11636887,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,37442,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,162120,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,931465,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4650441,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10033096,,,0
+HS,2019,201901,January 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,,,1225016,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10974022,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,402816,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,10330,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,17320,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,272326,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1394713,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,4031461,,,0
+HS,2019,201910,October 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,807304,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,57956,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,197666,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2906373,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10322455,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,38876,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,272693,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1625734,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,1433479,,,0
+HS,2019,201908,August 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4261944,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,73584,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,572787,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,9221043,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,72303,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,158024,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1372763,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,483298,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4161060,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,355398,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,625852,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,2079485,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10983564,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,4062,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,175546,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,540968,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,2111043,,,0
+HS,2019,201909,September 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,4909686,,,0
+HS,2019,201902,February 2019,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,10202222,,,0

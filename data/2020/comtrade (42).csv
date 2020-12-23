@@ -1,0 +1,773 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,5527,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,318643,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1119850,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,45743,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8177783,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,125676099,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33453502,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,13097,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,105343,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1289180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4582,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,21246704,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5326318,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1679,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,269849,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1145625,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,17710,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,28524582,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,8977782,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,128760257,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,6718,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,80783,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1470192,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,60403,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,19654308,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5818505,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5973778,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,25949590,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36026242,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2236392,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,26249,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,154332,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,106738,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,75032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,6526425,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,28526016,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36552193,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2462889,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,14451,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,45800,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,58449,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5869859,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29520162,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36980312,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,3414571,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,14092,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,79581,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5273,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,47940,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5451213,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,43646280,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,478323,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,4060000,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4596739,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,3717243,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5742811,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,209092,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,427926,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,826659,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2237247,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4197622,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1599788,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5802111,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,660078,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,362101,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3903966,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,7187972,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1686344,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5045194,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,496922,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,227447,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,673611,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,652306,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,2488546,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4407303,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2586635,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,7346523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2754047,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,22041611,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9711072,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10322071,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,112793,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,116850939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3935683,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,531734,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1998879,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,21635341,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6582757,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9337160,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,33268,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,80129318,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3912662,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1824100,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,10775328,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10798140,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,109309,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,95902410,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3821665,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,996253,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,17013528,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,65621,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,13771102,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1253713,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4038126,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2364961,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,61025197,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4169770,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,755484,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,99130,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20031477,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1421843,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,2480607,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2049208,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,78338094,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,162747,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17375036,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1013893,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3329270,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2109890,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,86163390,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3629482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,573608,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,70188,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,20780021,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1165856,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4420716,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1190227,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3924929,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6222051,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,225,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,10039194,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,138420843,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,57120877,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,78529073,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3638180,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6227219,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2769547,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2765871,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,20032,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13087464,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,5349603,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1788068,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,51351990,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3682066,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5270717,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8618,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13660724,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,114007002,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,89329437,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4702967,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1224390,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,65042733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2735189,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6032186,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,209149,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,264451,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,7133597,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,51151614,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,195855721,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,47910045,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,36915067,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3803760,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,147944,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24643486,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,100939,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4186286,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,30821664,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7642924,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,133937,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,33606298,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,139009,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,257315646,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,51844078,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5466404,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,39404026,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3167517,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,782600,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1517531,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,284263,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,38538,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,38128427,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,55317915,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3555016,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,62907419,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,361117959,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,776971,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,120836,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,135630,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,31988195,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,51149269,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3514598,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,798974,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,271405,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,299650,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,59167463,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3355018,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,321862647,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,37205691,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,59050268,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,382558,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,256190,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,1679,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,57704344,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3608292,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,296302236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,35638439,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,139874,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,964642,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,7439464,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,82923,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,2573416,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,361266746,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,84241858,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,38854427,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,44871077,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,98281,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,261823,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6596657,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28206,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1168266,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,300923956,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,53626728,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,80142,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,715625,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,32241,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1044157,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,334096781,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,73303859,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,25826513,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,40795125,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10726602,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,91950,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,394441,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3058390,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,74422,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,29832,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2297903,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3819405,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,4493871,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,77918464,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,111137395,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,6851,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4708,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,819280,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3844612,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3206772,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2713583,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,122327549,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,7545,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,3195,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,2114445,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4846365,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3595086,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,14544272,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,3192209,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,15352,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,7207,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1327717,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5817287,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3648482,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1044861276,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,171166,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,897416,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,25693724,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,58201313,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,21896047,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1366853,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2674443,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,262715760,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,743010732,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,400549,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,580377,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15894737,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,46799144,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,17508214,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1195354,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,225393580,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,893977963,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,300181,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1036882,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,28553071,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,75138694,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,22522281,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1123720,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,699281,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,262547923,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,837924720,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,167355,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2058752,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27239541,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,9092965,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,13977658,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,197856,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,95984048,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3215258,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,758075,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2005868,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,27966661,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,7536041,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11005734,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,65626,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,87616038,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,2781761,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,394669,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2378709,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,26580772,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,8457399,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,11366833,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,42620,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,86996572,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,6138481,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,139321668,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,1190,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,100453,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1115374,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,11536,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5895480,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,97111847,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,19735370,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,49896,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,266274,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,559042,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,4678,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18675013,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,5084828,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,107444720,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,101764632,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,3008,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,319652,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1104343,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,7033,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,23229912,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4464338,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,107731917,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,49275,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,379151,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,1014092,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,22181,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,6210550,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,118774513,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,23572865,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36715067,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2989698,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,6499,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,78290,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,1325,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,86340,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,4685899,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,33315997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2655662,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,10859,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,103746,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,31416,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,125037,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,30279896,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5495957,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,37756538,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,36550353,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2711481,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,7656,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,60835,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,32073,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,123607,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,89630,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5466199,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,36556616,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,34529860,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,979804,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1983121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,477096,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1580796,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,4867714,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,387038,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4450252,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,508195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,332916,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,618263,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,1820244,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5383952,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1353385,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4285408,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,872820,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,271484,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,797348,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,3699047,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5009740,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2623959,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4650488,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,944227,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,621672,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,341993,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,5005056,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,5249675,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2684990,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5453900,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,265568,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,210478,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6132368,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,77832,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1658586,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,353935464,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,94381302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,37119969,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,47813927,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,131536,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,469888,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6845039,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,17987,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,672563,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,21588394,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,22035251,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,315928162,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,40419910,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,39965,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,676382,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,28844,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,756967,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,340767121,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,63852955,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,40678257,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,34565743,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,5471501,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,2048667,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,37711,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,47794,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,5317,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,62047,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,5748113,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,26081511,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,31309842,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,27247,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,80329,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,39034,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,111074,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,1665688,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,31778538,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,95198,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,6402908,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,39942682,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,192323046,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,,,33818071,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7276890,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,825409,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,29767866,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,66691,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5814681,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,33164332,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,173950997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,51923446,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3027796,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,48659014,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,8948,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,57402,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,4542318,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,39417688,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,31755507,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,188733791,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,40405801,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3801627,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1673061,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,65939127,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4802829,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,827197,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,49776,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,17927113,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,927745,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,1803023,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1450161,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,84758432,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3433582,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,586073,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,40277,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,14500499,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1637240,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3856932,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,1517146,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,63767667,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3790447,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,541423,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,583974,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4239158,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,19603309,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1290260,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,646364,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,846926,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,1984600,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,25015043,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,6424187,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,9262031,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,85154,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,117289926,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3250814,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,899856,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,2093692,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,20758890,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,15702755,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,10293683,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,199132,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,100199795,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,3897555,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,743736,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,4896671,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,8029,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,11096592,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,83987502,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,78567576,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4645674,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1374300,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,47669239,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2500195,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5857436,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,13859,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,13160495,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,34969774,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,85570065,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4460005,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,6285134,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,67173109,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,1841420,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,7532808,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,7340,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,10525710,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,120786308,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,79281384,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,48136436,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,45762906,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,76743114,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,3778411,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,753147,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,45960540,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,4613571,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2336736,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,62285635,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,4518785,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,621682,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,,,98052,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,82689,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12978579,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,1177740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,3256719,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,2804601,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,87444312,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,3719464,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,626221,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,44946766,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,25576088,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2222557,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,15814,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,2665,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1341494,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4166933,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2711890,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,7373763,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,77699502,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2374380,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,3278,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,4599,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,956689,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4163498,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,2363230,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,10229002,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,111188335,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,30960968,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,2636041,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,86405134,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1806080,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,37199,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,5157,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1134266,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5357234,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3389765,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,16682369,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,23977073,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,32947626,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,74935,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,566719,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,6739893,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,53242,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1225470,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,347524339,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,80324236,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,20685949,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,35436947,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,145020,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,540425,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,76232,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,1661679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,82493459,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,27404975,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,37633150,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,9268351,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,339936200,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,175886515,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,3699563,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,62022,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,34793410,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,154585,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,6379813,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,37189994,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,187434701,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,,,41335575,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6310413,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,75621,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,33121444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,169996,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,5419133,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,22348762,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,163389645,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,44107405,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,65754971,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,532891,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,276129,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,227831,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,33253418,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,47895727,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,2154406,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,320700562,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,64502537,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,194529,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,298337,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,28449199,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,42299005,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,4218636,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,56853212,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,262168933,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,723983,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,289182092,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,57137186,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,260323,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,344975,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,244287,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,46859005,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,48328206,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,52557688,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,299105837,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,6163556,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,237168,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,196128,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,150773,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,3502608,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,2665487,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,5188,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12362417,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,34753364,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,80134183,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,4722196,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,1385016,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,45647032,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,2831400,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,3640903,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,6696,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,12640481,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,4905186,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,80880655,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,99762115,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1866436,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,58328,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,331,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,1634213,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,3408094,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,16207155,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,109701140,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4267740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,54767293,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,3075966,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,308576476,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,36298830,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,64225673,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,1039307,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,20373972,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,63649647,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,18603603,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1017335,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,249438617,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1497697,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,731881311,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,176937,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,991507,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,28283768,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,58847997,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,19956865,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,694485,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,272361311,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,463147,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,804946962,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,140120,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,747845,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,15248795,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,61874601,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1853771,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,246991056,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,2264755,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,21392634,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1539031,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,767659697,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,309640,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,812393,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,34107516,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,48749811,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1238188,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,892195,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,18794956,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,299695401,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,951769659,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,216085,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,815356,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,17474687,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,71213827,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,18842284,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,1278407,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,278377928,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,1025159,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,5138858998,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6733763,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,10101693,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,195240,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,48261,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,374218,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,207,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5582911,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,259537,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8926,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,37903,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,34809,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,130743,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3257544886,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,7538213,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,575529,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3468,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,50823,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,27918,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,366975,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,37750,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2528038087,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5540310,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,84320,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,105220,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,36887,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,139731,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,9886,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,2154,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6314397,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1576728,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,5964,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,23121,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,221377,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,106159,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2603690527,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,23890,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3047969602,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5965499,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,17466,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,41059,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,67300,,,0
+HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,109949,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,2601036421,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,57565,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,3130348079,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,6029281,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,100139,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,7927,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,105326,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,47046,,,0
+HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,104189,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,330,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,0,,4690440463,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,5207121,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,5416726,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,50,Silk,,,,,,,0,,3031,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,65544,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,46242,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,398782,,,0

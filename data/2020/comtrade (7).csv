@@ -1,0 +1,578 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1228715,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,31192834,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,52106118,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,13645958,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,348087,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,8877593,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1068734,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,116530185,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9372736,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,233114,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,116071,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,98550733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,9570158,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9936279,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,259344,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,2397100,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4533089,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,101394911,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,30444,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,128921,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,131623,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,267979,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19801382,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,212214,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3426798,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,541305,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1129631,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,186524,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,132171,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,453640,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4533104,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,66490295,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9872497,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1287030,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,54712773,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,705693,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3949897,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,36916726,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1040061,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,87036,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,19065159,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,395808,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16769902,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9303008,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,9188665,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,10681540,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8333172,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,21426847,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,692306,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,9358213,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,37089477,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9758941,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,13066055,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,321378517,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,8018805,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,10265772,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,31894287,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,36752747,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7115332,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,927168,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11515240,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,36171123,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,302004720,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,37438749,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,6563656,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6681307,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,1394088,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10386490,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,6214104,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,80643511,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,21290378,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,48546822,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,132215236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,6576060,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7332328,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,53904248,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,47784236,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,77639175,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,34723867,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,69019869,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,8668504,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1248755,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,13701327,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,182909,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,99879274,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21515192,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,184610,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,991236,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,7433336,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8745158,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,60459984,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,25875144,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,84222113,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,41838172,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1197125,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,33750168,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,16690716,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1013385,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3866779,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,4239254,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,45446714,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,87317940,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,76132112,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,1982474,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3450405,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,7506413,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,716395,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,28571734,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,256111,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,84257,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,175653,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,,,,,,,0,,53778783,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,15305760,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,316221,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,845326,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,16071939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,50,Silk,,,,,,,0,,49386,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,43451748,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,12944999,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4272025,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,55599706,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,41962572,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,18286378,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,14159699,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,4445891,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,57701809,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1134939,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,79774021,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,27267725,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,38255306,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3940715,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,69305462,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,15204047,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,409321,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,11465121,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,50,Silk,,,,,,,0,,8181,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3586547,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,51557082,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3765708,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,556730,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,50,Silk,,,,,,,0,,9151,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,50,Silk,,,,,,,0,,98874,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,15746226,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,13084842,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,472529,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11181009,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,29171428,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,33393,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,25925537,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,88577469,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,91678274,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,30481302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,56941608,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,273244,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,31543063,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1974298,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,246966228,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,277662,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,54038938,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,28743595,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28277967,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,83676058,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3933551,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,184742319,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,26390921,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,54895455,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,86171998,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,331408,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,28291739,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,30553321,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,46594340,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,130617,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2765448,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,32590081,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,137739373,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8280927,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,25134924,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,,,10983965,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9209963,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,546886,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,783867,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,26024821,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,345165,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,10537652,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,45432631,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,439541,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1005904,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2583399,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,737042,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10022417,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52135907,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,8181147,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,2769976,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9414740,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,59439368,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,665326,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,26043761,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,739307,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,623166,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,886932,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,818602,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,52236289,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,7495387,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,15227541,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,98675270,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,400300,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,40094933,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,235892,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4999873,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,11936521,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24094773,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,86573680,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,335986,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,27944653,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,10008480,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,198507,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,84618211,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23277679,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,235314,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,6141166,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,56898882,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,225908,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,277179,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,10277399,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,,,26365701,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,12549691,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,103031954,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,24828023,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,3761667,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,5992523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,11424254,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2137072,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,17149512,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4310035,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5779482,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,13357194,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6243708,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,969793,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,270493,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,16095967,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,9824219,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,6244654,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2476814,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,8150116,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,944302,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,4685095,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,206172,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,22508825,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,1085574,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5975687,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,7993399,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,173711,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,8287645,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11761065,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,16786442,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,9605150,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,339184,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,268930869,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,269188512,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,16509671,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,38389964,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,8532188,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,19282668,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,10642543,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,28465819,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,8193359,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,6624217,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,9482150,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,907637,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,,,203640412,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",,,,,,,0,,197243549,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,70,Glass and glassware,,,,,,,0,,23399502,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,,,,,,,0,,9461845,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",,,,,,,0,,12533565,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,07,Vegetables and certain roots and tubers; edible,,,,,,,0,,11965749,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",,,,,,,0,,7183008,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",,,,,,,0,,7512889,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,57,Carpets and other textile floor coverings,,,,,,,0,,308652,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,553138,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12092646,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2666644,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,191704,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,17397952,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,227601411,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,12984130,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,67852067,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,17378273,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,204239630,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,312708,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5852572,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,68037432,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1680664,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,224896618,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,11314671,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,4864466,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,65651419,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,332729,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,26472337,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1550740,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2783820,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,1287033,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,4037548,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,38882322,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,40389,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7368400,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,15805717,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,67325365,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,108948,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,20123477,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9502756,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,1193443,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,327911,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,9936827,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,3071417,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,2125457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,283160,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",,,,,,,0,,2733381,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,65,Headgear and parts thereof,,,,,,,0,,380437,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",,,,,,,0,,469808,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",,,,,,,0,,16691071,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,17,Sugars and sugar confectionery,,,,,,,0,,7487470,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",,,,,,,0,,59317064,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,,,,,,,0,,105700,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,45,Cork and articles of cork,,,,,,,0,,85840,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,15251082,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,9477845,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",,,,,,,0,,60530085,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",,,,,,,0,,48913,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,05,Animal originated products; not elsewhere specified or included,,,,,,,0,,985810,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",,,,,,,0,,12610815,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,55,Man-made staple fibres,,,,,,,0,,6974845,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,,,,,,,0,,35403,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",,,,,,,0,,3152611,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,41118161,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,49555762,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,,,,,,,0,,45201739,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,96,Miscellaneous manufactured articles,,,,,,,0,,3163736,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,38,Chemical products n.e.s.,,,,,,,0,,34990993,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,50,Silk,,,,,,,0,,15722,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,43,Furskins and artificial fur; manufactures thereof,,,,,,,0,,1321395,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,78,Lead and articles thereof,,,,,,,0,,10706276,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,24,Tobacco and manufactured tobacco substitutes,,,,,,,0,,11987656,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,22930073,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,7066707,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,10712044,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8856863,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,20672438,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,16791644,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,28,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,33522037,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,165733,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,3195600,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11996109,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,4049136,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,37627014,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15831595,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,164622,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,3219835,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,15294161,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,33775602,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,16828,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5247789,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,8100292,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,22812899,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,9069345,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,1353388,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,704726,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8908851,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,537845,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8694140,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,17300661,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,27169017,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,59359003,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,495011,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,439774,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,666443,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,346350,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,40410227,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,29,Organic chemicals,,,,,,,0,,5777200,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,37,Photographic or cinematographic goods,,,,,,,0,,526237,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,89,"Ships, boats and floating structures",,,,,,,0,,1898019,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",,,,,,,0,,514783,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",,,,,,,0,,16112765,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7819632,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,44737520,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",,,,,,,0,,756689,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12158523,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,243389675,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,11092895,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2354507,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,,,30886167,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,2981152,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,218698554,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,17661350,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9010766,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,14575915,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,3636084,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36219726,,,0
+HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,50642062,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,16729817,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,49829500,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,4945754,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,36270537,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2312322,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,211865499,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12054303,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,46634496,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2500363,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,14920999,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,49812481,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,11350758,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,16137933,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,15020132,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,27246803,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2193973,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,20320382,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4837149,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,8011924,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,780191,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,59523457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,27110663,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,89879851,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,21482215,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,65704517,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,11815522,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,56183,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,23398002,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,17923609,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,154713000,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,11907,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,5992821,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,0,,1064701,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,7191806,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,91,Clocks and watches and parts thereof,,,,,,,,,447223,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,,,,,,,0,,38109720,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",,,,,,,0,,4253901,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,75,Nickel and articles thereof,,,,,,,0,,759,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",,,,,,,0,,2862692,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,10,Cereals,,,,,,,0,,152925641,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,22,"Beverages, spirits and vinegar",,,,,,,0,,22932227,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,26,"Ores, slag and ash",,,,,,,0,,98399424,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,18,Cocoa and cocoa preparations,,,,,,,0,,16229669,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,33468286,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,86710839,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,51088346,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,4946,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,1591817,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,3649988,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,502625,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,98119,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,28594001,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,32882967,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,55315564,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,264431,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,32102002,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,0,,23317937,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,77141477,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",,,,,,,,,93123326,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,44,Wood and articles of wood; wood charcoal,,,,,,,,,20874577,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,73,Iron or steel articles,,,,,,,0,,45324918,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,39,Plastics and articles thereof,,,,,,,0,,76732371,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",,,,,,,0,,27371648,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,01,Animals; live,,,,,,,0,,2693230,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,80,Tin; articles thereof,,,,,,,0,,17761,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,92,Musical instruments; parts and accessories of such articles,,,,,,,0,,239507,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",,,,,,,0,,28614817,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,186603,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,4206025,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,10941332,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,7663773,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,207860,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,168625,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,62649465,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,56783629,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,11916287,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,40026415,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,23877228,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,88101811,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,30,Pharmaceutical products,,,,,,,0,,110282101,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,54,Man-made filaments,,,,,,,0,,2079673,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",,,,,,,0,,26894728,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",,,,,,,0,,14165342,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,99,Commodities not specified according to kind,,,,,,,0,,45205389,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,79,Zinc and articles thereof,,,,,,,0,,10963570,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",,,,,,,0,,183584,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",,,,,,,0,,62211,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,19328015,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",,,,,,,0,,9684560,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,82754,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,16175179,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2744579,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,105531,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,10656638,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,3305161,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5750952,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2597677,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5788123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,886189,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2642953,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,11374457,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,902544,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,81,"Metals; n.e.s., cermets and articles thereof",,,,,,,0,,986767,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,,,,,,,0,,11753856,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",,,,,,,0,,5970328,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",,,,,,,0,,8722,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,02,Meat and edible meat offal,,,,,,,0,,6631692,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,52,Cotton,,,,,,,0,,2682591,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",,,,,,,0,,5844649,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,5269055,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,2904233,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,46502421,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,212959068,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,52015412,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,7422009,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,494349,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,23762342,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,11910795,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,1229274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,181565,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,180979166,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,11009243,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",,,,,,,0,,30745709,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",,,,,,,0,,170868629,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",,,,,,,0,,2148184,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,41,Raw hides and skins (other than furskins) and leather,,,,,,,0,,309330,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,21,Miscellaneous edible preparations,,,,,,,0,,10122445,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,,,,,,,0,,660356,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,31,Fertilizers,,,,,,,0,,11239855,,,0
+HS,2020,202006,June 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8584112,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,123,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,14482629,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,32940903,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2657887,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,61919,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8078637,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5131441,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,25308564,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,11558442,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2303096,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,6187987,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,20753613,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,10492625,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8285519,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,9485169,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,2680169,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,84853,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,65,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,29130274,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,10809332,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,93,Arms and ammunition; parts and accessories thereof,,,,,,,0,,17,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,83,Metal; miscellaneous products of base metal,,,,,,,0,,8888981,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,97,Works of art; collectors' pieces and antiques,,,,,,,0,,50885,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,09,"Coffee, tea, mate and spices",,,,,,,0,,8417943,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",,,,,,,0,,21013221,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard,,,,,,,0,,5645547,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster",,,,,,,0,,16723242,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,76,Aluminium and articles thereof,,,,,,,0,,31146491,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",,,,,,,0,,1961626,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,7409155,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,13846713,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,9304656,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,2328860,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,199253535,,,0
+HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,215492871,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,8129116,,,0
+HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,10897461,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,34529097,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,18604049,,,0
+HS,2020,202005,May 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,947476,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",,,,,,,0,,34375369,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,40,Rubber and articles thereof,,,,,,,0,,10879621,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,207810109,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,88,"Aircraft, spacecraft and parts thereof",,,,,,,0,,911530,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,69,Ceramic products,,,,,,,0,,9984751,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",,,,,,,0,,12174208,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",,,,,,,0,,6645563,,,0
+HS,2020,202004,April 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,60,Fabrics; knitted or crocheted,,,,,,,0,,1304148,,,0
